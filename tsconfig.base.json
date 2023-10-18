@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@axim-anahnu/content": ["libs/content/src/index.ts"],
+      "@axim-anahnu/common/environment": [
+        "libs/common/src/environment/index.ts"
+      ],
       "@axim-anahnu/content/content": ["libs/content/src/content/index.ts"],
       "@axim-anahnu/content/description": [
         "libs/content/src/description/index.ts"
