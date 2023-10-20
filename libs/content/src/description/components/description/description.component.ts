@@ -6,7 +6,7 @@ import { TranslocoModule } from '@ngneat/transloco';
   standalone: true,
   imports: [TranslocoModule],
   template: `
-    <ng-container *transloco="let t;">
+    <ng-container *transloco="let t; read 'content'">
       {{t('hello')}}
     </ng-container>
   `,

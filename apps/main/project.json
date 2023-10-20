@@ -21,7 +21,12 @@
         "tsConfig": "apps/main/tsconfig.app.json",
         "assets": [
           "apps/main/src/favicon.ico",
-          "apps/main/src/assets"
+          "apps/main/src/assets",
+          {
+            "glob": "**/*",
+            "input": "./i18n/",
+            "output": "./i18n/"
+          }
         ],
         "styles": [
           "apps/main/src/styles.scss"

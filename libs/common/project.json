@@ -45,7 +45,9 @@
           "libs/common/**/*.html",
           "libs/common/package.json",
           "libs/common/environment/**/*.ts",
-          "libs/common/environment/**/*.html"
+          "libs/common/environment/**/*.html",
+          "libs/common/src/transloco/**/*.ts",
+          "libs/common/src/transloco/**/*.html"
         ]
       }
     }

@@ -6,7 +6,8 @@
     "dev:ssr": "nx run main:serve-ssr",
     "serve:ssr": "node dist/main/server/main.js",
     "build:ssr": "nx build && ng run main:server",
-    "prerender": "nx run main:prerender"
+    "prerender": "nx run main:prerender",
+    "transloco:extract-scoped-libs": "transloco-scoped-libs"
   },
   "private": true,
   "dependencies": {
