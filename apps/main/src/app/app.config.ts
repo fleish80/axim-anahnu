@@ -7,7 +7,7 @@ import { appRoutes } from './app.routes';
 import { provideClientHydration } from '@angular/platform-browser';
 import { provideHttpClient } from '@angular/common/http';
 import { TranslocoHttpLoader } from './transloco-loader';
-import { provideTransloco } from '@ngneat/transloco';
+import { provideTransloco, provideTranslocoScope } from '@ngneat/transloco';
 import { environment } from '../environments/environment';
 import { ENVIRONMENT } from '@axim-anahnu/common/environment';
 
@@ -26,6 +26,7 @@ export const appConfig: ApplicationConfig = {
       },
       loader: TranslocoHttpLoader,
     }),
+    provideTranslocoScope('content'),
     { provide: ENVIRONMENT, useValue: environment },
   ],
 };
