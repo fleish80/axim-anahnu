@@ -1,1 +1,1 @@
-export * from './src/lib/src/transloco.module';
+export * from './providers/transloco.provider';
