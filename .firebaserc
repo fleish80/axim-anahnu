@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "axim-anahnu": {
+      "hosting": {
+        "main": [
+          "axim-anahnu"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "axim-anahnu"
+  }
+}

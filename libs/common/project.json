@@ -1,7 +1,7 @@
 {
   "name": "common",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/common/src",
+  "sourceRoot": "libs/common",
   "prefix": "axim-anahnu",
   "tags": [],
   "projectType": "library",
@@ -46,8 +46,8 @@
           "libs/common/package.json",
           "libs/common/environment/**/*.ts",
           "libs/common/environment/**/*.html",
-          "libs/common/src/transloco/**/*.ts",
-          "libs/common/src/transloco/**/*.html"
+          "libs/common/transloco/**/*.ts",
+          "libs/commonrc/transloco/**/*.html"
         ]
       }
     }

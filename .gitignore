@@ -41,3 +41,7 @@ Thumbs.db
 .angular
 
 /i18n/content
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json

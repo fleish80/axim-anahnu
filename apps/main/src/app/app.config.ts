@@ -1,5 +1,5 @@
 import { provideHttpClient } from '@angular/common/http';
-import { ApplicationConfig } from '@angular/core';
+import { ApplicationConfig, importProvidersFrom } from '@angular/core';
 import { provideClientHydration } from '@angular/platform-browser';
 import {
   provideRouter,
@@ -9,6 +9,8 @@ import { ENVIRONMENT } from '@axim-anahnu/common/environment';
 import { provideAATransloco } from '@axim-anahnu/common/transloco';
 import { environment } from '../environments/environment';
 import { appRoutes } from './app.routes';
+import { provideFirestore, getFirestore } from '@angular/fire/firestore';
+import { initializeApp, provideFirebaseApp } from '@angular/fire/app';
 
 
 export const appConfig: ApplicationConfig = {
@@ -18,5 +20,9 @@ export const appConfig: ApplicationConfig = {
     provideHttpClient(),
     provideAATransloco(['en', 'he'], 'he', '/i18n/{{language}}.json', ['content']),
     { provide: ENVIRONMENT, useValue: environment },
+    importProvidersFrom(
+      provideFirebaseApp(() => initializeApp(environment.firebase)),
+      provideFirestore(() => getFirestore())
+    )
   ],
 };

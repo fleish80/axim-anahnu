@@ -11,7 +11,7 @@ export class TranslocoHttpLoaderService implements TranslocoLoader {
   #languageUrlToken = inject(LANGUAGE_URL);
 
   getTranslation(lang: string) {
-      const languageUrl = `${this.#environment.baseUrl}/${this.#languageUrlToken.replace(/{{language}}/g, lang)}`;
+      const languageUrl = `${this.#environment.baseUrl}${this.#languageUrlToken.replace(/{{language}}/g, lang)}`;
       return this.#http.get<Translation>(languageUrl);
   }
 }

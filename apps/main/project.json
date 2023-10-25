@@ -171,6 +171,15 @@
         }
       },
       "defaultConfiguration": "production"
+    },
+    "deploy": {
+      "executor": "@angular/fire:deploy",
+      "options": {
+        "version": 2,
+        "browserTarget": "main:build:production",
+        "serverTarget": "main:server:production",
+        "prerenderTarget": "main:prerender:production"
+      }
     }
   }
 }

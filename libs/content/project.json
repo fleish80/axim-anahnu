@@ -1,7 +1,7 @@
 {
   "name": "content",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/content/src",
+  "sourceRoot": "libs/content",
   "prefix": "aa",
   "tags": [],
   "projectType": "library",
