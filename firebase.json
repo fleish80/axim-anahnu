@@ -1,11 +1,17 @@
+
 {
-  "hosting": [
-    {
-      "target": "main",
-      "source": ".",
-      "frameworksBackend": {
-        "region": "europe-west1"
+  "hosting": {
+    "public": "dist/main/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
       }
-    }
-  ]
+    ]
+  }
 }
