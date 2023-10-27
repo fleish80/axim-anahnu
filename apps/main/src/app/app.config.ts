@@ -11,6 +11,7 @@ import { environment } from '../environments/environment';
 import { appRoutes } from './app.routes';
 import { provideFirestore, getFirestore } from '@angular/fire/firestore';
 import { initializeApp, provideFirebaseApp } from '@angular/fire/app';
+import { AngularFireModule } from '@angular/fire/compat';
 
 
 export const appConfig: ApplicationConfig = {
@@ -22,7 +23,8 @@ export const appConfig: ApplicationConfig = {
     { provide: ENVIRONMENT, useValue: environment },
     importProvidersFrom(
       provideFirebaseApp(() => initializeApp(environment.firebase)),
-      provideFirestore(() => getFirestore())
+      provideFirestore(() => getFirestore()),
+      AngularFireModule.initializeApp(environment.firebase)
     )
   ],
 };
