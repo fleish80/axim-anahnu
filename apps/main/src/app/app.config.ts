@@ -12,6 +12,7 @@ import { appRoutes } from './app.routes';
 import { provideFirestore, getFirestore } from '@angular/fire/firestore';
 import { initializeApp, provideFirebaseApp } from '@angular/fire/app';
 import { AngularFireModule } from '@angular/fire/compat';
+import { provideAnimations } from '@angular/platform-browser/animations';
 
 
 export const appConfig: ApplicationConfig = {
@@ -21,10 +22,7 @@ export const appConfig: ApplicationConfig = {
     provideHttpClient(),
     provideAATransloco(['en', 'he'], 'he', '/i18n/{{language}}.json', ['content']),
     { provide: ENVIRONMENT, useValue: environment },
-    importProvidersFrom(
-      provideFirebaseApp(() => initializeApp(environment.firebase)),
-      provideFirestore(() => getFirestore()),
-      AngularFireModule.initializeApp(environment.firebase)
-    )
-  ],
+    importProvidersFrom(provideFirebaseApp(() => initializeApp(environment.firebase)), provideFirestore(() => getFirestore()), AngularFireModule.initializeApp(environment.firebase)),
+    provideAnimations()
+],
 };
