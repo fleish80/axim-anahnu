@@ -20,7 +20,7 @@ export const appConfig: ApplicationConfig = {
     provideRouter(appRoutes, withEnabledBlockingInitialNavigation()),
     provideClientHydration(),
     provideHttpClient(),
-    provideAATransloco(['en', 'he'], 'he', '/i18n/{{language}}.json', ['content']),
+    provideAATransloco(['en', 'he'], 'he', '/i18n/{{language}}.json', ['content'], {'en': 'ltr', 'he': 'rtl'}),
     { provide: ENVIRONMENT, useValue: environment },
     importProvidersFrom(provideFirebaseApp(() => initializeApp(environment.firebase)), provideFirestore(() => getFirestore()), AngularFireModule.initializeApp(environment.firebase)),
     provideAnimations()

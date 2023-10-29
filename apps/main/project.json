@@ -24,7 +24,7 @@
             "output": "./i18n/"
           }
         ],
-        "styles": ["apps/main/src/styles.scss"],
+        "styles": ["styles/styles.scss"],
         "scripts": []
       },
       "configurations": {

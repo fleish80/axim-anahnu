@@ -45,7 +45,11 @@
           "libs/content/**/*.html",
           "libs/content/package.json",
           "libs/content/description/**/*.ts",
-          "libs/content/description/**/*.html"
+          "libs/content/description/**/*.html",
+          "libs/content/history/**/*.ts",
+          "libs/content/history/**/*.html",
+          "libs/content/source/**/*.ts",
+          "libs/content/source/**/*.html"
         ]
       }
     }

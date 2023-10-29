@@ -1,8 +1,9 @@
-import { Component, inject } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import { Component, HostBinding, Renderer2, inject } from '@angular/core';
+import { MatButtonModule } from '@angular/material/button';
 import { RouterOutlet } from '@angular/router';
-import { AngularFirestore } from '@angular/fire/compat/firestore';
-import { Firestore, collection, getDocs, query } from '@angular/fire/firestore';
-import {MatButtonModule} from '@angular/material/button';
+import { CURRENT_DIRECTION } from '@axim-anahnu/common/transloco';
+import { TRANSLOCO_LANG, TranslocoService } from '@ngneat/transloco';
 
 @Component({
   standalone: true,
@@ -10,7 +11,7 @@ import {MatButtonModule} from '@angular/material/button';
   selector: 'aa-root',
   template: `
 
-<section>
+<!-- <section>
   <div class="example-label">Raised</div>
   <div class="example-button-row">
     <button mat-raised-button>Basic</button>
@@ -20,7 +21,7 @@ import {MatButtonModule} from '@angular/material/button';
     <button mat-raised-button disabled>Disabled</button>
     <a mat-raised-button href="https://www.google.com/" target="_blank">Link</a>
   </div>
-</section>
+</section> -->
 
 
   <router-outlet/>`,
@@ -28,18 +29,29 @@ import {MatButtonModule} from '@angular/material/button';
 })
 export class AppComponent {
 
-  #angularFirestore = inject(AngularFirestore);
-  #firestore = inject(Firestore);
+  #currentDirection = inject(CURRENT_DIRECTION);
+  #translocoService = inject(TranslocoService);
+  #renderer = inject(Renderer2);
+  #document = inject(DOCUMENT);
+
 
   constructor() {
-    this.#angularFirestore.collection('he').valueChanges().subscribe((value: any) => console.log('value from firestore', value[0].description));
-
-    this.getRobots();
+    this.#renderer.setAttribute(this.#document.querySelector('html'), 'dir', this.#currentDirection);
+    this.#renderer.setAttribute(this.#document.querySelector('html'), 'lang', this.#translocoService.getActiveLang());
   }
 
-  async getRobots() {
-    // return (
-     const docs = (await getDocs(query(collection(this.#firestore, 'he')))).docs.map(robots => robots.data());
-     console.log('docs', docs);
-   }
+  // #angularFirestore = inject(AngularFirestore);
+  // #firestore = inject(Firestore);
+
+  // constructor() {
+  //   this.#angularFirestore.collection('he').valueChanges().subscribe((value: any) => console.log('value from firestore', value[0].description));
+
+  //   this.getRobots();
+  // }
+
+  // async getRobots() {
+  //   // return (
+  //    const docs = (await getDocs(query(collection(this.#firestore, 'he')))).docs.map(robots => robots.data());
+  //    console.log('docs', docs);
+  //  }
 }

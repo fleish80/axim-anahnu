@@ -18,7 +18,9 @@
       "@axim-anahnu/common/environment": ["libs/common/environment/index.ts"],
       "@axim-anahnu/common/transloco": ["libs/common/transloco/index.ts"],
       "@axim-anahnu/content/content": ["libs/content/content/index.ts"],
-      "@axim-anahnu/content/description": ["libs/content/description/index.ts"]
+      "@axim-anahnu/content/description": ["libs/content/description/index.ts"],
+      "@axim-anahnu/content/history": ["libs/content/history/index.ts"],
+      "@axim-anahnu/content/source": ["libs/content/source/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
