@@ -1,5 +1,32 @@
 :host {
+    // position: relative;
+
+    // &:before {
+    //     content: ' ';
+    //     display: block;
+    //     position: absolute;
+    //     left: 0;
+    //     top: 0;
+    //     width: 100%;
+    //     height: 100%;
+    //     opacity: 0.4;
+    //     background-image: url('/images/flag-1.jpeg');
+    //     background-repeat: no-repeat;
+    //     background-size: 100% 100%;
+    // }
+
+}
+
+.article {
+    color: var(--primary-color-900);
     position: relative;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 20px;
+    padding-inline: 20px;
+    padding-block-end: 20px;
+    z-index: 1;
+    font-weight: bolder;
 
     &:before {
         content: ' ';
@@ -9,17 +36,13 @@
         top: 0;
         width: 100%;
         height: 100%;
-        opacity: 0.4;
+        opacity: 0.2;
         background-image: url('/images/flag-1.jpeg');
         background-repeat: no-repeat;
         background-size: 100% 100%;
+        z-index: -1;
     }
 
-}
-
-.article {
-    color: var(--primary-color-900);
-    position: relative;
 }
 
 .article-title {

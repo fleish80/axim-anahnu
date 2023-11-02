@@ -7,7 +7,7 @@ import { TranslocoModule } from '@ngneat/transloco';
   imports: [TranslocoModule],
   template: `
     <ng-container *transloco="let t; read 'content'">
-      <article class="article" color="primary">
+      <article class="mat-elevation-z10 content article" color="primary">
         <h2 class="article-title">{{t('article.title')}}</h2>
         <p class="article-paragraph">{{t('article.paragraph.0')}}</p>
         <p class="article-paragraph">{{t('article.paragraph.1')}}</p>
