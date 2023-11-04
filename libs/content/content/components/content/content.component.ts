@@ -1,10 +1,11 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { DescriptionComponent } from '@axim-anahnu/content/description';
 import { HistoryComponent } from '@axim-anahnu/content/history';
 import { SourceComponent } from '@axim-anahnu/content/source';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { TranslocoModule } from '@ngneat/transloco';
+import { ContentService } from '../../service/content/content.service';
 
 @Component({
   selector: 'aa-content',
@@ -32,4 +33,8 @@ import { TranslocoModule } from '@ngneat/transloco';
   ],
   imports: [DescriptionComponent, HistoryComponent, SourceComponent, MatToolbarModule, MatButtonModule, TranslocoModule]
 })
-export class ContentComponent { }
+export class ContentComponent { 
+
+  #content = inject(ContentService)
+
+}
