@@ -35,6 +35,6 @@ import { ContentService } from '../../service/content/content.service';
 })
 export class ContentComponent { 
 
-  #content = inject(ContentService)
+  #content = inject(ContentService);
 
 }
