@@ -5,7 +5,7 @@ import { SourceComponent } from '@axim-anahnu/content/source';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { TranslocoModule } from '@ngneat/transloco';
-import { ContentService } from '../../service/content/content.service';
+import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
 
 @Component({
   selector: 'aa-content',
@@ -35,6 +35,6 @@ import { ContentService } from '../../service/content/content.service';
 })
 export class ContentComponent { 
 
-  #content = inject(ContentService);
+  #content = inject(YoutubeSourceService);
 
 }
