@@ -5,7 +5,7 @@ import { SourceComponent } from '@axim-anahnu/content/source';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { TranslocoModule } from '@ngneat/transloco';
-import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
+import { YoutubeSourceService } from '../../../source/service/youtube-source/youtube-source.service';
 
 @Component({
   selector: 'aa-content',
