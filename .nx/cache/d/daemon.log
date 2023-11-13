@@ -158,3 +158,9 @@
 [NX Daemon Server] - 2023-11-12T07:33:38.260Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2023-11-12T07:33:38.757Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2023-11-12T07:33:38.932Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-13T20:31:32.196Z - Started listening on: \\.\pipe\nx\C:\Users\Yana\AppData\Local\Temp\a9681f457adc9b822448\d.sock
+[NX Daemon Server] - 2023-11-13T20:31:32.203Z - [WATCHER]: Subscribed to changes within: c:\dev\axim-anahnu (native)
+[NX Daemon Server] - 2023-11-13T20:31:32.205Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-13T20:31:32.209Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-13T20:31:32.210Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-13T20:31:32.643Z - [REQUEST]: Client Request for Project Graph Received

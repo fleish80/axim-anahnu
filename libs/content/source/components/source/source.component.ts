@@ -1,6 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import {YouTubePlayerModule} from '@angular/youtube-player';
+import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
 
 let apiLoaded = false;
 
@@ -12,10 +13,17 @@ let apiLoaded = false;
   <youtube-player videoId="PRQCAL_RMVo"/>
   
   <youtube-player videoId="xWx3R7WaAQY"/>
+
+
+{{item$ | async | json}}
+
   `,
   styles: [],
 })
 export class SourceComponent implements OnInit {
+
+  #youtubeSourceService = inject(YoutubeSourceService);
+  item$ = this.#youtubeSourceService.getYoutubeSources();
 
   ngOnInit() {
     if (!apiLoaded) {

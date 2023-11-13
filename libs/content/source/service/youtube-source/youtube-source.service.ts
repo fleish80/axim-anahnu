@@ -1,5 +1,7 @@
 import { Injectable, inject } from '@angular/core';
-import { Firestore, doc, getDoc } from '@angular/fire/firestore';
+import { Firestore, doc, docData } from '@angular/fire/firestore';
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
 import { YoutubeSourceModel } from '../../models/youtube-source.model';
 
 @Injectable({
@@ -8,11 +10,10 @@ import { YoutubeSourceModel } from '../../models/youtube-source.model';
 export class YoutubeSourceService {
 
   #firestore = inject(Firestore);
-
-  async getYoutubeSources(): Promise<YoutubeSourceModel[]> {
-    const docSnap = await getDoc(doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF'));
-    const data = docSnap.data() as { source: YoutubeSourceModel[] };
-    return data.source;
+  
+  getYoutubeSources(): Observable<YoutubeSourceModel[]> {
+    const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF');
+    return docData(itemCollection).pipe(map((doc) => doc?.['sources']));
   }
 }
 

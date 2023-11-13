@@ -1,0 +1,1478 @@
+[1m[33mOption "browserTarget" is deprecated: Use 'buildTarget' instead.[39m[22m
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m                       [2m | [22mvendor                     [2m | [22m  [96m5.01 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m                    [2m | [22mpolyfills                  [2m | [22m[96m333.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m           [2m | [22mstyles                     [2m | [22m[96m308.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                         [2m | [22mmain                       [2m | [22m [96m17.96 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                               [2m | [22m[1mInitial Total[22m              [2m | [22m  [1m5.67 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m [96m57.14 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:01:01.831Z[39m[37m[22m - Hash: [1m[37m5da347b0b58038ff[39m[37m[22m - Time: [1m[37m12103[39m[37m[22mms[0m[39m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:01:03.913Z[39m[37m[22m - Hash: [1m[37m5da347b0b58038ff[39m[37m[22m - Time: [1m[37m1207[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m61.88 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:01:46.582Z[39m[37m[22m - Hash: [1m[37mc086665ce0fd69f3[39m[37m[22m - Time: [1m[37m7579[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (12:31)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 10 |[39m[31m     [90m// }[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 12 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m [33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mdo[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 14 |[39m[31m             ([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m         [36mwhile[39m[31m ()[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m19[0m:[93m28[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m     const itemCollection = do(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF');[39m[22m
+[1m[31m[7m  [0m [91m                           ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m'while' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return collectionData(itemCollection);[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.08 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:01:47.965Z[39m[37m[22m - Hash: [1m[37m8fc640ea879f0d05[39m[37m[22m - Time: [1m[37m963[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m19[0m:[93m28[0m - [91merror[0m[90m TS2349: [0mThis expression is not callable.[39m[22m
+[1m[31m  Type 'Document' has no call signatures.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m     const itemCollection = document(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF');[39m[22m
+[1m[31m[7m  [0m [91m                           ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:03:07.718Z[39m[37m[22m - Hash: [1m[37m4f363338948129dc[39m[37m[22m - Time: [1m[37m1781[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m27[0m - [91merror[0m[90m TS2345: [0mArgument of type 'DocumentReference<DocumentData, DocumentData>' is not assignable to parameter of type 'Query<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Types of property 'type' are incompatible.[39m[22m
+[1m[31m    Type '"document"' is not assignable to type '"query" | "collection"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return collectionData(itemCollection);[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:03:27.261Z[39m[37m[22m - Hash: [1m[37md0d235405897c2b0[39m[37m[22m - Time: [1m[37m2005[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'docData'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection);[39m[22m
+[1m[31m[7m  [0m [91m           ~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:03:29.876Z[39m[37m[22m - Hash: [1m[37md4184d855f04ebff[39m[37m[22m - Time: [1m[37m1009[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:04:13.615Z[39m[37m[22m - Hash: [1m[37md0222ca929003ddd[39m[37m[22m - Time: [1m[37m3422[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m19[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'col'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m     const itemCollection = col(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF');[39m[22m
+[1m[31m[7m  [0m [91m                           ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:04:16.157Z[39m[37m[22m - Hash: [1m[37m86a40c5fe9565e21[39m[37m[22m - Time: [1m[37m1509[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type 'CollectionReference<DocumentData, DocumentData>' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Types of property 'type' are incompatible.[39m[22m
+[1m[31m    Type '"collection"' is not assignable to type '"document"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection);[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.14 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:04:19.577Z[39m[37m[22m - Hash: [1m[37m8be57679de1b090f[39m[37m[22m - Time: [1m[37m1137[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type 'CollectionReference<DocumentData, DocumentData>' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Types of property 'type' are incompatible.[39m[22m
+[1m[31m    Type '"collection"' is not assignable to type '"document"'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection);[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.08 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:04:49.877Z[39m[37m[22m - Hash: [1m[37m5da17e21bc1c5c39[39m[37m[22m - Time: [1m[37m1848[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'c'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return c(itemCollection);[39m[22m
+[1m[31m[7m  [0m [91m           ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:04:51.489Z[39m[37m[22m - Hash: [1m[37m48ebb839766331ad[39m[37m[22m - Time: [1m[37m1111[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:04:53.098Z[39m[37m[22m - Hash: [1m[37m10ae64475ac401b9[39m[37m[22m - Time: [1m[37m1449[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:30.310Z[39m[37m[22m - Hash: [1m[37me0541795acc56bda[39m[37m[22m - Time: [1m[37m1414[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:36.058Z[39m[37m[22m - Hash: [1m[37mafccb36c891b4225[39m[37m[22m - Time: [1m[37m1193[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map);[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [0m [96m            ~~~[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.14 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:36.830Z[39m[37m[22m - Hash: [1m[37mde992f02e3b4abad[39m[37m[22m - Time: [1m[37m588[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map());[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [0m [96m            ~~~[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m62.96 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:42.867Z[39m[37m[22m - Hash: [1m[37m45dbdcacac26b19f[39m[37m[22m - Time: [1m[37m919[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (13:54)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 13 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map(doc [33m=[39m[31m ))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                       [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 14 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc =));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [0m [96m            ~~~[39m[22m[1m[31m[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m45[0m - [91merror[0m[90m TS2632: [0mCannot assign to 'doc' because it is an import.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc =));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m50[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc =));[39m[22m
+[1m[31m[7m  [0m [91m                                                 ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:46.470Z[39m[37m[22m - Hash: [1m[37m0e2d95b15996e898[39m[37m[22m - Time: [1m[37m601[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (13:59)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 13 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map(doc [33m=>[39m[31m doc[33m.[39m[31m))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                            [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 14 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [39m[22m[1m[31m[0m [96m            ~~~[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m45[0m - [91merror[0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m56[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.));[39m[22m
+[1m[31m[7m  [0m [91m                                                       ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:48.341Z[39m[37m[22m - Hash: [1m[37ma1efaaf4d3db9d56[39m[37m[22m - Time: [1m[37m685[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.so));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [0m [96m            ~~~[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m45[0m - [91merror[0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.so));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:06:53.877Z[39m[37m[22m - Hash: [1m[37m74a6142427ad82f6[39m[37m[22m - Time: [1m[37m542[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.sources));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [0m [96m            ~~~[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m45[0m - [91merror[0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.sources));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:00.632Z[39m[37m[22m - Hash: [1m[37m7405345c1e924089[39m[37m[22m - Time: [1m[37m760[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m41[0m - [91merror[0m[90m TS2552: [0mCannot find name 'map'. Did you mean 'Map'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.sources));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.es2015.collection.d.ts[0m:[93m54[0m:[93m13[0m[39m[22m
+[1m[31m    [7m54[0m declare var Map: MapConstructor;[39m[22m
+[1m[31m    [7m  [0m [96m            ~~~[0m[39m[22m
+[1m[31m    'Map' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m45[0m - [91merror[0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     return docData(itemCollection).pipe(map(doc => doc.sources));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:09.273Z[39m[37m[22m - Hash: [1m[37mcb04b198c460be7f[39m[37m[22m - Time: [1m[37m979[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m52[0m - [91merror[0m[90m TS18048: [0m'doc' is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc.sources));[39m[22m
+[1m[31m[7m  [0m [91m                                                   ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m56[0m - [91merror[0m[90m TS4111: [0mProperty 'sources' comes from an index signature, so it must be accessed with ['sources'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc.sources));[39m[22m
+[1m[31m[7m  [0m [91m                                                       ~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.31 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:13.913Z[39m[37m[22m - Hash: [1m[37m254bdc9d394ccf8a[39m[37m[22m - Time: [1m[37m970[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m63.00 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:19.761Z[39m[37m[22m - Hash: [1m[37m8a9454277dbed925[39m[37m[22m - Time: [1m[37m1684[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (14:59)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map(doc [33m=>[39m[31m doc[33m.[39m[31m))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                            [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m52[0m - [91merror[0m[90m TS18048: [0m'doc' is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc.));[39m[22m
+[1m[31m[7m  [0m [91m                                                   ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m56[0m - [91merror[0m[90m TS[39m[22m[1m[31m1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc.));[39m[22m
+[1m[31m[7m  [0m [91m                                                       ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m56[0m - [91merror[0m[90m TS4111: [0mProperty '' comes from an index signature, so it must be accessed with [''].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc.));[39m[22m
+[1m[31m[7m  [0m [91m                                                       [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:24.277Z[39m[37m[22m - Hash: [1m[37m5e3f1cbb638787ea[39m[37m[22m - Time: [1m[37m734[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m52[0m - [91merror[0m[90m TS18048: [0m'doc' is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc['sorces']));[39m[22m
+[1m[31m[7m  [0m [91m                                                   ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:30.655Z[39m[37m[22m - Hash: [1m[37m909b105ef00d2ea7[39m[37m[22m - Time: [1m[37m1218[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m63.03 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:32.020Z[39m[37m[22m - Hash: [1m[37mc57b9eff0a71cd93[39m[37m[22m - Time: [1m[37m850[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (14:59)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map(doc [33m=>[39m[31m doc[33m.[39m[31m[[32m'sorces'[39m[31m]))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                            [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m57[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc!.['sorces']));[39m[22m
+[1m[31m[7m  [0m [91m                                                        ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m57[0m -[39m[22m[1m[31m [91merror[0m[90m TS4111: [0mProperty '' comes from an index signature, so it must be accessed with [''].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc!.['sorces']));[39m[22m
+[1m[31m[7m  [0m [91m                                                        [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:36.832Z[39m[37m[22m - Hash: [1m[37mf609b3e241451795[39m[37m[22m - Time: [1m[37m937[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m63.03 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:38.855Z[39m[37m[22m - Hash: [1m[37mc57b9eff0a71cd93[39m[37m[22m - Time: [1m[37m1203[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (14:59)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map(doc [33m=>[39m[31m doc[33m.[39m[31m[[32m'sorces'[39m[31m]))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                            [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m57[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc!.['sorces']));[39m[22m
+[1m[31m[7m  [0m [91m                                                        ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m57[0m -[39m[22m[1m[31m [91merror[0m[90m TS4111: [0mProperty '' comes from an index signature, so it must be accessed with [''].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc!.['sorces']));[39m[22m
+[1m[31m[7m  [0m [91m                                                        [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:07:40.542Z[39m[37m[22m - Hash: [1m[37mc97302e76af01c25[39m[37m[22m - Time: [1m[37m761[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:07.752Z[39m[37m[22m - Hash: [1m[37m3c1af37f9a4bb1af[39m[37m[22m - Time: [1m[37m1141[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:24.905Z[39m[37m[22m - Hash: [1m[37mc97302e76af01c25[39m[37m[22m - Time: [1m[37m1149[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:27.053Z[39m[37m[22m - Hash: [1m[37md885b0da01c9cea6[39m[37m[22m - Time: [1m[37m835[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:28.171Z[39m[37m[22m - Hash: [1m[37mb56614dade5bf8c4[39m[37m[22m - Time: [1m[37m1005[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:46.661Z[39m[37m[22m - Hash: [1m[37m1d96ec2ee2057f21[39m[37m[22m - Time: [1m[37m824[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type '{}' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Type '{}' is missing the following properties from type 'DocumentReference<DocumentData, DocumentData>': converter, type, firestore, id, and 3 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:50.950Z[39m[37m[22m - Hash: [1m[37mae63c974d1e0cb69[39m[37m[22m - Time: [1m[37m1033[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m28[0m - [91merror[0m[90m TS2352: [0mConversion of type 'DocumentReference<DocumentData, DocumentData>' to type '{ sorces: any; }' may be a mistake because neither type sufficiently overlaps with the other. If this was intentional, convert the expression to 'unknown' first.[39m[22m
+[1m[31m  Property 'sorces' is missing in type 'DocumentReference<DocumentData, DocumentData>' but required in type '{ sorces: any; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: };[39m[22m
+[1m[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m83[0m[39m[22m
+[1m[31m    [7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: };[39m[22m
+[1m[31m    [7m  [0m [96m                                                                                  ~~~~~~[0m[39m[22m
+[1m[31m    'sorces' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m91[0m - [91merror[0m[90m TS1110: [0mType expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: };[39m[22m
+[1m[31m[7m  [0m [91m                                                                                          ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type '{ sorces: any; }' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Type '{ sorces: any; }' is missing the following properties from type 'DocumentReference<DocumentData, DocumentData>': converter, type, firestore, id, and 3 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(ite[39m[22m[1m[31mmCollection).pipe(map(doc => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:51.843Z[39m[37m[22m - Hash: [1m[37mfff43dbc4217ae5c[39m[37m[22m - Time: [1m[37m506[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m28[0m - [91merror[0m[90m TS2352: [0mConversion of type 'DocumentReference<DocumentData, DocumentData>' to type '{ sorces: you; }' may be a mistake because neither type sufficiently overlaps with the other. If this was intentional, convert the expression to 'unknown' first.[39m[22m
+[1m[31m  Property 'sorces' is missing in type 'DocumentReference<DocumentData, DocumentData>' but required in type '{ sorces: you; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: you};[39m[22m
+[1m[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m83[0m[39m[22m
+[1m[31m    [7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: you};[39m[22m
+[1m[31m    [7m  [0m [96m                                                                                  ~~~~~~[0m[39m[22m
+[1m[31m    'sorces' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m91[0m - [91merror[0m[90m TS2304: [0mCannot find name 'you'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: you};[39m[22m
+[1m[31m[7m  [0m [91m                                                                                          ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type '{ sorces: you; }' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Type '{ sorces: you; }' is missing the following properties from type 'DocumentReference<DocumentData, DocumentData>': converter, type, firestore, id, and 3 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m[39m[22m[1m[31m     return docData(itemCollection).pipe(map(doc => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:08:54.545Z[39m[37m[22m - Hash: [1m[37md23f4ad41af31da8[39m[37m[22m - Time: [1m[37m870[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m28[0m - [91merror[0m[90m TS2352: [0mConversion of type 'DocumentReference<DocumentData, DocumentData>' to type '{ sorces: YoutubeSourceModel; }' may be a mistake because neither type sufficiently overlaps with the other. If this was intentional, convert the expression to 'unknown' first.[39m[22m
+[1m[31m  Property 'sorces' is missing in type 'DocumentReference<DocumentData, DocumentData>' but required in type '{ sorces: YoutubeSourceModel; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: YoutubeSourceModel};[39m[22m
+[1m[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m83[0m[39m[22m
+[1m[31m    [7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: YoutubeSourceModel};[39m[22m
+[1m[31m    [7m  [0m [96m                                                                                  ~~~~~~[0m[39m[22m
+[1m[31m    'sorces' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type '{ sorces: YoutubeSourceModel; }' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Type '{ sorces: YoutubeSourceModel; }' is missing the following properties from type 'DocumentReference<DocumentData, DocumentData>': converter, type, firestore, id, and 3 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:09:01.577Z[39m[37m[22m - Hash: [1m[37m2e967b62d98b1b02[39m[37m[22m - Time: [1m[37m648[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m28[0m - [91merror[0m[90m TS2352: [0mConversion of type 'DocumentReference<DocumentData, DocumentData>' to type '{ sorces: YoutubeSourceModel[]; }' may be a mistake because neither type sufficiently overlaps with the other. If this was intentional, convert the expression to 'unknown' first.[39m[22m
+[1m[31m  Property 'sorces' is missing in type 'DocumentReference<DocumentData, DocumentData>' but required in type '{ sorces: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: YoutubeSourceModel[]};[39m[22m
+[1m[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m83[0m[39m[22m
+[1m[31m    [7m20[0m     const itemCollection = doc(this.#firestore, 'he', 'fN3RI0eDxKxKxICnf2wF') as {sorces: YoutubeSourceModel[]};[39m[22m
+[1m[31m    [7m  [0m [96m                                                                                  ~~~~~~[0m[39m[22m
+[1m[31m    'sorces' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m20[0m - [91merror[0m[90m TS2345: [0mArgument of type '{ sorces: YoutubeSourceModel[]; }' is not assignable to parameter of type 'DocumentReference<DocumentData, DocumentData>'.[39m[22m
+[1m[31m  Type '{ sorces: YoutubeSourceModel[]; }' is missing the following properties from type 'DocumentReference<DocumentData, DocumentData>': converter, type, firestore, id, and 3 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map(doc => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                   ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:09:23.055Z[39m[37m[22m - Hash: [1m[37m3dbadb0312d690a4[39m[37m[22m - Time: [1m[37m1239[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:09:42.624Z[39m[37m[22m - Hash: [1m[37m06f8d8d2601f2e79[39m[37m[22m - Time: [1m[37m1020[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m71[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m63.08 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:09:52.858Z[39m[37m[22m - Hash: [1m[37m1cc7fd3d07e98382[39m[37m[22m - Time: [1m[37m1462[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (14:68)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map((doc[33m,[39m[31m doc[33m,[39m[31m [][33m,[39m[31m ) [33m=>[39m[31m ))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                                     [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m45[0m - [91merror[0m[90m TS2345: [0mArgument of type '(doc: { sources: you; }, doc: any, []: Iterable<any>, : any) => any' is not assignable to parameter of type '(value: { sources: you; }, index: number) => any'.[39m[22m
+[1m[31m  Target signature provides too few arguments. Expected 4 or more, but got 2.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCol[39m[22m[1m[31mlection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m46[0m - [91merror[0m[90m TS2300: [0mDuplicate identifier 'doc'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                             ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m61[0m - [91merror[0m[90m TS2304: [0mCannot find name 'you'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                            ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m66[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                 ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m69[0m - [91merror[0m[90m TS2300: [0mDuplicate identifier 'doc'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                    ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m69[0m - [91merror[0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m         [39m[22m[1m[31m                                                           ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m72[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                       ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m75[0m - [91merror[0m[90m TS1181: [0mArray element destructuring pattern expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                          ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m75[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                          [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m84[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: you} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:09:53.938Z[39m[37m[22m - Hash: [1m[37md6ae5d1c0375fdd7[39m[37m[22m - Time: [1m[37m641[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (14:68)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map((doc[33m,[39m[31m doc[33m,[39m[31m [][33m,[39m[31m ) [33m=>[39m[31m ))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                                     [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m45[0m - [91merror[0m[90m TS2345: [0mArgument of type '(doc: { sources: YoutubeSourceModel[]; }, doc: any, []: Iterable<any>, : any) => any' is not assignable to parameter of type '(value: { sources: YoutubeSourceModel[]; }, index: number) => any'.[39m[22m
+[1m[31m  Target signature provides too few arguments. Expected 4 or more, but got 2.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7[39m[22m[1m[31mm21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m46[0m - [91merror[0m[90m TS2300: [0mDuplicate identifier 'doc'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                             ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m83[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                  ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m86[0m - [91merror[0m[90m TS2300: [0mDuplicate identifier 'doc'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                     ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m86[0m - [91merror[0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                     ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[9[39m[22m[1m[31m3m89[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                        ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m92[0m - [91merror[0m[90m TS1181: [0mArray element destructuring pattern expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                           ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m92[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                           [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m101[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]} => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                                    ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:09:58.780Z[39m[37m[22m - Hash: [1m[37m0a708eb4a496a33d[39m[37m[22m - Time: [1m[37m930[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (14:68)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m         [36mreturn[39m[31m docData(itemCollection)[33m.[39m[31mpipe(map((doc[33m,[39m[31m doc[33m,[39m[31m [][33m,[39m[31m ) [33m=>[39m[31m ))[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                                     [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeSourceService_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeSourceService[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵprov [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineInjectable({ token[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m,[39m[31m factory[33m:[39m[31m [33mYoutubeSourceService[39m[31m[33m.[39m[31mɵfac[33m,[39m[31m providedIn[33m:[39m[31m [32m'root'[39m[31m })[33m;[39m[31m }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m45[0m - [91merror[0m[90m TS2345: [0mArgument of type '(doc: { sources: YoutubeSourceModel[]; }, doc: any, []: Iterable<any>, : any) => any' is not assignable to parameter of type '(value: { sources: YoutubeSourceModel[]; }, index: number) => any'.[39m[22m
+[1m[31m  Target signature provides too few arguments. Expected 4 or more, but got 2.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7[39m[22m[1m[31mm21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m46[0m - [91merror[0m[90m TS2300: [0mDuplicate identifier 'doc'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                             ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m82[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                 ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m85[0m - [91merror[0m[90m TS1131: [0mProperty or signature expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                    ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m85[0m - [91merror[0m[90m TS2300: [0mDuplicate identifier 'doc'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                    ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m85[0m - [91merror[[39m[22m[1m[31m0m[90m TS7006: [0mParameter 'doc' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                    ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m88[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                       ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m91[0m - [91merror[0m[90m TS1181: [0mArray element destructuring pattern expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                          ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m91[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                          [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m100[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[] => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                           [39m[22m[1m[31m        ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:00.644Z[39m[37m[22m - Hash: [1m[37m4a34949f8f2a57a6[39m[37m[22m - Time: [1m[37m1638[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m41[0m - [91merror[0m[90m TS2345: [0mArgument of type 'OperatorFunction<{ sources: YoutubeSourceModel[]; }, YoutubeSourceModel[]>' is not assignable to parameter of type 'OperatorFunction<DocumentData | undefined, YoutubeSourceModel[]>'.[39m[22m
+[1m[31m  Type 'DocumentData | undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m    Type 'undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]) => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m81[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]) => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:06.358Z[39m[37m[22m - Hash: [1m[37mc6530fc697f6982c[39m[37m[22m - Time: [1m[37m618[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m41[0m - [91merror[0m[90m TS2345: [0mArgument of type 'OperatorFunction<{ sources: YoutubeSourceModel[]; }, YoutubeSourceModel[]>' is not assignable to parameter of type 'OperatorFunction<DocumentData | undefined, YoutubeSourceModel[]>'.[39m[22m
+[1m[31m  Type 'DocumentData | undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m    Type 'undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]}) => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:10.965Z[39m[37m[22m - Hash: [1m[37m77fd390a55cda9e5[39m[37m[22m - Time: [1m[37m1192[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m41[0m - [91merror[0m[90m TS2345: [0mArgument of type 'OperatorFunction<{ sources: YoutubeSourceModel[]; }, YoutubeSourceModel[]>' is not assignable to parameter of type 'OperatorFunction<DocumentData | undefined, YoutubeSourceModel[]>'.[39m[22m
+[1m[31m  Type 'DocumentData | undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m    Type 'undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]) => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m81[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]) => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                                                                ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:20.964Z[39m[37m[22m - Hash: [1m[37m6bf82b6f1fa9174a[39m[37m[22m - Time: [1m[37m719[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m41[0m - [91merror[0m[90m TS2345: [0mArgument of type 'OperatorFunction<{ sources: YoutubeSourceModel[]; }, YoutubeSourceModel[]>' is not assignable to parameter of type 'OperatorFunction<DocumentData | undefined, YoutubeSourceModel[]>'.[39m[22m
+[1m[31m  Type 'DocumentData | undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m    Type 'undefined' is not assignable to type '{ sources: YoutubeSourceModel[]; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     return docData(itemCollection).pipe(map((doc: {sources: YoutubeSourceModel[]}) => doc?.['sources']));[39m[22m
+[1m[31m[7m  [0m [91m                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:25.793Z[39m[37m[22m - Hash: [1m[37m98f654b3226fcc75[39m[37m[22m - Time: [1m[37m896[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:29.067Z[39m[37m[22m - Hash: [1m[37mce7e5e992f5cb181[39m[37m[22m - Time: [1m[37m788[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m19[0m:[93m24[0m - [91merror[0m[90m TS2304: [0mCannot find name 'O'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m   getYoutubeSources(): O {[39m[22m
+[1m[31m[7m  [0m [91m                       ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:33.296Z[39m[37m[22m - Hash: [1m[37m4146c7d836cd9577[39m[37m[22m - Time: [1m[37m1727[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m24[0m - [91merror[0m[90m TS2314: [0mGeneric type 'Observable<T>' requires 1 type argument(s).[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m   getYoutubeSources(): Observable {[39m[22m
+[1m[31m[7m  [0m [91m                       ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:34.714Z[39m[37m[22m - Hash: [1m[37m082ee133908ae741[39m[37m[22m - Time: [1m[37m836[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m35[0m - [91merror[0m[90m TS2304: [0mCannot find name 'You'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m   getYoutubeSources(): Observable<You {[39m[22m
+[1m[31m[7m  [0m [91m                                  ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m39[0m - [91merror[0m[90m TS1005: [0m'>' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m   getYoutubeSources(): Observable<You {[39m[22m
+[1m[31m[7m  [0m [91m                                      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:37.514Z[39m[37m[22m - Hash: [1m[37mad826c23bd97e094[39m[37m[22m - Time: [1m[37m879[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:50.278Z[39m[37m[22m - Hash: [1m[37m48f0679433cc026f[39m[37m[22m - Time: [1m[37m1265[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:53.109Z[39m[37m[22m - Hash: [1m[37me8504a9e2e544e1b[39m[37m[22m - Time: [1m[37m804[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m57.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-13T21:10:56.471Z[39m[37m[22m - Hash: [1m[37mc908ef18c5fd31f2[39m[37m[22m - Time: [1m[37m883[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
