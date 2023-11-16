@@ -2038,3 +2038,41 @@ Error: EPERM: operation not permitted, rename 'c:\dev\axim-anahnu\.nx\cache\proj
 [NX Daemon Server] - 2023-11-16T20:58:01.421Z - [REQUEST]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts
 [NX Daemon Server] - 2023-11-16T20:58:01.421Z - [REQUEST]: 
 [NX Daemon Server] - 2023-11-16T20:58:01.532Z - Time taken for 'hash changed files from watcher' 0.7412996292114258ms
+[NX Daemon Server] - 2023-11-16T20:58:56.250Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:00:56.086Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:00:56.101Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:00:58.151Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:00:58.208Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:00:58.231Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:00:59.296Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:00.626Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:02.431Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:01:02.432Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:02.521Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-16T21:01:02.521Z - [REQUEST]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts
+[NX Daemon Server] - 2023-11-16T21:01:02.521Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-16T21:01:02.625Z - Time taken for 'hash changed files from watcher' 0.7255001068115234ms
+[NX Daemon Server] - 2023-11-16T21:01:03.609Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:05.097Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:05.186Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:06.079Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:06.081Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:01:06.826Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:09.112Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:09.117Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:01:10.302Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:11.999Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:01:12.612Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-16T21:01:12.612Z - [REQUEST]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts
+[NX Daemon Server] - 2023-11-16T21:01:12.612Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-16T21:01:12.785Z - Time taken for 'hash changed files from watcher' 1.3851995468139648ms
+[NX Daemon Server] - 2023-11-16T21:02:30.252Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:02:30.255Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:02:31.631Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:02:31.633Z - [WATCHER]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts was modified
+[NX Daemon Server] - 2023-11-16T21:02:33.133Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:02:34.556Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-16T21:02:36.696Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-16T21:02:36.696Z - [REQUEST]: libs/content/source/service/youtube-source-store/youtube-source-store.service.ts
+[NX Daemon Server] - 2023-11-16T21:02:36.696Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-16T21:02:36.821Z - Time taken for 'hash changed files from watcher' 0.6068000793457031ms
