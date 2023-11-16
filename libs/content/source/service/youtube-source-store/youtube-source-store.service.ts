@@ -14,15 +14,16 @@ type State = {
 export class YoutubeSourceStoreService extends signalStore(
   withState<State>({ youtubeSorces: [] }),
   withCallState(),
-  withMethods((store, youtubeSourceService = inject(YoutubeSourceService)) => ({
-    load: rxMethod<void>(
-      pipe(
-        tap(() => store.$update(setLoading())),
-        switchMap(() => youtubeSourceService.getYoutubeSources()),
-        tap((youtubeSorces) => store.$update({ youtubeSorces }, setLoaded()))
+  withMethods(({ $update },
+    youtubeSourceService = inject(YoutubeSourceService)) => ({
+      load: rxMethod<void>(
+        pipe(
+          tap(() => $update(setLoading())),
+          switchMap(() => youtubeSourceService.getYoutubeSources()),
+          tap((youtubeSorces) => $update({ youtubeSorces }, setLoaded()))
+        )
       )
-    )
-  })),
+    })),
   withHooks({
     onInit({ load }) {
       load();
