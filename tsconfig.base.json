@@ -14,10 +14,13 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
+    "strictPropertyInitialization": false,
     "paths": {
       "@axim-anahnu/common/environment": ["libs/common/environment/index.ts"],
+      "@axim-anahnu/common/ngrx-signals-store": [
+        "libs/common/ngrx-signals-store/index.ts"
+      ],
       "@axim-anahnu/common/transloco": ["libs/common/transloco/index.ts"],
-      "@axim-anahnu/common/ngrx-signals-store": ["libs/common/ngrx-signals-store/index.ts"],
       "@axim-anahnu/content/content": ["libs/content/content/index.ts"],
       "@axim-anahnu/content/description": ["libs/content/description/index.ts"],
       "@axim-anahnu/content/history": ["libs/content/history/index.ts"],

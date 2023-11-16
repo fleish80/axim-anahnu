@@ -1,43 +1,25 @@
 import { Component, OnInit, inject } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import {YouTubePlayerModule} from '@angular/youtube-player';
-import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
+import { YouTubePlayerModule } from '@angular/youtube-player';
 import { YoutubeSourceStoreService } from '../../service/youtube-source-store/youtube-source-store.service';
-
-let apiLoaded = false;
+import { YoutubeItemComponent } from '../youtube-item/youtube-item.component';
+import { JsonPipe } from '@angular/common';
 
 @Component({
   selector: 'aa-source',
   standalone: true,
-  imports: [CommonModule, YouTubePlayerModule],
+  imports: [YouTubePlayerModule, YoutubeItemComponent, JsonPipe],
   template: `
-  <!-- <youtube-player videoId="PRQCAL_RMVo"/>
-  
-  <youtube-player videoId="xWx3R7WaAQY"/> -->
-
-
-{{youtubeSorces() | json}}
-loading => {{loading()}}
-loaded => {{loaded()}}
-
+  @for (source of youtubeSorces(); track source.youtubeId) {
+    <aa-youtube-item [youtubeSource]="source"/>
+  }
   `,
   styles: [],
+  providers: [YoutubeSourceStoreService]
 })
-export class SourceComponent implements OnInit {
+export class SourceComponent {
 
   #youtubeSourceStoreService = inject(YoutubeSourceStoreService);
   youtubeSorces = this.#youtubeSourceStoreService.youtubeSorces;
   loading = this.#youtubeSourceStoreService.loading;
   loaded = this.#youtubeSourceStoreService.loaded;
-
-  ngOnInit() {
-    if (!apiLoaded) {
-      // This code loads the IFrame Player API code asynchronously, according to the instructions at
-      // https://developers.google.com/youtube/iframe_api_reference#Getting_Started
-      const tag = document.createElement('script');
-      tag.src = 'https://www.youtube.com/iframe_api';
-      document.body.appendChild(tag);
-      apiLoaded = true;
-    }
-  }
 }

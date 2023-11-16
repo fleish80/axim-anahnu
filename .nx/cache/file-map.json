@@ -66,11 +66,11 @@
     "@axim-anahnu/common/environment": [
       "libs/common/environment/index.ts"
     ],
-    "@axim-anahnu/common/transloco": [
-      "libs/common/transloco/index.ts"
-    ],
     "@axim-anahnu/common/ngrx-signals-store": [
       "libs/common/ngrx-signals-store/index.ts"
+    ],
+    "@axim-anahnu/common/transloco": [
+      "libs/common/transloco/index.ts"
     ],
     "@axim-anahnu/content/content": [
       "libs/content/content/index.ts"
@@ -110,15 +110,15 @@
       },
       {
         "file": ".nx/cache/d/daemon.log",
-        "hash": "6236208061888378873"
+        "hash": "5461899665816518586"
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "1618728669097374658"
+        "hash": "13370943913981023621"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "1559676789557040030"
+        "hash": "2948667053299933828"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -130,7 +130,11 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "4541832545742284575"
+        "hash": "17517067550998662859"
+      },
+      {
+        "file": ".nx/cache/project-graph.json~3369a8f3",
+        "hash": "17517067550998662859"
       },
       {
         "file": ".nx/cache/terminalOutputs/11929401256528672157",
@@ -147,6 +151,10 @@
       {
         "file": ".nx/cache/terminalOutputs/4835848754066100499",
         "hash": "14027595768948573332"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/9094362455176039668",
+        "hash": "12879037991440336172"
       },
       {
         "file": ".prettierignore",
@@ -222,7 +230,7 @@
       },
       {
         "file": "tsconfig.base.json",
-        "hash": "75833367430843248"
+        "hash": "11238131507111156651"
       }
     ],
     "projectFileMap": {
@@ -658,11 +666,11 @@
         },
         {
           "file": "libs/content/source/components/source/source.component.ts",
-          "hash": "5502852263613844085",
+          "hash": "11618562423180763213",
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/common",
-            "npm:@angular/youtube-player"
+            "npm:@angular/youtube-player",
+            "npm:@angular/common"
           ]
         },
         {
@@ -686,7 +694,7 @@
         },
         {
           "file": "libs/content/source/service/youtube-source/youtube-source.service.ts",
-          "hash": "16385543605156799764",
+          "hash": "17973738581275405532",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/fire",
@@ -702,7 +710,7 @@
         },
         {
           "file": "libs/content/source/service/youtube-source-store/youtube-source-store.service.ts",
-          "hash": "14566807693686596833",
+          "hash": "3276019867355413708",
           "deps": [
             "npm:@angular/core",
             "common",
@@ -731,6 +739,22 @@
         {
           "file": "libs/content/tsconfig.spec.json",
           "hash": "2937641149569477378"
+        },
+        {
+          "file": "libs/content/source/components/youtube-item/youtube-item.component.ts",
+          "hash": "1208228757421988664",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/youtube-player",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "libs/content/source/components/youtube-item/youtube-item.component.spec.ts",
+          "hash": "2413361992081667016",
+          "deps": [
+            "npm:@angular/core"
+          ]
         }
       ],
       "main": [

@@ -1,0 +1,1627 @@
+[1m[33mOption "browserTarget" is deprecated: Use 'buildTarget' instead.[39m[22m
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m                       [2m | [22mvendor                     [2m | [22m  [96m5.01 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m                    [2m | [22mpolyfills                  [2m | [22m[96m333.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m           [2m | [22mstyles                     [2m | [22m[96m308.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                         [2m | [22mmain                       [2m | [22m [96m17.96 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                               [2m | [22m[1mInitial Total[22m              [2m | [22m  [1m5.67 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m [96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:43:14.488Z[39m[37m[22m - Hash: [1m[37m23a47e275dea54e2[39m[37m[22m - Time: [1m[37m29554[39m[37m[22mms[0m[39m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.76 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:46:42.599Z[39m[37m[22m - Hash: [1m[37m88465c58d9d44602[39m[37m[22m - Time: [1m[37m3190[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m39[0m - [91merror[0m[90m TS2339: [0mProperty 'source' does not exist on type 'SourceComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m     <aa-youtube-item [youtubeSource]="source"/>[39m[22m
+[1m[31m[7m  [0m [91m                                      ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.77 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:46:46.676Z[39m[37m[22m - Hash: [1m[37m21cfe594eb6849a6[39m[37m[22m - Time: [1m[37m3222[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepSignal<YoutubeSourceModel[]>' is not assignable to type 'YoutubeSourceModel'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m     <aa-youtube-item [youtubeSource]="youtubeSorces"/>[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.42 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:46:49.720Z[39m[37m[22m - Hash: [1m[37m082f23e212bfd8a4[39m[37m[22m - Time: [1m[37m2885[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepSignal<YoutubeSourceModel[]>' is not assignable to type 'YoutubeSourceModel'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m     <aa-youtube-item [youtubeSource]="youtubeSorces)(]"/>[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m39[0m - [91merror[0m[90m NG5002: [0mParser Error: Unexpected token ')'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.42 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:46:53.678Z[39m[37m[22m - Hash: [1m[37m84285efe97d82ae8[39m[37m[22m - Time: [1m[37m3639[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepSignal<YoutubeSourceModel[]>' is not assignable to type 'YoutubeSourceModel'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m     <aa-youtube-item [youtubeSource]="youtubeSorces)("/>[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m39[0m - [91merror[0m[90m NG5002: [0mParser Error: Unexpected token ')'[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.78 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:46:55.558Z[39m[37m[22m - Hash: [1m[37meef5f5490865a62a[39m[37m[22m - Time: [1m[37m1726[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.78 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:46:59.525Z[39m[37m[22m - Hash: [1m[37mae359b6b78797f81[39m[37m[22m - Time: [1m[37m3664[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.78 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:47:20.490Z[39m[37m[22m - Hash: [1m[37m7b2b96e6ce997869[39m[37m[22m - Time: [1m[37m2765[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.78 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:47:59.940Z[39m[37m[22m - Hash: [1m[37ma2da2bf2cfa48de7[39m[37m[22m - Time: [1m[37m3250[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.78 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:02.059Z[39m[37m[22m - Hash: [1m[37mea89467680188889[39m[37m[22m - Time: [1m[37m1955[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.33 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:08.430Z[39m[37m[22m - Hash: [1m[37m2ce2ee7566672dfd[39m[37m[22m - Time: [1m[37m2142[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m18[0m:[93m3[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF"[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m18[0m   `,[39m[22m
+[1m[31m[7m  [0m [91m  ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:18.963Z[39m[37m[22m - Hash: [1m[37m9ec8069c050961e0[39m[37m[22m - Time: [1m[37m1771[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m21[0m:[93m3[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF"[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m   `,[39m[22m
+[1m[31m[7m  [0m [91m  ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.89 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:23.746Z[39m[37m[22m - Hash: [1m[37m9baf70f57f6fa930[39m[37m[22m - Time: [1m[37m1859[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m18[0m:[93m21[0m - [91merror[0m[90m NG8004: [0mNo pipe found with name 'json'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m18[0m {{youtubeSorces() | json}}[39m[22m
+[1m[31m[7m  [0m [91m                    ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.47 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:28.985Z[39m[37m[22m - Hash: [1m[37md0da400fe58e5f3e[39m[37m[22m - Time: [1m[37m1159[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:33.296Z[39m[37m[22m - Hash: [1m[37m10e2ec271d32930c[39m[37m[22m - Time: [1m[37m2125[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.47 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:36.003Z[39m[37m[22m - Hash: [1m[37mb92677b6d1cd202b[39m[37m[22m - Time: [1m[37m2572[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.37 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:39.852Z[39m[37m[22m - Hash: [1m[37m4f23095c86d34e28[39m[37m[22m - Time: [1m[37m3269[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m20[0m:[93m3[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF"[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m   `,[39m[22m
+[1m[31m[7m  [0m [91m  ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:48:42.076Z[39m[37m[22m - Hash: [1m[37m7258060a2c1f492b[39m[37m[22m - Time: [1m[37m2036[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.78 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:33.994Z[39m[37m[22m - Hash: [1m[37mae359b6b78797f81[39m[37m[22m - Time: [1m[37m5301[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:37.341Z[39m[37m[22m - Hash: [1m[37m8a6e2a82e69ffa87[39m[37m[22m - Time: [1m[37m3156[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:41.058Z[39m[37m[22m - Hash: [1m[37mf2860d662b1fdfd9[39m[37m[22m - Time: [1m[37m3060[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.40 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:42.904Z[39m[37m[22m - Hash: [1m[37m5d7cb4b6149693fb[39m[37m[22m - Time: [1m[37m1702[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m5[0m - [91merror[0m[90m NG5002: [0mParser Error: Blank expressions are not allowed in interpolated strings[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m15[0m:[93m39[0m - [91merror[0m[90m NG5002: [0mParser Error: Blank expressions are not allowed in interpolated strings[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.39 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:47.879Z[39m[37m[22m - Hash: [1m[37m43074a7bd7c7aa92[39m[37m[22m - Time: [1m[37m2530[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:50.601Z[39m[37m[22m - Hash: [1m[37m7a26d89676a7fa14[39m[37m[22m - Time: [1m[37m2599[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m5[0m - [91merror[0m[90m NG5002: [0mParser Error: Expected identifier for property access[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m5[0m - [91merror[0m[90m NG5002: [0mParser Error: Unexpected end of input, expected identifier or keyword[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m15[0m:[93m39[0m - [91merror[0m[90m NG5002: [0mParser Error: Expected identifier for property access[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m15[0m:[93m39[0m - [91merror[0m[90m NG5002: [0mParser Error: Unexpected end of input, expected identifier or keyword[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.40 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:52.993Z[39m[37m[22m - Hash: [1m[37mf50dc061867f50ab[39m[37m[22m - Time: [1m[37m2211[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.40 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:49:55.748Z[39m[37m[22m - Hash: [1m[37m27fcf1ea7ad73ce9[39m[37m[22m - Time: [1m[37m2338[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.52 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:50:23.897Z[39m[37m[22m - Hash: [1m[37m09564a5f9b9f87ef[39m[37m[22m - Time: [1m[37m1901[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m14[0m:[93m16[0m - [91merror[0m[90m NG8004: [0mNo pipe found with name 'json'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m14[0m     {{source | json}}[39m[22m
+[1m[31m[7m  [0m [91m               ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:50:33.890Z[39m[37m[22m - Hash: [1m[37m69203db039beccee[39m[37m[22m - Time: [1m[37m2893[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:50:40.044Z[39m[37m[22m - Hash: [1m[37md65286280a1992b7[39m[37m[22m - Time: [1m[37m1759[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.68 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:51:42.595Z[39m[37m[22m - Hash: [1m[37m273af24398f1e823[39m[37m[22m - Time: [1m[37m3652[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.68 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:51:44.384Z[39m[37m[22m - Hash: [1m[37mfb38361312a7d897[39m[37m[22m - Time: [1m[37m1546[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:52:09.098Z[39m[37m[22m - Hash: [1m[37m3a3564f858533f8b[39m[37m[22m - Time: [1m[37m3755[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m81.74 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:52:11.319Z[39m[37m[22m - Hash: [1m[37mf0bc300b2aea647a[39m[37m[22m - Time: [1m[37m1949[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m10[0m:[93m3[0m - [91merror[0m[90m NG5002: [0mParser Error: Blank expressions are not allowed in interpolated strings[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m11[0m:[93m30[0m - [91merror[0m[90m NG5002: [0mParser Error: Blank expressions are not allowed in interpolated strings[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m12[0m:[93m9[0m - [91merror[0m[90m NG5002: [0mParser Error: Blank expressions are not allowed in interpolated strings[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.94 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:52:15.329Z[39m[37m[22m - Hash: [1m[37mff835748f1efd964[39m[37m[22m - Time: [1m[37m1516[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.94 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:52:17.251Z[39m[37m[22m - Hash: [1m[37m8f4dffc97c9c5d24[39m[37m[22m - Time: [1m[37m1612[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.97 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:52:27.633Z[39m[37m[22m - Hash: [1m[37m296d4a4e61b3f364[39m[37m[22m - Time: [1m[37m3611[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.97 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:53:18.908Z[39m[37m[22m - Hash: [1m[37m2abbd262f5c3afad[39m[37m[22m - Time: [1m[37m2107[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.97 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:53:23.780Z[39m[37m[22m - Hash: [1m[37mb1026a9adb0038e0[39m[37m[22m - Time: [1m[37m1980[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.99 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:53:27.949Z[39m[37m[22m - Hash: [1m[37ma428fe58920455a4[39m[37m[22m - Time: [1m[37m3237[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m83.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:53:30.165Z[39m[37m[22m - Hash: [1m[37ma16cdacf9f7c88a1[39m[37m[22m - Time: [1m[37m1994[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m12[0m:[93m19[0m - [91merror[0m[90m NG8004: [0mNo pipe found with name 'json'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m {{youtubeSource | json}}[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m83.30 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:53:41.314Z[39m[37m[22m - Hash: [1m[37m5bda04ad21c50619[39m[37m[22m - Time: [1m[37m5959[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:55:07.891Z[39m[37m[22m - Hash: [1m[37mce25ba567e127501[39m[37m[22m - Time: [1m[37m2479[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:55:09.889Z[39m[37m[22m - Hash: [1m[37mb5e97db306656db6[39m[37m[22m - Time: [1m[37m1554[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:55:22.171Z[39m[37m[22m - Hash: [1m[37m9adbf73045de8146[39m[37m[22m - Time: [1m[37m5539[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T13:55:23.754Z[39m[37m[22m - Hash: [1m[37mfd3c5520d8e4da56[39m[37m[22m - Time: [1m[37m1406[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:23.358Z[39m[37m[22m - Hash: [1m[37m554212df29328172[39m[37m[22m - Time: [1m[37m4377[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m66.01 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:26.075Z[39m[37m[22m - Hash: [1m[37mf7ea70c1faa33adc[39m[37m[22m - Time: [1m[37m2322[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source-store/youtube-source-store.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source-store\youtube-source-store.service.ts: Unexpected token (13:7)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     }[33m,[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m })) {[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 13 |[39m[31m     [36mif[39m[31m([33m,[39m[31m apiLoaded) {[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m        [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 14 |[39m[31m         [90m// This code loads the IFrame Player API code asynchronously, according to the instructions at[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m         [90m// https://developers.google.com/youtube/iframe_api_reference#Getting_Started[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m         [36mconst[39m[31m tag [33m=[39m[31m document[33m.[39m[31mcreateElement([32m'script'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParameter 'apiLoaded' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:27.840Z[39m[37m[22m - Hash: [1m[37m88f9d606172f59a3[39m[37m[22m - Time: [1m[37m1567[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source-store/youtube-source-store.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source-store\youtube-source-store.service.ts: Unexpected token (14:7)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m })) {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m     [33m#[39m[31myo[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m     [36mif[39m[31m([33m,[39m[31m apiLoaded) {[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m        [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m         [90m// This code loads the IFrame Player API code asynchronously, according to the instructions at[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m         [90m// https://developers.google.com/youtube/iframe_api_reference#Getting_Started[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m         [36mconst[39m[31m tag [33m=[39m[31m document[33m.[39m[31mcreateElement([32m'script'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m33[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember '#yo' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m33[0m   #yo[39m[22m
+[1m[31m[7m  [0m [91m  ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParameter 'apiLoaded' impli[39m[22m[1m[31mcitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:29.979Z[39m[37m[22m - Hash: [1m[37m88f9d606172f59a3[39m[37m[22m - Time: [1m[37m1913[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source-store/youtube-source-store.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source-store\youtube-source-store.service.ts: Unexpected token (14:7)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m })) {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m     [33m#[39m[31myo[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m     [36mif[39m[31m([33m,[39m[31m apiLoaded) {[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m        [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m         [90m// This code loads the IFrame Player API code asynchronously, according to the instructions at[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m         [90m// https://developers.google.com/youtube/iframe_api_reference#Getting_Started[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m         [36mconst[39m[31m tag [33m=[39m[31m document[33m.[39m[31mcreateElement([32m'script'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m33[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember '#yo' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m33[0m   #yo[39m[22m
+[1m[31m[7m  [0m [91m  ~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParameter 'apiLoaded' impli[39m[22m[1m[31mcitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:34.365Z[39m[37m[22m - Hash: [1m[37m4b0e13451417dbb1[39m[37m[22m - Time: [1m[37m3918[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source-store/youtube-source-store.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source-store\youtube-source-store.service.ts: Unexpected token (14:7)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m })) {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m     [33m#[39m[31myoutube[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 14 |[39m[31m     [36mif[39m[31m([33m,[39m[31m apiLoaded) {[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m        [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 15 |[39m[31m         [90m// This code loads the IFrame Player API code asynchronously, according to the instructions at[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 16 |[39m[31m         [90m// https://developers.google.com/youtube/iframe_api_reference#Getting_Started[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 17 |[39m[31m         [36mconst[39m[31m tag [33m=[39m[31m document[33m.[39m[31mcreateElement([32m'script'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m33[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember '#youtube' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m33[0m   #youtube[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m7[0m - [91merror[0m[90m TS7006: [0mParameter '(Missing)' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m      [0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParamet[39m[22m[1m[31mer 'apiLoaded' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:40.898Z[39m[37m[22m - Hash: [1m[37m31ced10cc0c30721[39m[37m[22m - Time: [1m[37m4005[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m8[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m40[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m40[0m     apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m44[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m44[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:42.918Z[39m[37m[22m - Hash: [1m[37mecf6991a9c017e4d[39m[37m[22m - Time: [1m[37m1778[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m8[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m40[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m40[0m     apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:44.622Z[39m[37m[22m - Hash: [1m[37m1756723a7f8ace8b[39m[37m[22m - Time: [1m[37m1479[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m34[0m:[93m10[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m     if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m40[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m40[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:54.607Z[39m[37m[22m - Hash: [1m[37mfdbbd2b85b024ba2[39m[37m[22m - Time: [1m[37m2697[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:15:57.717Z[39m[37m[22m - Hash: [1m[37m896c33e2a7d10677[39m[37m[22m - Time: [1m[37m2848[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:04.259Z[39m[37m[22m - Hash: [1m[37m137da438c6544c82[39m[37m[22m - Time: [1m[37m3955[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m20[0m:[93m10[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m     if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m26[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m26[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:09.157Z[39m[37m[22m - Hash: [1m[37m099ebeebb5959978[39m[37m[22m - Time: [1m[37m1315[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m13[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember 'apiLoaded' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m13[0m   apiLoaded[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m10[0m - [91merror[0m[90m TS2663: [0mCannot find name 'apiLoaded'. Did you mean the instance member 'this.apiLoaded'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m7[0m - [91merror[0m[90m TS2663: [0mCannot find name 'apiLoaded'. Did you mean the instance member 'this.apiLoaded'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:16.882Z[39m[37m[22m - Hash: [1m[37mb6a5fbf3a5bab2a8[39m[37m[22m - Time: [1m[37m3660[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m13[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember '#apiLoaded' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m13[0m   #apiLoaded[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m10[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:19.215Z[39m[37m[22m - Hash: [1m[37mc1d1dd0b044263ac[39m[37m[22m - Time: [1m[37m2027[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m10[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:21.143Z[39m[37m[22m - Hash: [1m[37m5a6ffd967914bb18[39m[37m[22m - Time: [1m[37m1659[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m10[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     if (!apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.60 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:24.149Z[39m[37m[22m - Hash: [1m[37m6735292395dff194[39m[37m[22m - Time: [1m[37m1516[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m21[0m:[93m15[0m - [91merror[0m[90m TS2551: [0mProperty 'apiLoaded' does not exist on type 'YoutubeSourceService'. Did you mean '#apiLoaded'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m     if (!this.apiLoaded) {[39m[22m
+[1m[31m[7m  [0m [91m              ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m13[0m:[93m3[0m[39m[22m
+[1m[31m    [7m13[0m   #apiLoaded = false;[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~~~~~~[0m[39m[22m
+[1m[31m    '#apiLoaded' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.60 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:25.849Z[39m[37m[22m - Hash: [1m[37madb76ed091eb4f38[39m[37m[22m - Time: [1m[37m1581[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'apiLoaded'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:28.616Z[39m[37m[22m - Hash: [1m[37m89782e432888f603[39m[37m[22m - Time: [1m[37m953[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m27[0m:[93m12[0m - [91merror[0m[90m TS2551: [0mProperty 'apiLoaded' does not exist on type 'YoutubeSourceService'. Did you mean '#apiLoaded'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m       this.apiLoaded = true;[39m[22m
+[1m[31m[7m  [0m [91m           ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m13[0m:[93m3[0m[39m[22m
+[1m[31m    [7m13[0m   #apiLoaded = false;[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~~~~~~[0m[39m[22m
+[1m[31m    '#apiLoaded' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:31.287Z[39m[37m[22m - Hash: [1m[37m1eab35d470bd9acb[39m[37m[22m - Time: [1m[37m1262[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m87.26 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:41.310Z[39m[37m[22m - Hash: [1m[37m5ca2fcfae96616aa[39m[37m[22m - Time: [1m[37m4277[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/service/youtube-source/youtube-source.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\service\youtube-source\youtube-source.service.ts: Unexpected token (10:8)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m  8 |[39m[31m     constructor() {[0m[39m[22m
+[1m[31m[0m [90m  9 |[39m[31m         [36mthis[39m[31m[33m.[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m 10 |[39m[31m         [33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m         [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m 12 |[39m[31m     getYoutubeSources() {[0m[39m[22m
+[1m[31m[0m [90m 13 |[39m[31m         [36mconst[39m[31m itemCollection [33m=[39m[31m doc([36mthis[39m[31m[33m.[39m[31m[33m#[39m[31mfirestore[33m,[39m[31m [32m'he'[39m[31m[33m,[39m[31m [32m'fN3RI0eDxKxKxICnf2wF'[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source/youtube-source.service.ts[0m:[93m17[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m17[0m   }[39m[22m
+[1m[31m[7m  [0m [91m  ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:44.565Z[39m[37m[22m - Hash: [1m[37mb1a0948e2b6fc241[39m[37m[22m - Time: [1m[37m2547[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:47.100Z[39m[37m[22m - Hash: [1m[37md4386ef2c0ef613b[39m[37m[22m - Time: [1m[37m2321[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.27 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:16:58.314Z[39m[37m[22m - Hash: [1m[37md1eb436092b2ca20[39m[37m[22m - Time: [1m[37m4372[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m21[0m:[93m14[0m - [91merror[0m[90m TS2420: [0mClass 'SourceComponent' incorrectly implements interface 'OnInit'.[39m[22m
+[1m[31m  Property 'ngOnInit' is missing in type 'SourceComponent' but required in type 'OnInit'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m21[0m export class SourceComponent implements OnInit {[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/@angular/core/index.d.ts[0m:[93m6697[0m:[93m5[0m[39m[22m
+[1m[31m    [7m6697[0m     ngOnInit(): void;[39m[22m
+[1m[31m    [7m    [0m [96m    ~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ngOnInit' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.25 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:00.524Z[39m[37m[22m - Hash: [1m[37m39990851ddd03641[39m[37m[22m - Time: [1m[37m2041[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m19[0m:[93m14[0m - [91merror[0m[90m TS2420: [0mClass 'SourceComponent' incorrectly implements interface 'OnInit'.[39m[22m
+[1m[31m  Property 'ngOnInit' is missing in type 'SourceComponent' but required in type 'OnInit'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m export class SourceComponent implements OnInit {[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/@angular/core/index.d.ts[0m:[93m6697[0m:[93m5[0m[39m[22m
+[1m[31m    [7m6697[0m     ngOnInit(): void;[39m[22m
+[1m[31m    [7m    [0m [96m    ~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ngOnInit' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.25 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:03.142Z[39m[37m[22m - Hash: [1m[37meefb3d70325ea7ea[39m[37m[22m - Time: [1m[37m2433[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/source/source.component.ts[0m:[93m19[0m:[93m14[0m - [91merror[0m[90m TS2420: [0mClass 'SourceComponent' incorrectly implements interface 'OnInit'.[39m[22m
+[1m[31m  Property 'ngOnInit' is missing in type 'SourceComponent' but required in type 'OnInit'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m19[0m export class SourceComponent implements OnInit {[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/@angular/core/index.d.ts[0m:[93m6697[0m:[93m5[0m[39m[22m
+[1m[31m    [7m6697[0m     ngOnInit(): void;[39m[22m
+[1m[31m    [7m    [0m [96m    ~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ngOnInit' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.25 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:04.786Z[39m[37m[22m - Hash: [1m[37me104a81745c482d7[39m[37m[22m - Time: [1m[37m1515[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.26 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:32.492Z[39m[37m[22m - Hash: [1m[37mafb634ec4411189f[39m[37m[22m - Time: [1m[37m1790[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:44.808Z[39m[37m[22m - Hash: [1m[37md194887ce120c090[39m[37m[22m - Time: [1m[37m2913[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m11[0m:[93m70[0m - [91merror[0m[90m TS2339: [0mProperty 'stateChange' does not exist on type 'YoutubeItemComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   <youtube-player [videoId]="youtubeSource.youtubeId" (stateChange)="stateChange($event)"/>[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:53.441Z[39m[37m[22m - Hash: [1m[37m1559eebf8ab9725e[39m[37m[22m - Time: [1m[37m2576[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m11[0m:[93m70[0m - [91merror[0m[90m TS2339: [0mProperty 'stateChange' does not exist on type 'YoutubeItemComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   <youtube-player [videoId]="youtubeSource.youtubeId" (stateChange)="stateChange($event)"/>[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember 'state' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   state[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:17:55.772Z[39m[37m[22m - Hash: [1m[37mde0b3c7313fd0fec[39m[37m[22m - Time: [1m[37m2153[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m11[0m:[93m70[0m - [91merror[0m[90m TS2339: [0mProperty 'stateChange' does not exist on type 'YoutubeItemComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   <youtube-player [videoId]="youtubeSource.youtubeId" (stateChange)="stateChange($event)"/>[39m[22m
+[1m[31m[7m  [0m [91m                                                                     ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m3[0m - [91merror[0m[90m TS7008: [0mMember 'stateC' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   stateC[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.55 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:18:00.760Z[39m[37m[22m - Hash: [1m[37m56cb748a516e5d25[39m[37m[22m - Time: [1m[37m4688[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m11[0m:[93m82[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 1.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   <youtube-player [videoId]="youtubeSource.youtubeId" (stateChange)="stateChange($event)"/>[39m[22m
+[1m[31m[7m  [0m [91m                                                                                 ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m3[0m - [91merror[0m[90m TS2391: [0mFunction implementation is missing or not immediately following the declaration.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   stateChange()[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m3[0m - [91merror[0m[90m TS7010: [0m'stateChange', which lacks return-type annotation, implicitly has an 'any' return type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   stateChange()[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m87.54 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:18:02.789Z[39m[37m[22m - Hash: [1m[37m44d580fbea8acef1[39m[37m[22m - Time: [1m[37m1243[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/content/source/components/youtube-item/youtube-item.component.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: C:\dev\axim-anahnu\libs\content\source\components\youtube-item\youtube-item.component.ts: Unexpected token (7:8)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m  5 |[39m[31m     stateChange(event) {[0m[39m[22m
+[1m[31m[0m [90m  6 |[39m[31m         console[33m.[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m  7 |[39m[31m         [33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m         [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m  8 |[39m[31m     }[0m[39m[22m
+[1m[31m[0m [90m  9 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵfac [33m=[39m[31m [36mfunction[39m[31m [33mYoutubeItemComponent_Factory[39m[31m(t) { [36mreturn[39m[31m [36mnew[39m[31m (t [33m||[39m[31m [33mYoutubeItemComponent[39m[31m)()[33m;[39m[31m }[33m;[39m[31m }[0m[39m[22m
+[1m[31m[0m [90m 10 |[39m[31m     [36mstatic[39m[31m { [36mthis[39m[31m[33m.[39m[31mɵcmp [33m=[39m[31m [90m/*@__PURE__*/[39m[31m i0[33m.[39m[31mɵɵdefineComponent({ type[33m:[39m[31m [33mYoutubeItemComponent[39m[31m[33m,[39m[31m selectors[33m:[39m[31m [[[32m"aa-youtube-item"[39m[31m]][33m,[39m[31m inputs[33m:[39m[31m { youtubeSource[33m:[39m[31m [32m"youtubeSource"[39m[31m }[33m,[39m[31m standalone[33m:[39m[31m [36mtrue[39m[31m[33m,[39m[31m features[33m:[39m[31m [i0[33m.[39m[31mɵɵStandaloneFeature][33m,[39m[31m decls[33m:[39m[31m [35m3[39m[31m[33m,[39m[31m vars[33m:[39m[31m [35m2[39m[31m[33m,[39m[31m consts[33m:[39m[31m [[[35m3[39m[31m[33m,[39m[31m [32m"videoId"[39m[31m[33m,[39m[31m [32m"stateChange"[39m[31m]][33m,[39m[31m template[33m:[39m[31m [36mfunction[39m[31m [33mYoutubeItemComponent_Template[39m[31m(rf[33m,[39m[31m ctx) { [36mif[39m[31m (rf [33m&[39m[31m [35m1[39m[31m) {[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m15[0m - [91merror[0m[90m TS7006: [0mParameter 'event' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   stateChange(event) {[39m[22m
+[1m[31m[7m  [0m [91m              ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/s[39m[22m[1m[31mource/components/youtube-item/youtube-item.component.ts[0m:[93m29[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m29[0m   }[39m[22m
+[1m[31m[7m  [0m [91m  ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:18:10.433Z[39m[37m[22m - Hash: [1m[37m74bbe77a83690713[39m[37m[22m - Time: [1m[37m2531[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m15[0m - [91merror[0m[90m TS7006: [0mParameter 'event' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   stateChange(event) {[39m[22m
+[1m[31m[7m  [0m [91m              ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:18:13.370Z[39m[37m[22m - Hash: [1m[37me73fdaa65d156fe4[39m[37m[22m - Time: [1m[37m1608[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/components/youtube-item/youtube-item.component.ts[0m:[93m27[0m:[93m15[0m - [91merror[0m[90m TS7006: [0mParameter 'event' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m27[0m   stateChange(event) {[39m[22m
+[1m[31m[7m  [0m [91m              ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:18:31.608Z[39m[37m[22m - Hash: [1m[37m32848c4e3a7ec0ae[39m[37m[22m - Time: [1m[37m1664[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m82.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-17T14:18:53.327Z[39m[37m[22m - Hash: [1m[37mab7a654c0ab79699[39m[37m[22m - Time: [1m[37m2558[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

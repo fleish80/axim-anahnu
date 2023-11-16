@@ -3969,3 +3969,204 @@
 [37m[0mBuild at: [1m[37m2023-11-16T20:57:56.068Z[39m[37m[22m - Hash: [1m[37mcb87e33f2a964cae[39m[37m[22m - Time: [1m[37m1110[39m[37m[22mms[0m[39m
 [37m[39m
 [37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.95 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:00:58.510Z[39m[37m[22m - Hash: [1m[37me709c173864a2779[39m[37m[22m - Time: [1m[37m2401[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m17[0m:[93m27[0m - [91merror[0m[90m TS2339: [0mProperty 'youtubeSourceService' does not exist on type '{ $update: (...updaters: SignalStateUpdater<{ youtubeSorces: YoutubeSourceModel[]; callState: CallState; }>[]) => void; $state: Signal<{ youtubeSorces: YoutubeSourceModel[]; callState: CallState; }>; ... 4 more ...; error: Signal<...>; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m17[0m   withMethods(({ $update, youtubeSourceService = inject(YoutubeSourceService)) => ({[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m17[0m:[93m78[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m17[0m   withMethods(({ $update, youtubeSourceService = inject(YoutubeSourceService)) => ({[39m[22m
+[1m[31m[7m  [0m [91m                                                                             ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m20[0m:[93m19[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m         tap(() => store.$update(setLoading())),[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m         tap((youtubeSorces) => store.$update({ youtubeSorces }, setLoaded()))[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m[39m[22m[1m[31m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.95 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:00:59.484Z[39m[37m[22m - Hash: [1m[37m7389b8cc0e8c3cf6[39m[37m[22m - Time: [1m[37m854[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m20[0m:[93m19[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m         tap(() => store.$update(setLoading())),[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m         tap((youtubeSorces) => store.$update({ youtubeSorces }, setLoaded()))[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.95 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:01:03.838Z[39m[37m[22m - Hash: [1m[37mcf4d49d04b413ede[39m[37m[22m - Time: [1m[37m1439[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m20[0m:[93m19[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m20[0m         tap(() => store.$update(setLoading())),[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m         tap((youtubeSorces) => store.$update({ youtubeSorces }, setLoaded()))[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.94 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:01:07.144Z[39m[37m[22m - Hash: [1m[37m6c7c579ea11372fb[39m[37m[22m - Time: [1m[37m1091[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/content/source/service/youtube-source-store/youtube-source-store.service.ts[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2552: [0mCannot find name 'store'. Did you mean 'Storage'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m         tap((youtubeSorces) => store.$update({ youtubeSorces }, setLoaded()))[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/typescript/lib/lib.dom.d.ts[0m:[93m21650[0m:[93m13[0m[39m[22m
+[1m[31m    [7m21650[0m declare var Storage: {[39m[22m
+[1m[31m    [7m     [0m [96m            ~~~~~~~[0m[39m[22m
+[1m[31m    'Storage' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.93 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:01:10.791Z[39m[37m[22m - Hash: [1m[37m288b9b08c623c001[39m[37m[22m - Time: [1m[37m1712[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.93 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:02:32.259Z[39m[37m[22m - Hash: [1m[37mba841f9cbafd2517[39m[37m[22m - Time: [1m[37m2076[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.93 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:02:33.410Z[39m[37m[22m - Hash: [1m[37me9a3bcde68b2382f[39m[37m[22m - Time: [1m[37m1043[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m             [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                      [2m | [22mruntime                    [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m                [2m | [22m[1mNames[22m                      [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_content_content_index_ts.js[39m[37m[2m | [22maxim-anahnu-content-content[2m | [22m[96m78.93 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-16T21:04:06.727Z[39m[37m[22m - Hash: [1m[37m90605f2649f1c4ac[39m[37m[22m - Time: [1m[37m2702[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

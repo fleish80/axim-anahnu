@@ -8,9 +8,7 @@ type State = {
   youtubeSorces: YoutubeSourceModel[];
 }
 
-@Injectable({
-  providedIn: 'root'
-})
+@Injectable()
 export class YoutubeSourceStoreService extends signalStore(
   withState<State>({ youtubeSorces: [] }),
   withCallState(),
