@@ -658,10 +658,10 @@
         },
         {
           "file": "libs/content/source/components/source/source.component.ts",
-          "hash": "5502852263613844085",
+          "hash": "10674104141716042464",
           "deps": [
-            "npm:@angular/core",
             "npm:@angular/common",
+            "npm:@angular/core",
             "npm:@angular/youtube-player"
           ]
         },

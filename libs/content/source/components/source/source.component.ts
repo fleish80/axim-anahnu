@@ -1,7 +1,6 @@
-import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import {YouTubePlayerModule} from '@angular/youtube-player';
-import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
+import { Component, OnInit, inject } from '@angular/core';
+import { YouTubePlayerModule } from '@angular/youtube-player';
 import { YoutubeSourceStoreService } from '../../service/youtube-source-store/youtube-source-store.service';
 
 let apiLoaded = false;
