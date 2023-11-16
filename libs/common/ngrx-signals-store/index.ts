@@ -18,4 +18,4 @@ export { withHooks } from './base-features/with-hooks';
 export { withMethods } from './base-features/with-methods';
 export { withSignals } from './base-features/with-signals';
 export { withState } from './base-features/with-state';
-export { withCallState } from './advanced-features/call-state.feature';
+export { withCallState, setLoading, setLoaded, setError } from './advanced-features/call-state.feature';

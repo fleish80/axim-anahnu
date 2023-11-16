@@ -110,15 +110,15 @@
       },
       {
         "file": ".nx/cache/d/daemon.log",
-        "hash": "17617020270636537609"
+        "hash": "6236208061888378873"
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "13531414559511931837"
+        "hash": "1618728669097374658"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "7162578170764308082"
+        "hash": "1559676789557040030"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -130,11 +130,23 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "6188347107062819074"
+        "hash": "4541832545742284575"
       },
       {
         "file": ".nx/cache/terminalOutputs/11929401256528672157",
         "hash": "3233096974600979719"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/12562897203935929758",
+        "hash": "6457085733717472850"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/16613964315802740261",
+        "hash": "266391305118370984"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/4835848754066100499",
+        "hash": "14027595768948573332"
       },
       {
         "file": ".prettierignore",
@@ -326,7 +338,7 @@
         },
         {
           "file": "libs/common/ngrx-signals-store/index.ts",
-          "hash": "16474564243666329426"
+          "hash": "8091358423932371842"
         },
         {
           "file": "libs/common/ngrx-signals-store/ng-package.json",
@@ -646,7 +658,7 @@
         },
         {
           "file": "libs/content/source/components/source/source.component.ts",
-          "hash": "4383735336603039834",
+          "hash": "5502852263613844085",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -690,10 +702,11 @@
         },
         {
           "file": "libs/content/source/service/youtube-source-store/youtube-source-store.service.ts",
-          "hash": "10860825116546595783",
+          "hash": "3522113649020041760",
           "deps": [
             "npm:@angular/core",
-            "common"
+            "common",
+            "npm:rxjs"
           ]
         },
         {

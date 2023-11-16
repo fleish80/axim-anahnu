@@ -2,6 +2,7 @@ import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import {YouTubePlayerModule} from '@angular/youtube-player';
 import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
+import { YoutubeSourceStoreService } from '../../service/youtube-source-store/youtube-source-store.service';
 
 let apiLoaded = false;
 
@@ -10,20 +11,24 @@ let apiLoaded = false;
   standalone: true,
   imports: [CommonModule, YouTubePlayerModule],
   template: `
-  <youtube-player videoId="PRQCAL_RMVo"/>
+  <!-- <youtube-player videoId="PRQCAL_RMVo"/>
   
-  <youtube-player videoId="xWx3R7WaAQY"/>
+  <youtube-player videoId="xWx3R7WaAQY"/> -->
 
 
-{{item$ | async | json}}
+{{youtubeSorces() | json}}
+loading => {{loading()}}
+loaded => {{loaded()}}
 
   `,
   styles: [],
 })
 export class SourceComponent implements OnInit {
 
-  #youtubeSourceService = inject(YoutubeSourceService);
-  item$ = this.#youtubeSourceService.getYoutubeSources();
+  #youtubeSourceStoreService = inject(YoutubeSourceStoreService);
+  youtubeSorces = this.#youtubeSourceStoreService.youtubeSorces;
+  loading = this.#youtubeSourceStoreService.loading;
+  loaded = this.#youtubeSourceStoreService.loaded;
 
   ngOnInit() {
     if (!apiLoaded) {
