@@ -1,14 +1,12 @@
-import { CommonModule } from '@angular/common';
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { YouTubePlayerModule } from '@angular/youtube-player';
 import { YoutubeSourceStoreService } from '../../service/youtube-source-store/youtube-source-store.service';
 import { YoutubeItemComponent } from '../youtube-item/youtube-item.component';
-import { JsonPipe } from '@angular/common';
 
 @Component({
   selector: 'aa-source',
   standalone: true,
-  imports: [YouTubePlayerModule, YoutubeItemComponent, JsonPipe],
+  imports: [YouTubePlayerModule, YoutubeItemComponent],
   template: `
   @for (source of youtubeSorces(); track source.youtubeId) {
     <aa-youtube-item [youtubeSource]="source"/>
