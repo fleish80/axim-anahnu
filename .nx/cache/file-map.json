@@ -666,11 +666,11 @@
         },
         {
           "file": "libs/content/source/components/source/source.component.ts",
-          "hash": "11618562423180763213",
+          "hash": "10674104141716042464",
           "deps": [
+            "npm:@angular/common",
             "npm:@angular/core",
-            "npm:@angular/youtube-player",
-            "npm:@angular/common"
+            "npm:@angular/youtube-player"
           ]
         },
         {

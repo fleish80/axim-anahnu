@@ -1,3 +1,4 @@
+import { CommonModule } from '@angular/common';
 import { Component, OnInit, inject } from '@angular/core';
 import { YouTubePlayerModule } from '@angular/youtube-player';
 import { YoutubeSourceStoreService } from '../../service/youtube-source-store/youtube-source-store.service';
