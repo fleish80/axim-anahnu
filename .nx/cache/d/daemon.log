@@ -3283,3 +3283,9 @@ Error: EPERM: operation not permitted, rename 'c:\dev\axim-anahnu\.nx\cache\proj
 [NX Daemon Server] - 2023-11-19T19:05:04.495Z - [REQUEST]: libs/common/environment/models/test.component.ts,tsconfig.base.json
 [NX Daemon Server] - 2023-11-19T19:05:04.495Z - [REQUEST]: 
 [NX Daemon Server] - 2023-11-19T19:05:04.773Z - Time taken for 'hash changed files from watcher' 0.7800000002607703ms
+[NX Daemon Server] - 2023-11-19T19:06:19.419Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-19T19:06:19.421Z - [WATCHER]: 0 file(s) created or restored, 0 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2023-11-19T19:06:19.657Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-19T19:06:19.657Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-19T19:06:19.657Z - [REQUEST]: .idea/workspace.xml.tmp,.idea/workspace.xml
+[NX Daemon Server] - 2023-11-19T19:06:19.785Z - Time taken for 'hash changed files from watcher' 0.7771999998949468ms
