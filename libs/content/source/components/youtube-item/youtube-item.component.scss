@@ -1,0 +1,19 @@
+@use '@angular/material' as mat;
+
+:host {
+  display: flex;
+  flex-direction: column;
+  @include mat.elevation(10);
+  border-radius: 5px;
+  padding-inline: 10px;
+  padding-block: 10px;
+  ::ng-deep {
+    iframe {
+      width: 100%;
+    }
+  }
+}
+
+.title {
+  color: var(--primary-color);
+}

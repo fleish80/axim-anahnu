@@ -9,15 +9,9 @@ import { JsonPipe } from '@angular/common';
   imports: [YouTubePlayerModule, JsonPipe],
   template: `
   <youtube-player [videoId]="youtubeSource.youtubeId" (stateChange)="stateChange($event)"/>
-  <span>{{youtubeSource.title}}</span>
+  <span class="title mat-subtitle-2">{{youtubeSource.title}}</span>
   `,
-  styles: [`
-  :host {
-    display: flex;
-    flex-direction: column;
-  }
-
-  `],
+  styleUrls: ['./youtube-item.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class YoutubeItemComponent {

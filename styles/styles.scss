@@ -20,10 +20,30 @@
 // // The warn palette is optional (defaults to red).
 // $main-warn: mat.define-palette(mat.$red-palette);
 
+
+$font-family: Roboto, "Helvetica Neue", sans-serif; // Manual edit - fonts will be loaded locally
+
+
 $main-primary: mat.define-palette(palette.$primary);
 $main-accent: mat.define-palette(palette.$accent);
 $main-warn: mat.define-palette(palette.$warn);
 
+$mat-typography: mat.define-typography-config(
+  $font-family: $font-family,
+  $headline-1: mat.define-typography-level(69px, 82.8px, 500, $font-family, -0.0217em),
+  $headline-2: mat.define-typography-level(55px, 66px, 500, $font-family, -0.0091em),
+  $headline-3: mat.define-typography-level(44px, 52.8px, 500, $font-family, 0.0000em),
+  $headline-4: mat.define-typography-level(35px, 42px, 500, $font-family, 0.0143em),
+  $headline-5: mat.define-typography-level(23px, 27.6px, 700, $font-family, 0.0000em),
+  $headline-6: mat.define-typography-level(28px, 33.6px, 500, $font-family, 0.0054em),
+  $subtitle-1: mat.define-typography-level(18px, 21.6px, 400, $font-family, 0.0056em),
+  $subtitle-2: mat.define-typography-level(18px, 21.6px, 700, $font-family, 0.0083em), // Manual edit from 500 to 700
+  $body-1: mat.define-typography-level(14px, 21px, 400, $font-family, 0.0179em),
+  $body-2: mat.define-typography-level(14px, 21px, 600, $font-family, 0.0179em), // Manual edit from 500 to 600
+  $caption: mat.define-typography-level(12px, 14.4px, 400, $font-family, 0.0333em),
+  $button: mat.define-typography-level(14px, 14px, 700, $font-family, 0.0893em), // Manual edit from 500 to 700
+  $overline: null,
+);
 
 
 
@@ -34,9 +54,10 @@ $main-theme: mat.define-light-theme((
     primary: $main-primary,
     accent: $main-accent,
     warn: $main-warn,
-  )
+  ),
 ));
 
+@include mat.all-component-typographies($mat-typography);
 // Include theme styles for core and each component used in your app.
 // Alternatively, you can import and @include the theme mixins for each component
 // that you are using.
@@ -46,6 +67,6 @@ $main-theme: mat.define-light-theme((
 /* You can add global styles to this file, and also import other style files */
 
 html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; font-family: $font-family }
 
 
