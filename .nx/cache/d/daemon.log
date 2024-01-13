@@ -10234,3 +10234,23 @@ Error: write EOF
 [NX Daemon Server] - 2024-01-13T20:37:34.808Z - [WATCHER]: Stopping the watcher for C:\dev\axim-anahnu (sources)
 [NX Daemon Server] - 2024-01-13T20:37:34.808Z - [WATCHER]: Stopping the watcher for C:\dev\axim-anahnu (outputs)
 [NX Daemon Server] - 2024-01-13T20:37:34.808Z - Server stopped because: "this process is no longer the current daemon (native)"
+[NX Daemon Server] - 2024-01-13T20:40:10.587Z - Started listening on: \\.\pipe\nx\C:\Users\Yana\AppData\Local\Temp\a9681f457adc9b822448\d.sock
+[NX Daemon Server] - 2024-01-13T20:40:10.603Z - [WATCHER]: Subscribed to changes within: C:\dev\axim-anahnu (native)
+[NX Daemon Server] - 2024-01-13T20:40:10.606Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-13T20:40:10.609Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-13T20:40:10.612Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-13T20:40:10.665Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-13T20:40:11.188Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-13T20:40:11.189Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-13T20:40:11.189Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-13T20:40:11.995Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-13T20:40:12.003Z - Time taken for 'total for creating and serializing project graph' 1329.6099996566772ms
+[NX Daemon Server] - 2024-01-13T20:40:12.003Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-13T20:40:12.003Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1341. Response time: 8.
+[NX Daemon Server] - 2024-01-13T20:40:12.017Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-13T20:40:12.023Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-13T20:40:12.023Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-13T20:40:12.024Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-13T20:40:12.030Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-13T20:40:12.031Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-13T20:40:12.032Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 2.

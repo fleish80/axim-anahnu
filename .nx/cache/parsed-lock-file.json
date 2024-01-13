@@ -2493,24 +2493,6 @@
         "hash": "sha512-sRu1kpcO9yLtYxBKvqfTeh9KzZEwO3STyX1HT+4CaDzC6HpTGYhIhPIzj9XuKU7KYDwnaeh5hcOwjy1QuJzBPA=="
       }
     },
-    "npm:argparse@2.0.1": {
-      "type": "npm",
-      "name": "npm:argparse@2.0.1",
-      "data": {
-        "version": "2.0.1",
-        "packageName": "argparse",
-        "hash": "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q=="
-      }
-    },
-    "npm:argparse": {
-      "type": "npm",
-      "name": "npm:argparse",
-      "data": {
-        "version": "1.0.10",
-        "packageName": "argparse",
-        "hash": "sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg=="
-      }
-    },
     "npm:globals@13.24.0": {
       "type": "npm",
       "name": "npm:globals@13.24.0",
@@ -2527,24 +2509,6 @@
         "version": "11.12.0",
         "packageName": "globals",
         "hash": "sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA=="
-      }
-    },
-    "npm:js-yaml@4.1.0": {
-      "type": "npm",
-      "name": "npm:js-yaml@4.1.0",
-      "data": {
-        "version": "4.1.0",
-        "packageName": "js-yaml",
-        "hash": "sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA=="
-      }
-    },
-    "npm:js-yaml": {
-      "type": "npm",
-      "name": "npm:js-yaml",
-      "data": {
-        "version": "3.14.1",
-        "packageName": "js-yaml",
-        "hash": "sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g=="
       }
     },
     "npm:json-schema-traverse@0.4.1": {
@@ -3211,6 +3175,42 @@
         "version": "1.1.0",
         "packageName": "@istanbuljs/load-nyc-config",
         "hash": "sha512-VjeHSlIzpv/NyD3N0YuHfXOPDIixcA1q2ZV98wsMqcYlPmv2n3Yb2lYP9XMElnaFVXg5A7YLTeLu6V84uQDjmQ=="
+      }
+    },
+    "npm:argparse@1.0.10": {
+      "type": "npm",
+      "name": "npm:argparse@1.0.10",
+      "data": {
+        "version": "1.0.10",
+        "packageName": "argparse",
+        "hash": "sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg=="
+      }
+    },
+    "npm:argparse": {
+      "type": "npm",
+      "name": "npm:argparse",
+      "data": {
+        "version": "2.0.1",
+        "packageName": "argparse",
+        "hash": "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q=="
+      }
+    },
+    "npm:js-yaml@3.14.1": {
+      "type": "npm",
+      "name": "npm:js-yaml@3.14.1",
+      "data": {
+        "version": "3.14.1",
+        "packageName": "js-yaml",
+        "hash": "sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g=="
+      }
+    },
+    "npm:js-yaml": {
+      "type": "npm",
+      "name": "npm:js-yaml",
+      "data": {
+        "version": "4.1.0",
+        "packageName": "js-yaml",
+        "hash": "sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA=="
       }
     },
     "npm:@istanbuljs/schema": {
@@ -18169,7 +18169,7 @@
     },
     {
       "source": "npm:@eslint/eslintrc",
-      "target": "npm:js-yaml@4.1.0",
+      "target": "npm:js-yaml",
       "type": "static"
     },
     {
@@ -18205,11 +18205,6 @@
     {
       "source": "npm:globals@13.24.0",
       "target": "npm:type-fest@0.20.2",
-      "type": "static"
-    },
-    {
-      "source": "npm:js-yaml@4.1.0",
-      "target": "npm:argparse@2.0.1",
       "type": "static"
     },
     {
@@ -19164,12 +19159,27 @@
     },
     {
       "source": "npm:@istanbuljs/load-nyc-config",
-      "target": "npm:js-yaml",
+      "target": "npm:js-yaml@3.14.1",
       "type": "static"
     },
     {
       "source": "npm:@istanbuljs/load-nyc-config",
       "target": "npm:resolve-from",
+      "type": "static"
+    },
+    {
+      "source": "npm:argparse@1.0.10",
+      "target": "npm:sprintf-js",
+      "type": "static"
+    },
+    {
+      "source": "npm:js-yaml@3.14.1",
+      "target": "npm:argparse@1.0.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:js-yaml@3.14.1",
+      "target": "npm:esprima",
       "type": "static"
     },
     {
@@ -22519,6 +22529,11 @@
     },
     {
       "source": "npm:@nx/eslint",
+      "target": "npm:js-yaml",
+      "type": "static"
+    },
+    {
+      "source": "npm:@nx/eslint",
       "target": "npm:@nx/devkit",
       "type": "static"
     },
@@ -24093,11 +24108,6 @@
       "type": "static"
     },
     {
-      "source": "npm:js-yaml@4.1.0",
-      "target": "npm:argparse@2.0.1",
-      "type": "static"
-    },
-    {
       "source": "npm:jsonfile@6.1.0",
       "target": "npm:universalify@2.0.1",
       "type": "static"
@@ -24214,7 +24224,7 @@
     },
     {
       "source": "npm:nx@17.2.0",
-      "target": "npm:js-yaml@4.1.0",
+      "target": "npm:js-yaml",
       "type": "static"
     },
     {
@@ -25464,7 +25474,7 @@
     },
     {
       "source": "npm:@yarnpkg/parsers",
-      "target": "npm:js-yaml",
+      "target": "npm:js-yaml@3.14.1",
       "type": "static"
     },
     {
@@ -25473,8 +25483,23 @@
       "type": "static"
     },
     {
+      "source": "npm:argparse@1.0.10",
+      "target": "npm:sprintf-js",
+      "type": "static"
+    },
+    {
+      "source": "npm:js-yaml@3.14.1",
+      "target": "npm:argparse@1.0.10",
+      "type": "static"
+    },
+    {
+      "source": "npm:js-yaml@3.14.1",
+      "target": "npm:esprima",
+      "type": "static"
+    },
+    {
       "source": "npm:@zkochan/js-yaml",
-      "target": "npm:argparse@2.0.1",
+      "target": "npm:argparse",
       "type": "static"
     },
     {
@@ -25605,11 +25630,6 @@
     {
       "source": "npm:anymatch",
       "target": "npm:picomatch@2.3.1",
-      "type": "static"
-    },
-    {
-      "source": "npm:argparse",
-      "target": "npm:sprintf-js",
       "type": "static"
     },
     {
@@ -26919,7 +26939,7 @@
     },
     {
       "source": "npm:cosmiconfig",
-      "target": "npm:js-yaml@4.1.0",
+      "target": "npm:js-yaml",
       "type": "static"
     },
     {
@@ -26930,11 +26950,6 @@
     {
       "source": "npm:cosmiconfig",
       "target": "npm:path-type",
-      "type": "static"
-    },
-    {
-      "source": "npm:js-yaml@4.1.0",
-      "target": "npm:argparse@2.0.1",
       "type": "static"
     },
     {
@@ -27954,7 +27969,7 @@
     },
     {
       "source": "npm:eslint",
-      "target": "npm:js-yaml@4.1.0",
+      "target": "npm:js-yaml",
       "type": "static"
     },
     {
@@ -28070,11 +28085,6 @@
     {
       "source": "npm:globals@13.24.0",
       "target": "npm:type-fest@0.20.2",
-      "type": "static"
-    },
-    {
-      "source": "npm:js-yaml@4.1.0",
-      "target": "npm:argparse@2.0.1",
       "type": "static"
     },
     {
@@ -31348,11 +31358,6 @@
       "type": "static"
     },
     {
-      "source": "npm:js-yaml",
-      "target": "npm:esprima",
-      "type": "static"
-    },
-    {
       "source": "npm:jsdom",
       "target": "npm:abab",
       "type": "static"
@@ -32479,7 +32484,7 @@
     },
     {
       "source": "npm:nx",
-      "target": "npm:js-yaml@4.1.0",
+      "target": "npm:js-yaml",
       "type": "static"
     },
     {
@@ -32695,11 +32700,6 @@
     {
       "source": "npm:glob@7.1.4",
       "target": "npm:path-is-absolute",
-      "type": "static"
-    },
-    {
-      "source": "npm:js-yaml@4.1.0",
-      "target": "npm:argparse@2.0.1",
       "type": "static"
     },
     {
