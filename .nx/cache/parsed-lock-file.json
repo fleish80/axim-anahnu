@@ -3906,13 +3906,13 @@
         "hash": "sha512-hQSPdmzuxJIu2SBwvoiwjoUjxSnUGFyCOkJnV8IwzzmBSdgQxqMMci5WXg/bQeCYggA+RyXpUjjTudEvkWy5Rw=="
       }
     },
-    "npm:@ngneat/transloco-utils": {
+    "npm:@ngneat/transloco-scoped-libs": {
       "type": "npm",
-      "name": "npm:@ngneat/transloco-utils",
+      "name": "npm:@ngneat/transloco-scoped-libs",
       "data": {
-        "version": "5.0.0",
-        "packageName": "@ngneat/transloco-utils",
-        "hash": "sha512-e0S+GWyBTmLix9KfYWW/rScYdqQz3z3znNSb+foaA5T3jWs4CPLVo+PV0No7kGjqom8Wy8H3lLvztfhHxYSLyA=="
+        "version": "5.0.3",
+        "packageName": "@ngneat/transloco-scoped-libs",
+        "hash": "sha512-7nuHDEcF3WHUtHdFV88fnLzxlesNE3HuVo+qjFLx2JjebgDjq40GZbMS+C0IJzS9xw+ufJB4Q5QhUbxRth0bQQ=="
       }
     },
     "npm:fs-extra@11.2.0": {
@@ -4005,13 +4005,22 @@
         "hash": "sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg=="
       }
     },
+    "npm:@ngneat/transloco-utils": {
+      "type": "npm",
+      "name": "npm:@ngneat/transloco-utils",
+      "data": {
+        "version": "5.0.0",
+        "packageName": "@ngneat/transloco-utils",
+        "hash": "sha512-e0S+GWyBTmLix9KfYWW/rScYdqQz3z3znNSb+foaA5T3jWs4CPLVo+PV0No7kGjqom8Wy8H3lLvztfhHxYSLyA=="
+      }
+    },
     "npm:@ngrx/signals": {
       "type": "npm",
       "name": "npm:@ngrx/signals",
       "data": {
-        "version": "17.0.1",
+        "version": "17.1.1",
         "packageName": "@ngrx/signals",
-        "hash": "sha512-YxnYoDlm0Q0Wighspwg3mgUqnOuIiGP3jvqcr1R/ZMIQ2e0IyzJR2QhtZ1etFxB6NhyDuGtG8FWU2+0cgc0w/w=="
+        "hash": "sha512-9Rlw7u8LxkyS+HMZe7DzUkV1p/2IL5tDa1ZHhX8Ldilx4HoOHvISdzCagCpXMoXDLZGEaWOA/n/BcQQxsjytEg=="
       }
     },
     "npm:@ngtools/webpack": {
@@ -6642,6 +6651,15 @@
         "hash": "sha512-b0P0sZPKtyu8HkeRAfCq0IfURZK+SuwMjY1UXGBU27wpAiTwQAIlq56IbIO+ytk/JjS1fMR14ee5WBBfKi5J6A=="
       }
     },
+    "npm:array-back": {
+      "type": "npm",
+      "name": "npm:array-back",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "array-back",
+        "hash": "sha512-TkuxA4UCOvxuDK6NZYXCalszEzj+TLszyASooky+i742l9TqsOdYCMJJupxRic61hwquNtppB3hgcuq9SVSH1Q=="
+      }
+    },
     "npm:array-flatten": {
       "type": "npm",
       "name": "npm:array-flatten",
@@ -7612,6 +7630,15 @@
         "version": "1.0.8",
         "packageName": "combined-stream",
         "hash": "sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg=="
+      }
+    },
+    "npm:command-line-args": {
+      "type": "npm",
+      "name": "npm:command-line-args",
+      "data": {
+        "version": "5.2.1",
+        "packageName": "command-line-args",
+        "hash": "sha512-H4UfQhZyakIjC74I9d34fGYDwk3XpSr17QhEd0Q3I9Xq1CETHo4Hcuo87WyWHpAF1aSLjLRf5lD9ZGX2qStUvg=="
       }
     },
     "npm:commander": {
@@ -9088,6 +9115,15 @@
         "version": "2.0.1",
         "packageName": "statuses",
         "hash": "sha512-RwNA9Z/7PrK06rYLIzFMlaF+l73iwpzsqRIFgbMLbTcLD6cOao82TaWefPXQvB2fOC4AjuYSEndS7N/mTCbkdQ=="
+      }
+    },
+    "npm:find-replace": {
+      "type": "npm",
+      "name": "npm:find-replace",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "find-replace",
+        "hash": "sha512-6Tb2myMioCAgv5kfvP5/PkZZ/ntTpVK39fHY7WkWBgvbeE+VHd/tZuZ4mrC+bxh4cfOZeYKVPaJIZtZXV7GNCQ=="
       }
     },
     "npm:firebase": {
@@ -13588,6 +13624,15 @@
         "version": "5.2.2",
         "packageName": "typescript",
         "hash": "sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w=="
+      }
+    },
+    "npm:typical": {
+      "type": "npm",
+      "name": "npm:typical",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "typical",
+        "hash": "sha512-VAH4IvQ7BDFYglMd7BPRDfLgxZZX4O4TFcRDA6EN5X7erNJJq+McIEp8np9aVtxrCJ6qx4GTYVfOWNjcqwZgRw=="
       }
     },
     "npm:ua-parser-js": {
@@ -21978,6 +22023,86 @@
       "type": "static"
     },
     {
+      "source": "npm:@ngneat/transloco-scoped-libs",
+      "target": "npm:@ngneat/transloco-utils",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ngneat/transloco-scoped-libs",
+      "target": "npm:chalk@4.1.2",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ngneat/transloco-scoped-libs",
+      "target": "npm:chokidar",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ngneat/transloco-scoped-libs",
+      "target": "npm:command-line-args",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ngneat/transloco-scoped-libs",
+      "target": "npm:fs-extra@11.2.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:@ngneat/transloco-scoped-libs",
+      "target": "npm:glob",
+      "type": "static"
+    },
+    {
+      "source": "npm:ansi-styles@4.3.0",
+      "target": "npm:color-convert@2.0.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:chalk@4.1.2",
+      "target": "npm:ansi-styles@4.3.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:chalk@4.1.2",
+      "target": "npm:supports-color@7.2.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:color-convert@2.0.1",
+      "target": "npm:color-name@1.1.4",
+      "type": "static"
+    },
+    {
+      "source": "npm:fs-extra@11.2.0",
+      "target": "npm:graceful-fs",
+      "type": "static"
+    },
+    {
+      "source": "npm:fs-extra@11.2.0",
+      "target": "npm:jsonfile@6.1.0",
+      "type": "static"
+    },
+    {
+      "source": "npm:fs-extra@11.2.0",
+      "target": "npm:universalify@2.0.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:jsonfile@6.1.0",
+      "target": "npm:universalify@2.0.1",
+      "type": "static"
+    },
+    {
+      "source": "npm:jsonfile@6.1.0",
+      "target": "npm:graceful-fs",
+      "type": "static"
+    },
+    {
+      "source": "npm:supports-color@7.2.0",
+      "target": "npm:has-flag@4.0.0",
+      "type": "static"
+    },
+    {
       "source": "npm:@ngneat/transloco-utils",
       "target": "npm:cosmiconfig",
       "type": "static"
@@ -26768,6 +26893,26 @@
       "type": "static"
     },
     {
+      "source": "npm:command-line-args",
+      "target": "npm:array-back",
+      "type": "static"
+    },
+    {
+      "source": "npm:command-line-args",
+      "target": "npm:find-replace",
+      "type": "static"
+    },
+    {
+      "source": "npm:command-line-args",
+      "target": "npm:lodash.camelcase",
+      "type": "static"
+    },
+    {
+      "source": "npm:command-line-args",
+      "target": "npm:typical",
+      "type": "static"
+    },
+    {
       "source": "npm:compressible",
       "target": "npm:mime-db",
       "type": "static"
@@ -28635,6 +28780,11 @@
     {
       "source": "npm:find-cache-dir",
       "target": "npm:pkg-dir",
+      "type": "static"
+    },
+    {
+      "source": "npm:find-replace",
+      "target": "npm:array-back",
       "type": "static"
     },
     {

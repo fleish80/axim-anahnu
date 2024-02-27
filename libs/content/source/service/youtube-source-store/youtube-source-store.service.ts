@@ -1,24 +1,26 @@
-import { Injectable, inject } from '@angular/core';
-import { rxMethod, setLoaded, setLoading, signalStore, withCallState, withHooks, withMethods, withState } from '@axim-anahnu/common/ngrx-signals-store';
+import { inject } from '@angular/core';
 import { pipe, switchMap, tap } from 'rxjs';
 import { YoutubeSourceModel } from '../../models/youtube-source.model';
 import { YoutubeSourceService } from '../youtube-source/youtube-source.service';
+import { patchState, signalStore, withHooks, withMethods, withState } from '@ngrx/signals';
+import { rxMethod } from '@ngrx/signals/rxjs-interop';
+import { setLoaded, setLoading, withCallState } from '@axim-anahnu/common/signal-store-features';
 
 type State = {
-  youtubeSorces: YoutubeSourceModel[];
+  youtubeSources: YoutubeSourceModel[];
 }
 
-@Injectable()
-export class YoutubeSourceStoreService extends signalStore(
-  withState<State>({ youtubeSorces: [] }),
+
+export const YoutubeSourceStore = signalStore(
+  withState<State>({ youtubeSources: [] }),
   withCallState(),
-  withMethods(({ $update },
+  withMethods((store,
     youtubeSourceService = inject(YoutubeSourceService)) => ({
       load: rxMethod<void>(
         pipe(
-          tap(() => $update(setLoading())),
+          tap(() => patchState(store, setLoading())),
           switchMap(() => youtubeSourceService.getYoutubeSources()),
-          tap((youtubeSorces) => $update({ youtubeSorces }, setLoaded()))
+          tap((youtubeSources) => patchState(store, { youtubeSources }, setLoaded()))
         )
       )
     })),
@@ -27,7 +29,4 @@ export class YoutubeSourceStoreService extends signalStore(
       load();
     },
   })
-) {
-
-
-}
+)
