@@ -113,15 +113,15 @@
       },
       {
         "file": ".nx/cache/d/daemon.log",
-        "hash": "9762911050592877093"
+        "hash": "7571801977280683446"
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "12162923060565587425"
+        "hash": "314986617922943891"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "11502028012322734113"
+        "hash": "15094915208157725823"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -133,7 +133,7 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "16309366211470063226"
+        "hash": "17188444431467389764"
       },
       {
         "file": ".nx/cache/project-graph.json~3369a8f3",
@@ -142,6 +142,14 @@
       {
         "file": ".nx/cache/project-graph.json~b72b2fd6",
         "hash": "2075223547591592795"
+      },
+      {
+        "file": ".nx/cache/project-graph.json~bfb4a8ef",
+        "hash": "17188444431467389764"
+      },
+      {
+        "file": ".nx/cache/run.json",
+        "hash": "15766901426739877014"
       },
       {
         "file": ".nx/cache/terminalOutputs/10943186080468331968",
@@ -182,6 +190,10 @@
       {
         "file": ".nx/cache/terminalOutputs/4835848754066100499",
         "hash": "747765318700908277"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/7395480354118322188",
+        "hash": "13810640775221269286"
       },
       {
         "file": ".nx/cache/terminalOutputs/8660272540519279526",
@@ -270,280 +282,17 @@
       {
         "file": "tsconfig.base.json",
         "hash": "14953385041058893874"
+      },
+      {
+        "file": "images/flag-2.jpeg",
+        "hash": "16942964085514739943"
+      },
+      {
+        "file": "images/flag-3.jpeg",
+        "hash": "12827405459391147098"
       }
     ],
     "projectFileMap": {
-      "content": [
-        {
-          "file": "libs/content/.eslintrc.json",
-          "hash": "14297704538809278712"
-        },
-        {
-          "file": "libs/content/README.md",
-          "hash": "8492751482962435461"
-        },
-        {
-          "file": "libs/content/content/components/content/content.component.spec.ts",
-          "hash": "10173717789979184764",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/content/components/content/content.component.ts",
-          "hash": "16807461563159576830",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/material",
-            "npm:@ngneat/transloco"
-          ]
-        },
-        {
-          "file": "libs/content/content/content.routes.ts",
-          "hash": "9924837618323677060",
-          "deps": [
-            "npm:@angular/router"
-          ]
-        },
-        {
-          "file": "libs/content/content/index.ts",
-          "hash": "2656568455426674007"
-        },
-        {
-          "file": "libs/content/content/ng-package.json",
-          "hash": "9603264685267935717"
-        },
-        {
-          "file": "libs/content/description/README.md",
-          "hash": "11310932657820911766"
-        },
-        {
-          "file": "libs/content/description/components/description/description.component.scss",
-          "hash": "9627247491737658813"
-        },
-        {
-          "file": "libs/content/description/components/description/description.component.spec.ts",
-          "hash": "10108950466680488632",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/description/components/description/description.component.ts",
-          "hash": "6620861554449889092",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@ngneat/transloco"
-          ]
-        },
-        {
-          "file": "libs/content/description/index.ts",
-          "hash": "9753054215237253349"
-        },
-        {
-          "file": "libs/content/description/ng-package.json",
-          "hash": "9603264685267935717"
-        },
-        {
-          "file": "libs/content/history/README.md",
-          "hash": "18044778919883329556"
-        },
-        {
-          "file": "libs/content/history/components/history/history.component.spec.ts",
-          "hash": "3071729820294124037",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/history/components/history/history.component.ts",
-          "hash": "18442621062983612254",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common",
-            "npm:@angular/material",
-            "npm:@ngneat/transloco"
-          ]
-        },
-        {
-          "file": "libs/content/history/components/holocaust/holocaust.component.spec.ts",
-          "hash": "16625639526603957314",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/history/components/holocaust/holocaust.component.ts",
-          "hash": "14854257812435815005",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common"
-          ]
-        },
-        {
-          "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.spec.ts",
-          "hash": "7828998721018581814",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.ts",
-          "hash": "9944060097259232740",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common"
-          ]
-        },
-        {
-          "file": "libs/content/history/index.ts",
-          "hash": "10364919303807209930"
-        },
-        {
-          "file": "libs/content/history/ng-package.json",
-          "hash": "9603264685267935717"
-        },
-        {
-          "file": "libs/content/i18n/en.json",
-          "hash": "12166922465874784511"
-        },
-        {
-          "file": "libs/content/i18n/he.json",
-          "hash": "38873115149919425"
-        },
-        {
-          "file": "libs/content/index.ts",
-          "hash": "3366108681024234455"
-        },
-        {
-          "file": "libs/content/jest.config.ts",
-          "hash": "3067134394015281324"
-        },
-        {
-          "file": "libs/content/ng-package.json",
-          "hash": "952438439689789199"
-        },
-        {
-          "file": "libs/content/package.json",
-          "hash": "13040296260414484764",
-          "deps": [
-            "npm:tslib",
-            "npm:@angular/common",
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/project.json",
-          "hash": "193663478173008809"
-        },
-        {
-          "file": "libs/content/source/README.md",
-          "hash": "11604957381876317337"
-        },
-        {
-          "file": "libs/content/source/components/source/source.component.spec.ts",
-          "hash": "12620433757899815014",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/source/components/source/source.component.ts",
-          "hash": "7421301584020060755",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/youtube-player"
-          ]
-        },
-        {
-          "file": "libs/content/source/components/youtube-item/youtube-item.component.scss",
-          "hash": "10073400031118858514"
-        },
-        {
-          "file": "libs/content/source/components/youtube-item/youtube-item.component.spec.ts",
-          "hash": "16857624107846252663",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/source/components/youtube-item/youtube-item.component.ts",
-          "hash": "11340961966398099144",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/youtube-player",
-            "npm:@angular/common"
-          ]
-        },
-        {
-          "file": "libs/content/source/index.ts",
-          "hash": "18325968995626243987"
-        },
-        {
-          "file": "libs/content/source/models/youtube-source.model.ts",
-          "hash": "5274587496977748243"
-        },
-        {
-          "file": "libs/content/source/ng-package.json",
-          "hash": "9603264685267935717"
-        },
-        {
-          "file": "libs/content/source/service/youtube-source/youtube-source.service.spec.ts",
-          "hash": "9704365995731581554",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/source/service/youtube-source/youtube-source.service.ts",
-          "hash": "17973738581275405532",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/fire",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "libs/content/source/service/youtube-source-store/youtube-source-store.service.spec.ts",
-          "hash": "2012511178998263033",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/content/source/service/youtube-source-store/youtube-source-store.service.ts",
-          "hash": "4034840700240367701",
-          "deps": [
-            "npm:@angular/core",
-            "npm:rxjs",
-            "npm:@ngrx/signals",
-            "common"
-          ]
-        },
-        {
-          "file": "libs/content/test-setup.ts",
-          "hash": "10765977267162271731",
-          "deps": [
-            "npm:jest-preset-angular"
-          ]
-        },
-        {
-          "file": "libs/content/tsconfig.json",
-          "hash": "7184861466157324158"
-        },
-        {
-          "file": "libs/content/tsconfig.lib.json",
-          "hash": "10237209988492787423"
-        },
-        {
-          "file": "libs/content/tsconfig.lib.prod.json",
-          "hash": "16219944552368449858"
-        },
-        {
-          "file": "libs/content/tsconfig.spec.json",
-          "hash": "552591673985527526"
-        }
-      ],
       "common": [
         {
           "file": "libs/common/.eslintrc.json",
@@ -865,6 +614,277 @@
         {
           "file": "apps/main/tsconfig.spec.json",
           "hash": "1930986853382524452"
+        }
+      ],
+      "content": [
+        {
+          "file": "libs/content/.eslintrc.json",
+          "hash": "14297704538809278712"
+        },
+        {
+          "file": "libs/content/README.md",
+          "hash": "8492751482962435461"
+        },
+        {
+          "file": "libs/content/content/components/content/content.component.spec.ts",
+          "hash": "10173717789979184764",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/content/components/content/content.component.ts",
+          "hash": "16807461563159576830",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/material",
+            "npm:@ngneat/transloco"
+          ]
+        },
+        {
+          "file": "libs/content/content/content.routes.ts",
+          "hash": "9924837618323677060",
+          "deps": [
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/content/content/index.ts",
+          "hash": "2656568455426674007"
+        },
+        {
+          "file": "libs/content/content/ng-package.json",
+          "hash": "9603264685267935717"
+        },
+        {
+          "file": "libs/content/description/README.md",
+          "hash": "11310932657820911766"
+        },
+        {
+          "file": "libs/content/description/components/description/description.component.scss",
+          "hash": "574113746285209687"
+        },
+        {
+          "file": "libs/content/description/components/description/description.component.spec.ts",
+          "hash": "10108950466680488632",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/description/components/description/description.component.ts",
+          "hash": "6620861554449889092",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@ngneat/transloco"
+          ]
+        },
+        {
+          "file": "libs/content/description/index.ts",
+          "hash": "9753054215237253349"
+        },
+        {
+          "file": "libs/content/description/ng-package.json",
+          "hash": "9603264685267935717"
+        },
+        {
+          "file": "libs/content/history/README.md",
+          "hash": "18044778919883329556"
+        },
+        {
+          "file": "libs/content/history/components/history/history.component.spec.ts",
+          "hash": "3071729820294124037",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/history/components/history/history.component.ts",
+          "hash": "18442621062983612254",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/material",
+            "npm:@ngneat/transloco"
+          ]
+        },
+        {
+          "file": "libs/content/history/components/holocaust/holocaust.component.spec.ts",
+          "hash": "16625639526603957314",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/history/components/holocaust/holocaust.component.ts",
+          "hash": "14854257812435815005",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.spec.ts",
+          "hash": "7828998721018581814",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.ts",
+          "hash": "9944060097259232740",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "libs/content/history/index.ts",
+          "hash": "10364919303807209930"
+        },
+        {
+          "file": "libs/content/history/ng-package.json",
+          "hash": "9603264685267935717"
+        },
+        {
+          "file": "libs/content/i18n/en.json",
+          "hash": "12166922465874784511"
+        },
+        {
+          "file": "libs/content/i18n/he.json",
+          "hash": "10048718259645325417"
+        },
+        {
+          "file": "libs/content/index.ts",
+          "hash": "3366108681024234455"
+        },
+        {
+          "file": "libs/content/jest.config.ts",
+          "hash": "3067134394015281324"
+        },
+        {
+          "file": "libs/content/ng-package.json",
+          "hash": "952438439689789199"
+        },
+        {
+          "file": "libs/content/package.json",
+          "hash": "13040296260414484764",
+          "deps": [
+            "npm:tslib",
+            "npm:@angular/common",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/project.json",
+          "hash": "193663478173008809"
+        },
+        {
+          "file": "libs/content/source/README.md",
+          "hash": "11604957381876317337"
+        },
+        {
+          "file": "libs/content/source/components/source/source.component.spec.ts",
+          "hash": "12620433757899815014",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/source/components/source/source.component.ts",
+          "hash": "7421301584020060755",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/youtube-player"
+          ]
+        },
+        {
+          "file": "libs/content/source/components/youtube-item/youtube-item.component.scss",
+          "hash": "10073400031118858514"
+        },
+        {
+          "file": "libs/content/source/components/youtube-item/youtube-item.component.spec.ts",
+          "hash": "16857624107846252663",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/source/components/youtube-item/youtube-item.component.ts",
+          "hash": "11340961966398099144",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/youtube-player",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "libs/content/source/index.ts",
+          "hash": "18325968995626243987"
+        },
+        {
+          "file": "libs/content/source/models/youtube-source.model.ts",
+          "hash": "5274587496977748243"
+        },
+        {
+          "file": "libs/content/source/ng-package.json",
+          "hash": "9603264685267935717"
+        },
+        {
+          "file": "libs/content/source/service/youtube-source/youtube-source.service.spec.ts",
+          "hash": "9704365995731581554",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/source/service/youtube-source/youtube-source.service.ts",
+          "hash": "17973738581275405532",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/fire",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/content/source/service/youtube-source-store/youtube-source-store.service.spec.ts",
+          "hash": "2012511178998263033",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/content/source/service/youtube-source-store/youtube-source-store.service.ts",
+          "hash": "4034840700240367701",
+          "deps": [
+            "npm:@angular/core",
+            "npm:rxjs",
+            "npm:@ngrx/signals",
+            "common"
+          ]
+        },
+        {
+          "file": "libs/content/test-setup.ts",
+          "hash": "10765977267162271731",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "libs/content/tsconfig.json",
+          "hash": "7184861466157324158"
+        },
+        {
+          "file": "libs/content/tsconfig.lib.json",
+          "hash": "10237209988492787423"
+        },
+        {
+          "file": "libs/content/tsconfig.lib.prod.json",
+          "hash": "16219944552368449858"
+        },
+        {
+          "file": "libs/content/tsconfig.spec.json",
+          "hash": "552591673985527526"
         }
       ]
     }
