@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { TranslocoModule } from '@ngneat/transloco';
+import { TranslocoDirective } from '@ngneat/transloco';
 
 @Component({
   selector: 'aa-description',
   standalone: true,
-  imports: [TranslocoModule],
+  imports: [TranslocoDirective],
   template: `
     <article class="mat-elevation-z24 content article" *transloco="let t; read 'content'">
       <h2 class="article-title">{{ t('article.title') }}</h2>
