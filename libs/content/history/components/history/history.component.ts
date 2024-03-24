@@ -10,7 +10,7 @@ import { TranslocoDirective } from '@ngneat/transloco';
   standalone: true,
   imports: [CommonModule, MatTabsModule, SecondHouseDestructionComponent, HolocaustComponent, TranslocoDirective],
   template: `
-    <mat-tab-group color="primary" *transloco="let t; read 'content'">
+    <mat-tab-group color="primary" *transloco="let t; read 'content'" class="mat-elevation-z24">
       <mat-tab [label]="t('second-house-label')">
         @defer (on viewport) {
           <aa-second-house-destruction/>

@@ -14,16 +14,7 @@ import { YoutubeItemComponent } from '../youtube-item/youtube-item.component';
     <aa-youtube-item [youtubeSource]="source"/>
   }
   `,
-  styles: [`
-    :host {
-      margin: 20px;
-      display: grid;
-      gap: 10px;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-      grid-auto-rows: 1fr;
-    }
-
-  `],
+  styleUrl: './source.component.scss',
   providers: [YoutubeSourceStore]
 })
 export class SourceComponent {
