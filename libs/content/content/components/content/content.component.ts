@@ -15,7 +15,7 @@ import { YoutubeSourceService } from '../../../source/service/youtube-source/you
     <mat-toolbar color="primary">
       <div class="toolbar-buttons">
         <button class="toolbar-button" mat-flat-button color="primary">{{t('description')}}</button>
-        <button class="toolbar-button"mat-flat-button color="primary">{{t('history')}}</button>
+        <button class="toolbar-button" mat-flat-button color="primary">{{t('history')}}</button>
         <button class="toolbar-button" mat-flat-button color="primary">{{t('information')}}</button>
       </div>
     </mat-toolbar>
@@ -33,7 +33,7 @@ import { YoutubeSourceService } from '../../../source/service/youtube-source/you
   ],
   imports: [DescriptionComponent, HistoryComponent, SourceComponent, MatToolbarModule, MatButtonModule, TranslocoModule]
 })
-export class ContentComponent { 
+export class ContentComponent {
 
   #content = inject(YoutubeSourceService);
 
