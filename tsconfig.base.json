@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "strictPropertyInitialization": false,
     "paths": {
+      "@axim-anahnu/common/article": ["libs/common/article/src/index.ts"],
       "@axim-anahnu/common/environment": ["libs/common/environment/index.ts"],
       "@axim-anahnu/common/signal-store-features": [
         "libs/common/signal-store-features/index.ts"

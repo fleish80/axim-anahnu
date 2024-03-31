@@ -66,6 +66,9 @@
     "typescript": "~5.2.2"
   },
   "pathMappings": {
+    "@axim-anahnu/common/article": [
+      "libs/common/article/src/index.ts"
+    ],
     "@axim-anahnu/common/environment": [
       "libs/common/environment/index.ts"
     ],
@@ -113,15 +116,15 @@
       },
       {
         "file": ".nx/cache/d/daemon.log",
-        "hash": "1279049020554230402"
+        "hash": "14630534308112421130"
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "12372794457930161769"
+        "hash": "17723135782743329473"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "2008587664851161433"
+        "hash": "5444826093201242978"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -133,7 +136,7 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "4249047781606486286"
+        "hash": "4566950702607719658"
       },
       {
         "file": ".nx/cache/project-graph.json~3369a8f3",
@@ -174,6 +177,10 @@
       {
         "file": ".nx/cache/terminalOutputs/13879286961149351406",
         "hash": "5134861718149520709"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/1400277537423232769",
+        "hash": "16343979696288960189"
       },
       {
         "file": ".nx/cache/terminalOutputs/15279794573928987144",
@@ -301,7 +308,7 @@
       },
       {
         "file": "tsconfig.base.json",
-        "hash": "14953385041058893874"
+        "hash": "15630825000964113512"
       }
     ],
     "projectFileMap": {
@@ -466,6 +473,37 @@
           "hash": "5067725685752823321"
         },
         {
+          "file": "libs/common/article/README.md",
+          "hash": "2489780617534137588"
+        },
+        {
+          "file": "libs/common/article/components/article/article.component.scss",
+          "hash": "4998858374274638461"
+        },
+        {
+          "file": "libs/common/article/components/article/article.component.spec.ts",
+          "hash": "613437953671928124",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/common/article/components/article/article.component.ts",
+          "hash": "1489819560123790198",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "libs/common/article/index.ts",
+          "hash": "13148200914922504984"
+        },
+        {
+          "file": "libs/common/article/ng-package.json",
+          "hash": "5550468043224318245"
+        },
+        {
           "file": "libs/common/environment/README.md",
           "hash": "15668142700699082589"
         },
@@ -617,7 +655,7 @@
         },
         {
           "file": "libs/common/tsconfig.lib.json",
-          "hash": "10237209988492787423"
+          "hash": "6707393171849528675"
         },
         {
           "file": "libs/common/tsconfig.lib.prod.json",
@@ -737,6 +775,10 @@
             "npm:@angular/core",
             "npm:@ngneat/transloco"
           ]
+        },
+        {
+          "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.scss",
+          "hash": "8455935947139933935"
         },
         {
           "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.spec.ts",
@@ -904,10 +946,6 @@
         {
           "file": "libs/content/tsconfig.spec.json",
           "hash": "552591673985527526"
-        },
-        {
-          "file": "libs/content/history/components/second-house-destruction/second-house-destruction.component.scss",
-          "hash": "8455935947139933935"
         }
       ]
     }
