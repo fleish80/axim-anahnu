@@ -15723,3 +15723,27 @@ Error: Failed to process project dependencies with "nx-js-graph-plugin".
 [NX Daemon Server] - 2024-03-31T20:00:39.891Z - [REQUEST]: libs/common/article/components/article/article.component.scss,libs/common/article/components/article/article.component.ts
 [NX Daemon Server] - 2024-03-31T20:00:39.892Z - [REQUEST]: 
 [NX Daemon Server] - 2024-03-31T20:00:39.967Z - Time taken for 'hash changed files from watcher' 0.6512000000220723ms
+[NX Daemon Server] - 2024-03-31T20:00:41.516Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-31T20:00:41.517Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-31T20:00:41.521Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-31T20:00:41.526Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-31T20:00:41.526Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-31T20:00:41.527Z - Time taken for 'total for creating and serializing project graph' 0.23060000000987202ms
+[NX Daemon Server] - 2024-03-31T20:00:41.527Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-31T20:00:41.527Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-31T20:00:41.537Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-31T20:00:41.537Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-31T20:00:41.537Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-03-31T20:00:41.538Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-31T20:00:51.712Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-31T20:00:51.713Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-31T20:00:51.713Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-31T20:00:51.715Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-31T20:00:51.715Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-31T20:00:51.716Z - Time taken for 'total for creating and serializing project graph' 0.3936000000103377ms
+[NX Daemon Server] - 2024-03-31T20:00:51.716Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-31T20:00:51.717Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-31T20:00:51.729Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-31T20:00:51.729Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-31T20:00:51.730Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-03-31T20:00:51.730Z - Closed a connection. Number of open connections: 0
