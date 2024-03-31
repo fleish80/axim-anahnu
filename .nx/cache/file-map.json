@@ -112,119 +112,7 @@
       },
       {
         "file": ".gitignore",
-        "hash": "11424774732679295364"
-      },
-      {
-        "file": ".nx/cache/d/daemon.log",
-        "hash": "14630534308112421130"
-      },
-      {
-        "file": ".nx/cache/d/server-process.json",
-        "hash": "17723135782743329473"
-      },
-      {
-        "file": ".nx/cache/file-map.json",
-        "hash": "5444826093201242978"
-      },
-      {
-        "file": ".nx/cache/lockfile.hash",
-        "hash": "17077403397737737166"
-      },
-      {
-        "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "4588238836681311643"
-      },
-      {
-        "file": ".nx/cache/project-graph.json",
-        "hash": "4566950702607719658"
-      },
-      {
-        "file": ".nx/cache/project-graph.json~3369a8f3",
-        "hash": "1766886065394869799"
-      },
-      {
-        "file": ".nx/cache/project-graph.json~b72b2fd6",
-        "hash": "2075223547591592795"
-      },
-      {
-        "file": ".nx/cache/project-graph.json~bfb4a8ef",
-        "hash": "17188444431467389764"
-      },
-      {
-        "file": ".nx/cache/run.json",
-        "hash": "8646098824164083015"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/10029822663769247160",
-        "hash": "3824906049804797370"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/10943186080468331968",
-        "hash": "2216077504538259826"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/11929401256528672157",
-        "hash": "8780548503949569162"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/12465216261746080109",
-        "hash": "654081966335817640"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/12562897203935929758",
-        "hash": "1213505390264125551"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/13879286961149351406",
-        "hash": "5134861718149520709"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/1400277537423232769",
-        "hash": "16343979696288960189"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/15279794573928987144",
-        "hash": "10452783003116897598"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/16182145689952912744",
-        "hash": "11587468528775770548"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/16613964315802740261",
-        "hash": "5183336937004237768"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/2332377373046231238",
-        "hash": "10828526211818239000"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/4096000018378225076",
-        "hash": "5844584799492820200"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/4287666463998004236",
-        "hash": "12236839090656936542"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/4835848754066100499",
-        "hash": "747765318700908277"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/7395480354118322188",
-        "hash": "13810640775221269286"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/8660272540519279526",
-        "hash": "17279291463763533701"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/8831342289853139919",
-        "hash": "10040886381975309572"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/9094362455176039668",
-        "hash": "12879037991440336172"
+        "hash": "14320963043589999617"
       },
       {
         "file": ".prettierignore",
@@ -312,157 +200,6 @@
       }
     ],
     "projectFileMap": {
-      "main": [
-        {
-          "file": "apps/main/.eslintrc.json",
-          "hash": "10024625287610618267"
-        },
-        {
-          "file": "apps/main/jest.config.ts",
-          "hash": "10102445100471367535"
-        },
-        {
-          "file": "apps/main/project.json",
-          "hash": "15117094518865420834"
-        },
-        {
-          "file": "apps/main/server.ts",
-          "hash": "15053072606401062197",
-          "deps": [
-            "npm:zone.js",
-            "npm:@angular/common",
-            "npm:@nguniversal/express-engine",
-            "npm:express",
-            "npm:node:fs",
-            "npm:node:path"
-          ]
-        },
-        {
-          "file": "apps/main/src/app/app.component.spec.ts",
-          "hash": "1263815157723373484",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
-          ]
-        },
-        {
-          "file": "apps/main/src/app/app.component.ts",
-          "hash": "8383627837315570658",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/material",
-            "npm:@angular/router"
-          ]
-        },
-        {
-          "file": "apps/main/src/app/app.config.server.ts",
-          "hash": "15184490126418035619",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/platform-server"
-          ]
-        },
-        {
-          "file": "apps/main/src/app/app.config.ts",
-          "hash": "10787730106450131115",
-          "deps": [
-            "npm:@angular/common",
-            "npm:@angular/core",
-            "npm:@angular/platform-browser",
-            "npm:@angular/router",
-            "common",
-            "npm:@angular/fire"
-          ]
-        },
-        {
-          "file": "apps/main/src/app/app.routes.ts",
-          "hash": "18227141760750256770",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router",
-            "common",
-            [
-              "content",
-              "dynamic"
-            ]
-          ]
-        },
-        {
-          "file": "apps/main/src/app/transloco-loader.ts",
-          "hash": "2486619763921365912",
-          "deps": [
-            "npm:@angular/common",
-            "npm:@angular/core",
-            "common",
-            "npm:@ngneat/transloco"
-          ]
-        },
-        {
-          "file": "apps/main/src/assets/.gitkeep",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "apps/main/src/environments/environment.development.ts",
-          "hash": "14398588251721517625"
-        },
-        {
-          "file": "apps/main/src/environments/environment.firebase.ts",
-          "hash": "12995033551687412200"
-        },
-        {
-          "file": "apps/main/src/environments/environment.ts",
-          "hash": "7065959230643633587"
-        },
-        {
-          "file": "apps/main/src/favicon.ico",
-          "hash": "9303420814833116677"
-        },
-        {
-          "file": "apps/main/src/index.html",
-          "hash": "10886212974788817154"
-        },
-        {
-          "file": "apps/main/src/main.server.ts",
-          "hash": "9257623809215978365",
-          "deps": [
-            "npm:@angular/platform-browser"
-          ]
-        },
-        {
-          "file": "apps/main/src/main.ts",
-          "hash": "875041330523952236",
-          "deps": [
-            "npm:@angular/platform-browser"
-          ]
-        },
-        {
-          "file": "apps/main/src/test-setup.ts",
-          "hash": "10765977267162271731",
-          "deps": [
-            "npm:jest-preset-angular"
-          ]
-        },
-        {
-          "file": "apps/main/tsconfig.app.json",
-          "hash": "15840844869456775012"
-        },
-        {
-          "file": "apps/main/tsconfig.editor.json",
-          "hash": "6816855480324741077"
-        },
-        {
-          "file": "apps/main/tsconfig.json",
-          "hash": "17021277375021554599"
-        },
-        {
-          "file": "apps/main/tsconfig.server.json",
-          "hash": "16829546870058365246"
-        },
-        {
-          "file": "apps/main/tsconfig.spec.json",
-          "hash": "1930986853382524452"
-        }
-      ],
       "common": [
         {
           "file": "libs/common/.eslintrc.json",
@@ -946,6 +683,157 @@
         {
           "file": "libs/content/tsconfig.spec.json",
           "hash": "552591673985527526"
+        }
+      ],
+      "main": [
+        {
+          "file": "apps/main/.eslintrc.json",
+          "hash": "10024625287610618267"
+        },
+        {
+          "file": "apps/main/jest.config.ts",
+          "hash": "10102445100471367535"
+        },
+        {
+          "file": "apps/main/project.json",
+          "hash": "15117094518865420834"
+        },
+        {
+          "file": "apps/main/server.ts",
+          "hash": "15053072606401062197",
+          "deps": [
+            "npm:zone.js",
+            "npm:@angular/common",
+            "npm:@nguniversal/express-engine",
+            "npm:express",
+            "npm:node:fs",
+            "npm:node:path"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/app.component.spec.ts",
+          "hash": "1263815157723373484",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/app.component.ts",
+          "hash": "8383627837315570658",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/material",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/app.config.server.ts",
+          "hash": "15184490126418035619",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-server"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/app.config.ts",
+          "hash": "10787730106450131115",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/platform-browser",
+            "npm:@angular/router",
+            "common",
+            "npm:@angular/fire"
+          ]
+        },
+        {
+          "file": "apps/main/src/app/app.routes.ts",
+          "hash": "18227141760750256770",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "common",
+            [
+              "content",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": "apps/main/src/app/transloco-loader.ts",
+          "hash": "2486619763921365912",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "common",
+            "npm:@ngneat/transloco"
+          ]
+        },
+        {
+          "file": "apps/main/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/main/src/environments/environment.development.ts",
+          "hash": "14398588251721517625"
+        },
+        {
+          "file": "apps/main/src/environments/environment.firebase.ts",
+          "hash": "12995033551687412200"
+        },
+        {
+          "file": "apps/main/src/environments/environment.ts",
+          "hash": "7065959230643633587"
+        },
+        {
+          "file": "apps/main/src/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/main/src/index.html",
+          "hash": "10886212974788817154"
+        },
+        {
+          "file": "apps/main/src/main.server.ts",
+          "hash": "9257623809215978365",
+          "deps": [
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "apps/main/src/main.ts",
+          "hash": "875041330523952236",
+          "deps": [
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "apps/main/src/test-setup.ts",
+          "hash": "10765977267162271731",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "apps/main/tsconfig.app.json",
+          "hash": "15840844869456775012"
+        },
+        {
+          "file": "apps/main/tsconfig.editor.json",
+          "hash": "6816855480324741077"
+        },
+        {
+          "file": "apps/main/tsconfig.json",
+          "hash": "17021277375021554599"
+        },
+        {
+          "file": "apps/main/tsconfig.server.json",
+          "hash": "16829546870058365246"
+        },
+        {
+          "file": "apps/main/tsconfig.spec.json",
+          "hash": "1930986853382524452"
         }
       ]
     }
