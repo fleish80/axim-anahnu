@@ -8,25 +8,31 @@ import { setLoaded, setLoading, withCallState } from '@axim-anahnu/common/signal
 
 type State = {
   youtubeSources: YoutubeSourceModel[];
+  currentPlayerId: string;
 }
 
 
 export const YoutubeSourceStore = signalStore(
-  withState<State>({ youtubeSources: [] }),
+  withState<State>(
+    {
+      youtubeSources: [],
+      currentPlayerId: ''
+    }),
   withCallState(),
   withMethods((store,
-    youtubeSourceService = inject(YoutubeSourceService)) => ({
-      load: rxMethod<void>(
-        pipe(
-          tap(() => patchState(store, setLoading())),
-          switchMap(() => youtubeSourceService.getYoutubeSources()),
-          tap((youtubeSources) => patchState(store, { youtubeSources }, setLoaded()))
-        )
+               youtubeSourceService = inject(YoutubeSourceService)) => ({
+    load: rxMethod<void>(
+      pipe(
+        tap(() => patchState(store, setLoading())),
+        switchMap(() => youtubeSourceService.getYoutubeSources()),
+        tap((youtubeSources) => patchState(store, { youtubeSources }, setLoaded()))
       )
-    })),
+    ),
+    setPlayer: (playerId: string) => patchState(store, { currentPlayerId: playerId })
+  })),
   withHooks({
     onInit({ load }) {
       load();
-    },
+    }
   })
-)
+);
