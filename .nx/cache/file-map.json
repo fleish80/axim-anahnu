@@ -95,24 +95,68 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": "jest.preset.js",
+        "hash": "7473220183190921152"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "12396182469442802339"
+      },
+      {
+        "file": "firebase.json",
+        "hash": "11367074832724451337"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "5519981940544710039"
+      },
+      {
         "file": ".vscode/extensions.json",
         "hash": "13391140343975966684"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "13103714534889110062"
       },
       {
         "file": ".prettierrc",
         "hash": "6820402234827505055"
       },
       {
-        "file": ".firebaserc",
-        "hash": "12631551413043340450"
+        "file": "README.md",
+        "hash": "7071106593202347880"
       },
       {
-        "file": ".gitignore",
-        "hash": "14320963043589999617"
+        "file": "styles/palette.scss",
+        "hash": "16962711571783898380"
       },
       {
-        "file": ".eslintignore",
-        "hash": "13404745306227114823"
+        "file": ".eslintrc.json",
+        "hash": "4566917484430375526"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "11532813898455409296"
+      },
+      {
+        "file": "transloco.config.js",
+        "hash": "3668099396342507452"
+      },
+      {
+        "file": "images/flag-3.jpeg",
+        "hash": "12827405459391147098"
+      },
+      {
+        "file": "package.json",
+        "hash": "13102164150354988253"
+      },
+      {
+        "file": "nx.json",
+        "hash": "2127356856071307666"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "3407785570333453138"
       },
       {
         "file": "styles/styles.scss",
@@ -123,80 +167,36 @@
         "hash": "16942964085514739943"
       },
       {
-        "file": "transloco.config.js",
-        "hash": "3668099396342507452"
+        "file": "migrations.json",
+        "hash": "16793521352465649990"
       },
       {
-        "file": "README.md",
-        "hash": "7071106593202347880"
+        "file": ".gitignore",
+        "hash": "14320963043589999617"
       },
       {
-        "file": ".prettierignore",
-        "hash": "5519981940544710039"
-      },
-      {
-        "file": ".editorconfig",
-        "hash": "11532813898455409296"
-      },
-      {
-        "file": "firebase.json",
-        "hash": "11367074832724451337"
-      },
-      {
-        "file": "i18n/en.json",
-        "hash": "12166922465874784511"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "13103714534889110062"
-      },
-      {
-        "file": "jest.preset.js",
-        "hash": "7473220183190921152"
-      },
-      {
-        "file": "package.json",
-        "hash": "13102164150354988253"
-      },
-      {
-        "file": "images/flag-3.jpeg",
-        "hash": "12827405459391147098"
+        "file": ".eslintignore",
+        "hash": "13404745306227114823"
       },
       {
         "file": "styles/variables.scss",
         "hash": "10837310790155904642"
       },
       {
-        "file": "jest.config.ts",
-        "hash": "3407785570333453138"
-      },
-      {
-        "file": "migrations.json",
-        "hash": "16793521352465649990"
-      },
-      {
-        "file": ".eslintrc.json",
-        "hash": "4566917484430375526"
-      },
-      {
-        "file": "images/flag-1.jpeg",
-        "hash": "18124406720871520388"
-      },
-      {
-        "file": "styles/palette.scss",
-        "hash": "16962711571783898380"
-      },
-      {
         "file": "i18n/he.json",
         "hash": "10619627341681427594"
       },
       {
-        "file": "tsconfig.base.json",
-        "hash": "12396182469442802339"
+        "file": "i18n/en.json",
+        "hash": "12166922465874784511"
       },
       {
-        "file": "nx.json",
-        "hash": "2127356856071307666"
+        "file": ".firebaserc",
+        "hash": "12631551413043340450"
+      },
+      {
+        "file": "images/flag-1.jpeg",
+        "hash": "18124406720871520388"
       }
     ],
     "projectFileMap": {
@@ -369,11 +369,9 @@
         },
         {
           "file": "libs/content/content/components/content/content.component.ts",
-          "hash": "13097788379457701246",
+          "hash": "18201346411101879898",
           "deps": [
-            "npm:@angular/core",
-            "npm:@angular/material",
-            "npm:@ngneat/transloco"
+            "npm:@angular/core"
           ]
         },
         {

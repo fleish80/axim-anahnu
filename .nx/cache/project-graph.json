@@ -14336,7 +14336,7 @@
       },
       {
         "source": "content",
-        "target": "npm:@angular/material",
+        "target": "npm:@angular/router",
         "type": "static"
       },
       {
@@ -14346,12 +14346,12 @@
       },
       {
         "source": "content",
-        "target": "npm:@angular/router",
+        "target": "common",
         "type": "static"
       },
       {
         "source": "content",
-        "target": "common",
+        "target": "npm:@angular/material",
         "type": "static"
       },
       {
