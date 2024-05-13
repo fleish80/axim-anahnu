@@ -7,9 +7,14 @@
   border-radius: 5px;
   padding-inline: 10px;
   padding-block: 10px;
+
   ::ng-deep {
     iframe {
       width: 100%;
+    }
+
+    .youtube-player-placeholder {
+      width: auto !important;
     }
   }
 }

@@ -2,17 +2,20 @@ import { ChangeDetectionStrategy, Component, computed, input } from '@angular/co
 import { TranslocoDirective } from '@ngneat/transloco';
 
 @Component({
-  selector: 'axim-anahnu-article',
+  selector: 'aa-article',
   standalone: true,
   imports: [
     TranslocoDirective
   ],
   template: `
-  <article *transloco="let t; read 'content'">
-    @for (index of sizeArr(); track index) {
-      <p class="article-paragraph">{{ t('text.' + index) }}</p>
-    }
-  </article>
+    <article *transloco="let t; read 'content'" class="article">
+      @if (hasTitle()) {
+        <h2>{{ t('title.' + name()) }}</h2>
+      }
+      @for (index of sizeArr(); track index) {
+        <p class="article-paragraph">{{ t('text.' + name() + '.' + index) }}</p>
+      }
+    </article>
 
   `,
   styleUrl: './article.component.scss',
@@ -22,6 +25,7 @@ export class ArticleComponent {
 
   name = input.required<string>();
   size = input.required<number>();
+  hasTitle = input(false);
 
   sizeArr = computed(() => {
     const arr: number[] = []

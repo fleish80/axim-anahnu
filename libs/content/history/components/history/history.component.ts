@@ -1,25 +1,45 @@
 import { Component } from '@angular/core';
 import { MatTabsModule } from '@angular/material/tabs';
-import { SecondHouseDestructionComponent } from '../second-house-destruction/second-house-destruction.component';
-import { HolocaustComponent } from '../holocaust/holocaust.component';
 import { TranslocoDirective } from '@ngneat/transloco';
+import { ArticleComponent } from '@axim-anahnu/common/article';
 
 @Component({
   selector: 'aa-history',
   standalone: true,
-  imports: [MatTabsModule, SecondHouseDestructionComponent, HolocaustComponent, TranslocoDirective],
+  imports: [MatTabsModule, TranslocoDirective, ArticleComponent],
   template: `
     <mat-tab-group color="primary" *transloco="let t; read 'content'" class="mat-elevation-z24">
-      <mat-tab [label]="t('second-house-label')">
+      <mat-tab [label]="t('tab-title.first-house')">
         @defer (on viewport) {
-          <aa-second-house-destruction/>
+          <aa-article name="first-house" [size]="9" />
         } @placeholder {
           <span>Loading...</span>
         }
       </mat-tab>
-      <mat-tab [label]="t('holocaust-label')">
+      <mat-tab [label]="t('tab-title.second-house')">
         @defer (on viewport) {
-          <aa-holocaust/>
+          <aa-article name="second-house" [size]="10" />
+        } @placeholder {
+          <span>Loading...</span>
+        }
+      </mat-tab>
+      <mat-tab [label]="t('tab-title.holocaust')">
+        @defer (on viewport) {
+          <aa-article name="holocaust" [size]="12" />
+        } @placeholder {
+          <span>Loading...</span>
+        }
+      </mat-tab>
+      <mat-tab [label]="t('tab-title.pogroms')">
+        @defer (on viewport) {
+          <aa-article name="pogroms" [size]="5" />
+        } @placeholder {
+          <span>Loading...</span>
+        }
+      </mat-tab>
+      <mat-tab [label]="t('tab-title.october-seven')">
+        @defer (on viewport) {
+          <aa-article name="october-seven" [size]="9" />
         } @placeholder {
           <span>Loading...</span>
         }

@@ -184,7 +184,7 @@
         },
         "$schema": "../../node_modules/nx/schemas/project-schema.json",
         "sourceRoot": "libs/common",
-        "prefix": "axim-anahnu",
+        "prefix": "aa",
         "projectType": "library",
         "tags": [],
         "implicitDependencies": []
@@ -14336,6 +14336,11 @@
       },
       {
         "source": "content",
+        "target": "npm:@angular/material",
+        "type": "static"
+      },
+      {
+        "source": "content",
         "target": "npm:@ngneat/transloco",
         "type": "static"
       },
@@ -14346,12 +14351,22 @@
       },
       {
         "source": "content",
-        "target": "npm:@angular/youtube-player",
+        "target": "common",
+        "type": "static"
+      },
+      {
+        "source": "content",
+        "target": "npm:tslib",
         "type": "static"
       },
       {
         "source": "content",
         "target": "npm:@angular/common",
+        "type": "static"
+      },
+      {
+        "source": "content",
+        "target": "npm:@angular/youtube-player",
         "type": "static"
       },
       {
@@ -14366,7 +14381,12 @@
       },
       {
         "source": "content",
-        "target": "common",
+        "target": "npm:@angular/fire",
+        "type": "static"
+      },
+      {
+        "source": "content",
+        "target": "npm:jest-preset-angular",
         "type": "static"
       }
     ],
@@ -14383,16 +14403,31 @@
       },
       {
         "source": "common",
-        "target": "npm:@ngrx/signals",
+        "target": "npm:tslib",
         "type": "static"
       },
       {
         "source": "common",
         "target": "npm:@angular/common",
         "type": "static"
+      },
+      {
+        "source": "common",
+        "target": "npm:@ngrx/signals",
+        "type": "static"
+      },
+      {
+        "source": "common",
+        "target": "npm:jest-preset-angular",
+        "type": "static"
       }
     ],
     "main": [
+      {
+        "source": "main",
+        "target": "npm:zone.js",
+        "type": "static"
+      },
       {
         "source": "main",
         "target": "npm:@angular/common",
@@ -14415,6 +14450,11 @@
       },
       {
         "source": "main",
+        "target": "npm:@angular/material",
+        "type": "static"
+      },
+      {
+        "source": "main",
         "target": "npm:@angular/platform-server",
         "type": "static"
       },
@@ -14430,12 +14470,22 @@
       },
       {
         "source": "main",
+        "target": "npm:@angular/fire",
+        "type": "static"
+      },
+      {
+        "source": "main",
         "target": "content",
         "type": "dynamic"
       },
       {
         "source": "main",
         "target": "npm:@ngneat/transloco",
+        "type": "static"
+      },
+      {
+        "source": "main",
+        "target": "npm:jest-preset-angular",
         "type": "static"
       }
     ],
