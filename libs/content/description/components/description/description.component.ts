@@ -7,7 +7,11 @@ import { ArticleComponent } from '@axim-anahnu/common/article';
   standalone: true,
   imports: [TranslocoDirective, ArticleComponent],
   template: `
-    <aa-article name="description" [size]="14" class="article mat-elevation-z24" [hasTitle]="true"/>
+    @defer (on viewport) {
+      <aa-article name="description" [size]="14" class="article mat-elevation-z24" [hasTitle]="true"/>
+    } @placeholder {
+      <span>Loading...</span>
+    }
   `,
   styleUrls: ['./description.component.scss']
 })

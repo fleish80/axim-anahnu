@@ -3,14 +3,18 @@ import { YouTubePlayer, YouTubePlayerModule } from '@angular/youtube-player';
 import { YoutubeSourceModel } from '../../models/youtube-source.model';
 import { JsonPipe } from '@angular/common';
 import { YoutubeSourceStore } from '../../service/youtube-source-store/youtube-source-store.service';
+import { YoutubeSourceService } from '../../service/youtube-source/youtube-source.service';
 
 @Component({
   selector: 'aa-youtube-item',
   standalone: true,
   imports: [YouTubePlayerModule, JsonPipe],
   template: `
-    <youtube-player [videoId]="youtubeSource().youtubeId" (stateChange)="stateChange($event)" #player />
-    <span class="title mat-subtitle-2">{{ youtubeSource().title }}</span>
+    @if (apiLoaded()) {
+      <youtube-player [playerVars]="{autoplay: 1}" [videoId]="youtubeSource().youtubeId"
+                      (stateChange)="stateChange($event)" #player />
+      <span class="title mat-subtitle-2">{{ youtubeSource().title }}</span>
+    }
   `,
   styleUrls: ['./youtube-item.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -19,6 +23,7 @@ export class YoutubeItemComponent {
 
   #youtubeSourceStore = inject(YoutubeSourceStore);
   #currentPlayerId = this.#youtubeSourceStore.currentPlayerId;
+  apiLoaded = inject(YoutubeSourceService).apiLoaded;
 
   youtubeSource = input.required<YoutubeSourceModel>();
 

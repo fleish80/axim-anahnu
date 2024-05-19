@@ -10,9 +10,13 @@ import { YoutubeItemComponent } from '../youtube-item/youtube-item.component';
   standalone: true,
   imports: [YouTubePlayerModule, YoutubeItemComponent],
   template: `
-  @for (source of youtubeSources(); track source.youtubeId) {
-    <aa-youtube-item [youtubeSource]="source"/>
-  }
+    @for (source of youtubeSources(); track source.youtubeId) {
+      @defer {
+        <aa-youtube-item [youtubeSource]="source" />
+      } @placeholder {
+        <span>Loading...</span>
+      }
+    }
   `,
   styleUrl: './source.component.scss',
   providers: [YoutubeSourceStore]
