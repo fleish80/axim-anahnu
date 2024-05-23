@@ -9,6 +9,13 @@ import { ArticleComponent } from '@axim-anahnu/common/article';
   imports: [MatTabsModule, TranslocoDirective, ArticleComponent],
   template: `
     <mat-tab-group color="primary" *transloco="let t; read 'content'" class="mat-elevation-z24">
+      <mat-tab [label]="t('tab-title.egypt-slavery')">
+        @defer (on viewport) {
+          <aa-article name="egypt-slavery" [size]="5" />
+        } @placeholder {
+          <span>Loading...</span>
+        }
+      </mat-tab>
       <mat-tab [label]="t('tab-title.first-house')">
         @defer (on viewport) {
           <aa-article name="first-house" [size]="9" />
@@ -16,6 +23,7 @@ import { ArticleComponent } from '@axim-anahnu/common/article';
           <span>Loading...</span>
         }
       </mat-tab>
+
       <mat-tab [label]="t('tab-title.second-house')">
         @defer (on viewport) {
           <aa-article name="second-house" [size]="10" />
@@ -23,9 +31,9 @@ import { ArticleComponent } from '@axim-anahnu/common/article';
           <span>Loading...</span>
         }
       </mat-tab>
-      <mat-tab [label]="t('tab-title.holocaust')">
+      <mat-tab [label]="t('tab-title.crusades')">
         @defer (on viewport) {
-          <aa-article name="holocaust" [size]="12" />
+          <aa-article name="crusades" [size]="8" />
         } @placeholder {
           <span>Loading...</span>
         }
@@ -33,6 +41,13 @@ import { ArticleComponent } from '@axim-anahnu/common/article';
       <mat-tab [label]="t('tab-title.pogroms')">
         @defer (on viewport) {
           <aa-article name="pogroms" [size]="5" />
+        } @placeholder {
+          <span>Loading...</span>
+        }
+      </mat-tab>
+      <mat-tab [label]="t('tab-title.holocaust')">
+        @defer (on viewport) {
+          <aa-article name="holocaust" [size]="12" />
         } @placeholder {
           <span>Loading...</span>
         }
