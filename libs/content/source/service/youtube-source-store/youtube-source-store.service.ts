@@ -25,7 +25,9 @@ export const YoutubeSourceStore = signalStore(
       pipe(
         tap(() => patchState(store, setLoading())),
         switchMap(() => youtubeSourceService.getYoutubeSources()),
-        tap((youtubeSources) => patchState(store, { youtubeSources }, setLoaded()))
+        tap((youtubeSources) => patchState(store, {
+          youtubeSources: youtubeSources.sort((sourceA, sourceB) => sourceA.order - sourceB.order)
+        }, setLoaded()))
       )
     ),
     setPlayer: (playerId: string) => patchState(store, { currentPlayerId: playerId })
