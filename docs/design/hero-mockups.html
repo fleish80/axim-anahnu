@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hero mockups</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=Heebo:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --blue: #0038b8;
+        --blue-deep: #001f66;
+        --blue-night: #00123d;
+        --white: #ffffff;
+        --stone: #f4efe6;
+        --ink: #14213d;
+        --ash: #2b2d33;
+        --serif: 'Frank Ruhl Libre', 'Times New Roman', serif;
+        --sans: 'Heebo', system-ui, sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: var(--sans);
+        color: var(--ink);
+        background: #e9e5dc;
+      }
+
+      /* ---------- Review toolbar (not part of the design) ---------- */
+      .toolbar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.6rem 1rem;
+        background: rgba(20, 33, 61, 0.92);
+        color: #fff;
+        font-size: 0.9rem;
+        backdrop-filter: blur(6px);
+      }
+      .toolbar nav {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+      }
+      .toolbar a,
+      .toolbar button {
+        font: inherit;
+        color: #fff;
+        background: rgba(255, 255, 255, 0.12);
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        border-radius: 999px;
+        padding: 0.3rem 0.85rem;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      .toolbar a:hover,
+      .toolbar button:hover {
+        background: rgba(255, 255, 255, 0.25);
+      }
+
+      .label {
+        position: absolute;
+        inset-block-start: 1rem;
+        inset-inline-start: 1rem;
+        z-index: 3;
+        font: 500 0.8rem var(--sans);
+        letter-spacing: 0.04em;
+        padding: 0.35rem 0.8rem;
+        border-radius: 999px;
+        background: rgba(0, 0, 0, 0.55);
+        color: #fff;
+      }
+
+      /* ---------- Shared hero typography ---------- */
+      .hero {
+        position: relative;
+        min-height: 92vh;
+        display: grid;
+        place-items: center;
+        overflow: hidden;
+        padding: 5rem 1rem 4rem;
+        text-align: center;
+      }
+      .hero-content {
+        position: relative;
+        z-index: 2;
+        max-width: 56rem;
+      }
+      .verse {
+        font-family: var(--serif);
+        font-weight: 700;
+        font-size: clamp(2.6rem, 8vw, 6rem);
+        line-height: 1.15;
+        margin: 0;
+      }
+      [lang='en'] .verse {
+        font-size: clamp(2.3rem, 7vw, 5.2rem);
+      }
+      .source {
+        font-family: var(--serif);
+        font-size: clamp(1rem, 2vw, 1.2rem);
+        margin: 0.8rem 0 0;
+        opacity: 0.8;
+      }
+      .tagline {
+        font-weight: 400;
+        font-size: clamp(1.1rem, 2.6vw, 1.55rem);
+        line-height: 1.55;
+        max-width: 38rem;
+        margin: 2rem auto 0;
+      }
+      .tagline strong {
+        font-weight: 700;
+      }
+      .scroll-cue {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.4rem;
+        margin-top: 2.5rem;
+        font-size: 0.85rem;
+        letter-spacing: 0.08em;
+        opacity: 0.75;
+      }
+      .scroll-cue::after {
+        content: '';
+        width: 1px;
+        height: 2.6rem;
+        background: currentColor;
+        animation: cue 2.2s ease-in-out infinite;
+        transform-origin: top;
+      }
+      @keyframes cue {
+        0% {
+          transform: scaleY(0);
+          opacity: 0;
+        }
+        40% {
+          transform: scaleY(1);
+          opacity: 1;
+        }
+        100% {
+          transform: scaleY(1);
+          opacity: 0;
+        }
+      }
+
+      /* ---------- A · Duotone photo ---------- */
+      .hero-photo {
+        color: var(--white);
+        background: radial-gradient(ellipse at 50% 85%, #1b4fd6 0%, var(--blue-deep) 45%, var(--blue-night) 100%);
+      }
+      .hero-photo .art {
+        position: absolute;
+        inset-inline: 0;
+        inset-block-end: 0;
+        margin-inline: auto;
+        width: min(760px, 110vw);
+        opacity: 0.55;
+        filter: blur(1.5px);
+        mix-blend-mode: screen;
+      }
+      .hero-photo::before {
+        /* Film grain, so the placeholder reads like a duotone photograph. */
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        opacity: 0.18;
+        background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+      }
+      .hero-photo::after {
+        /* Darken behind the text. */
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        background: linear-gradient(to bottom, rgba(0, 18, 61, 0.75) 0%, rgba(0, 18, 61, 0.2) 55%, rgba(0, 18, 61, 0.65) 100%);
+      }
+      .hero-photo .hero-content {
+        align-self: start;
+        margin-top: 8vh;
+      }
+      .photo-note {
+        position: absolute;
+        z-index: 3;
+        inset-block-end: 1rem;
+        inset-inline-end: 1rem;
+        font-size: 0.78rem;
+        padding: 0.35rem 0.75rem;
+        border: 1px dashed rgba(255, 255, 255, 0.6);
+        border-radius: 0.5rem;
+        background: rgba(0, 18, 61, 0.6);
+      }
+
+      /* ---------- B · Illustration ---------- */
+      .hero-illustration {
+        color: var(--ink);
+        background: radial-gradient(circle at 50% 62%, #ffffff 0%, var(--stone) 48%, #e8dfd0 100%);
+        grid-template-rows: auto 1fr;
+        align-content: center;
+        gap: 1rem;
+      }
+      .hero-illustration .verse {
+        color: var(--blue);
+      }
+      .hero-illustration .art {
+        width: min(440px, 78vw);
+        margin: 1.5rem auto 0;
+        display: block;
+        filter: drop-shadow(0 24px 30px rgba(20, 33, 61, 0.18));
+      }
+
+      /* ---------- C · Stripes only ---------- */
+      .hero-stripes {
+        color: var(--ink);
+        background: var(--white);
+      }
+      .hero-stripes .band {
+        position: absolute;
+        inset-inline: 0;
+        height: clamp(28px, 5vh, 52px);
+        background: var(--blue);
+      }
+      .hero-stripes .band.top {
+        inset-block-start: 9%;
+      }
+      .hero-stripes .band.bottom {
+        inset-block-end: 9%;
+      }
+      .hero-stripes .verse {
+        color: var(--blue);
+      }
+      .hero-stripes .star {
+        width: clamp(54px, 8vw, 84px);
+        margin: 0 auto 1.6rem;
+        display: block;
+      }
+      .hero-stripes .tagline {
+        color: #3a4356;
+      }
+
+      /* ---------- Story color strip ---------- */
+      .story {
+        padding: 4rem 1rem 5rem;
+        background: #fff;
+        text-align: center;
+      }
+      .story h2 {
+        font: 700 clamp(1.5rem, 3vw, 2.1rem) var(--serif);
+        margin: 0 0 0.5rem;
+      }
+      .story p {
+        max-width: 40rem;
+        margin: 0 auto 2rem;
+        line-height: 1.7;
+        color: #444c5c;
+      }
+      .story-strip {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        max-width: 64rem;
+        margin: 0 auto;
+        border-radius: 1rem;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+      }
+      .story-strip div {
+        min-height: 9rem;
+        padding: 1rem 0.75rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        text-align: start;
+        font-size: 0.85rem;
+        line-height: 1.4;
+      }
+      .story-strip strong {
+        display: block;
+        font: 700 1rem var(--serif);
+        margin-bottom: 0.2rem;
+      }
+      .s1 {
+        background: #1c1d21;
+        color: #c9c9cf;
+      }
+      .s2 {
+        background: #3a3c43;
+        color: #dedee3;
+      }
+      .s3 {
+        background: var(--blue-night);
+        color: #d6e0ff;
+      }
+      .s4 {
+        background: var(--blue);
+        color: #fff;
+      }
+      .s5 {
+        background: var(--white);
+        color: var(--blue);
+        box-shadow: inset 0 0 0 1px #e3e3e3;
+      }
+      @media (max-width: 640px) {
+        .story-strip {
+          grid-template-columns: 1fr;
+        }
+        .story-strip div {
+          min-height: 5.5rem;
+        }
+      }
+
+      /* Language switch: show only the active language's text. */
+      html[lang='he'] [data-lang='en'],
+      html[lang='en'] [data-lang='he'] {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="toolbar">
+      <nav>
+        <a href="#photo">A · תמונה בדואוטון</a>
+        <a href="#illustration">B · איור</a>
+        <a href="#stripes">C · פסים בלבד</a>
+        <a href="#story">צבע הסיפור</a>
+      </nav>
+      <button type="button" id="lang-toggle">English</button>
+    </div>
+
+    <!-- Shared illustration: two people from behind, one with a kippah, under one flag. -->
+    <svg width="0" height="0" style="position: absolute" aria-hidden="true">
+      <defs>
+        <clipPath id="cape-clip">
+          <path
+            d="M112 300 C 112 252 140 224 192 216 C 236 210 268 220 300 228 C 334 216 366 202 414 206 C 462 212 488 246 490 300 L 496 440 C 452 456 420 430 380 446 C 340 462 304 436 262 452 C 220 466 180 440 140 454 C 126 458 114 456 106 450 Z"
+          />
+        </clipPath>
+        <symbol id="brothers" viewBox="0 0 600 540">
+          <!-- two people seen from behind, waist up -->
+          <path d="M118 540 L 122 300 C 124 250 150 222 196 214 L 258 210 C 296 214 314 240 318 290 L 322 540 Z" fill="currentColor" />
+          <path d="M284 540 L 288 290 C 292 238 316 208 362 204 L 410 206 C 456 212 480 244 482 300 L 486 540 Z" fill="currentColor" opacity="0.88" />
+          <rect x="208" y="150" width="36" height="70" rx="14" fill="currentColor" />
+          <rect x="364" y="140" width="38" height="72" rx="14" fill="currentColor" opacity="0.88" />
+          <circle cx="226" cy="128" r="44" fill="currentColor" />
+          <circle cx="383" cy="118" r="46" fill="currentColor" opacity="0.88" />
+          <!-- kippah: one religious, one secular -->
+          <path d="M357 88 C 360 70 406 70 409 88 C 392 82 374 82 357 88 Z" fill="var(--kippah, #0038b8)" />
+          <!-- one flag over both of them -->
+          <g clip-path="url(#cape-clip)">
+            <rect x="90" y="190" width="420" height="290" fill="var(--flag-white, #fff)" />
+            <path d="M90 252 C 180 238 230 262 300 256 C 370 250 430 236 510 248 L 510 274 C 430 262 370 276 300 282 C 230 288 180 266 90 278 Z" fill="var(--flag-blue, #0038b8)" />
+            <path d="M90 398 C 180 386 230 408 300 402 C 370 396 430 384 510 396 L 510 422 C 430 410 370 422 300 428 C 230 434 180 412 90 424 Z" fill="var(--flag-blue, #0038b8)" />
+            <g transform="translate(300 336)" fill="none" stroke="var(--flag-blue, #0038b8)" stroke-width="7.5" stroke-linejoin="round">
+              <path d="M0 -44 L 38 22 L -38 22 Z" />
+              <path d="M0 44 L 38 -22 L -38 -22 Z" />
+            </g>
+            <path d="M300 228 C 296 300 306 380 298 460" stroke="rgba(0,0,0,0.09)" stroke-width="12" fill="none" />
+            <path d="M200 216 C 186 300 190 380 176 460" stroke="rgba(0,0,0,0.06)" stroke-width="9" fill="none" />
+            <path d="M408 206 C 426 300 420 380 432 460" stroke="rgba(0,0,0,0.06)" stroke-width="9" fill="none" />
+          </g>
+          <!-- each one's hand on the other's far shoulder: arms around each other under the flag -->
+          <path d="M128 252 C 124 236 136 224 152 226 L 180 230 C 190 232 190 244 180 246 L 154 252 C 144 256 132 260 128 252 Z" fill="currentColor" />
+          <path d="M472 244 C 476 228 464 216 448 218 L 420 222 C 410 224 410 236 420 238 L 446 244 C 456 248 468 252 472 244 Z" fill="currentColor" opacity="0.88" />
+        </symbol>
+      </defs>
+    </svg>
+
+    <!-- A · Duotone photo -->
+    <section class="hero hero-photo" id="photo">
+      <span class="label">A · תמונה אמיתית בגוון כחול (דואוטון)</span>
+      <svg class="art" viewBox="0 0 600 540" style="color: #9fb8ff; --flag-white: #dfe8ff; --flag-blue: #2f63e0; --kippah: #2f63e0" aria-hidden="true">
+        <use href="#brothers" />
+      </svg>
+      <div class="hero-content">
+        <p class="verse" data-lang="he">כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ</p>
+        <p class="verse" data-lang="en">For we are brothers.</p>
+        <p class="source" data-lang="he">בראשית יג, ח</p>
+        <p class="source" data-lang="en">Genesis 13:8</p>
+        <p class="tagline" data-lang="he">אלפי שנות היסטוריה חוזרות על אותו לקח: <strong>כשאנחנו מפולגים — אנחנו נופלים. כשאנחנו יחד — אנחנו קמים.</strong></p>
+        <p class="tagline" data-lang="en">Thousands of years of history repeat one lesson: <strong>divided, we fall. Together, we rise.</strong></p>
+      </div>
+      <span class="photo-note" data-lang="he">מקום לתמונה אמיתית: שני אנשים מאחור, עטופים בדגל אחד</span>
+      <span class="photo-note" data-lang="en">Placeholder for a real photo: two people from behind, wrapped in one flag</span>
+    </section>
+
+    <!-- B · Illustration -->
+    <section class="hero hero-illustration" id="illustration">
+      <span class="label">B · איור</span>
+      <div class="hero-content">
+        <p class="verse" data-lang="he">כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ</p>
+        <p class="verse" data-lang="en">For we are brothers.</p>
+        <p class="source" data-lang="he">בראשית יג, ח</p>
+        <p class="source" data-lang="en">Genesis 13:8</p>
+        <svg class="art" viewBox="0 0 600 540" style="color: var(--ink)" role="img" aria-label="שני אחים מאחור, אחד עם כיפה, עטופים בדגל ישראל אחד">
+          <use href="#brothers" />
+        </svg>
+        <p class="tagline" data-lang="he">אלפי שנות היסטוריה חוזרות על אותו לקח: <strong>כשאנחנו מפולגים — אנחנו נופלים. כשאנחנו יחד — אנחנו קמים.</strong></p>
+        <p class="tagline" data-lang="en">Thousands of years of history repeat one lesson: <strong>divided, we fall. Together, we rise.</strong></p>
+      </div>
+    </section>
+
+    <!-- C · Stripes only -->
+    <section class="hero hero-stripes" id="stripes">
+      <span class="label">C · פסים בלבד (טלית ודגל)</span>
+      <div class="band top"></div>
+      <div class="band bottom"></div>
+      <div class="hero-content">
+        <svg class="star" viewBox="-60 -60 120 120" aria-hidden="true">
+          <g fill="none" stroke="#0038b8" stroke-width="7" stroke-linejoin="round">
+            <path d="M0 -52 L 45 26 L -45 26 Z" />
+            <path d="M0 52 L 45 -26 L -45 -26 Z" />
+          </g>
+        </svg>
+        <p class="verse" data-lang="he">כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ</p>
+        <p class="verse" data-lang="en">For we are brothers.</p>
+        <p class="source" data-lang="he">בראשית יג, ח</p>
+        <p class="source" data-lang="en">Genesis 13:8</p>
+        <p class="tagline" data-lang="he">אלפי שנות היסטוריה חוזרות על אותו לקח: <strong>כשאנחנו מפולגים — אנחנו נופלים. כשאנחנו יחד — אנחנו קמים.</strong></p>
+        <p class="tagline" data-lang="en">Thousands of years of history repeat one lesson: <strong>divided, we fall. Together, we rise.</strong></p>
+        <span class="scroll-cue" data-lang="he">גללו לסיפור</span>
+        <span class="scroll-cue" data-lang="en">Scroll to the story</span>
+      </div>
+    </section>
+
+    <!-- Story color -->
+    <section class="story" id="story">
+      <h2 data-lang="he">הצבע מספר את הסיפור</h2>
+      <h2 data-lang="en">The colour tells the story</h2>
+      <p data-lang="he">פרקי הפילוג כהים — אפור ואפר. ככל שגוללים אל "כשעמדנו יחד", האתר מתבהר לאט לכחול ולבן. הקורא מרגיש את המסר עוד לפני שקרא אותו.</p>
+      <p data-lang="en">The chapters of division are dark — grey and ash. As you scroll into "When we stood together", the site slowly brightens into blue and white. Readers feel the message before they read it.</p>
+      <div class="story-strip">
+        <div class="s1"><strong data-lang="he">שנאת חינם</strong><strong data-lang="en">Baseless hatred</strong><span data-lang="he">ירושלים, 70 לספירה</span><span data-lang="en">Jerusalem, 70 CE</span></div>
+        <div class="s2"><strong data-lang="he">אלטלנה</strong><strong data-lang="en">Altalena</strong><span data-lang="he">יוני 1948</span><span data-lang="en">June 1948</span></div>
+        <div class="s3"><strong data-lang="he">הם אף פעם לא שאלו</strong><strong data-lang="en">They never asked</strong><span data-lang="he">המעבר</span><span data-lang="en">The turn</span></div>
+        <div class="s4"><strong data-lang="he">מבצע שלמה</strong><strong data-lang="en">Operation Solomon</strong><span data-lang="he">מאי 1991</span><span data-lang="en">May 1991</span></div>
+        <div class="s5"><strong data-lang="he">אהבת חינם</strong><strong data-lang="en">Baseless love</strong><span data-lang="he">הלקח</span><span data-lang="en">The lesson</span></div>
+      </div>
+    </section>
+
+    <script>
+      const toggle = document.getElementById('lang-toggle');
+      toggle.addEventListener('click', () => {
+        const html = document.documentElement;
+        const english = html.lang === 'he';
+        html.lang = english ? 'en' : 'he';
+        html.dir = english ? 'ltr' : 'rtl';
+        toggle.textContent = english ? 'עברית' : 'English';
+      });
+    </script>
+  </body>
+</html>
