@@ -1,0 +1,160 @@
+/* Design tokens: the colours of the flag, plus the dark tones of the "divided" chapters. */
+:root {
+  color-scheme: light;
+
+  --blue: #0038b8;
+  --blue-deep: #001f66;
+  --blue-night: #00123d;
+  --blue-light: #9db6ff;
+  --white: #ffffff;
+  --paper: #fbf8f2;
+  --stone: #f1ebdf;
+  --ink: #14213d;
+  --ink-muted: #4a5468;
+  --ash-1: #1b1c20;
+  --ash-2: #2a2c32;
+  --ash-text: #dcdce1;
+
+  --serif: 'Frank Ruhl Libre', 'Times New Roman', serif;
+  --sans: 'Heebo', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+
+  --gutter: clamp(1rem, 4vw, 2.5rem);
+  --measure: 42rem;
+  --header-height: 3.5rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--header-height);
+}
+
+body {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--serif);
+  line-height: 1.2;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--blue-light);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Shared section rhythm */
+.section {
+  padding-block: clamp(4rem, 10vw, 7rem);
+  padding-inline: var(--gutter);
+}
+
+.measure {
+  max-width: var(--measure);
+  margin-inline: auto;
+}
+
+.eyebrow {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
+/* Story tones: the page darkens through the divided chapters and brightens into blue and white. */
+.tone-ash {
+  --accent: var(--blue-light);
+  --text-muted: #a9aab3;
+  color: var(--ash-text);
+  background: linear-gradient(to bottom, var(--paper), var(--ash-2) 18rem, var(--ash-1));
+}
+
+.tone-night {
+  --accent: var(--blue-light);
+  --text-muted: #a7b5dc;
+  color: #e7ecfa;
+  background: linear-gradient(to bottom, var(--ash-1), var(--blue-night) 16rem);
+}
+
+.tone-blue {
+  --accent: var(--white);
+  --text-muted: #c9d6ff;
+  color: var(--white);
+  background: linear-gradient(to bottom, var(--blue-night), var(--blue-deep) 30%, var(--blue));
+}
+
+.tone-white {
+  --accent: var(--blue);
+  --text-muted: var(--ink-muted);
+  color: var(--ink);
+  background: linear-gradient(to bottom, var(--blue), var(--white) 14rem);
+}
+
+.tone-paper {
+  --accent: var(--blue);
+  --text-muted: var(--ink-muted);
+  color: var(--ink);
+  background: var(--paper);
+}
+
+/* Content rises in as it scrolls into view, where the browser supports scroll-driven animations. */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .reveal {
+      animation: reveal linear both;
+      animation-timeline: view();
+      animation-range: entry 0% cover 25%;
+    }
+  }
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(2.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
