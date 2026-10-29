@@ -16,7 +16,15 @@ jobs:
   check:
     name: Lint, test and build
     runs-on: ubuntu-latest
+    outputs:
+      can-deploy: ${{ steps.deploy-secret.outputs.present }}
     steps:
+      # Secrets can't be used in a job's `if`, so record here whether the deploy secret exists.
+      # Until it is created, the deploy jobs are skipped instead of failing.
+      - id: deploy-secret
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_AXIM_ANAHNU }}
+        run: echo "present=${{ env.FIREBASE_SERVICE_ACCOUNT != '' }}" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
         with:
@@ -35,8 +43,11 @@ jobs:
 
   preview:
     name: Deploy preview channel
-    # Only for pull requests from this repository, where the deploy secret is available.
-    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    # Only for pull requests from this repository, once the deploy secret exists.
+    if: >-
+      needs.check.outputs.can-deploy == 'true' &&
+      github.event_name == 'pull_request' &&
+      github.event.pull_request.head.repo.full_name == github.repository
     needs: check
     runs-on: ubuntu-latest
     permissions:
@@ -58,7 +69,7 @@ jobs:
 
   live:
     name: Deploy live site
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: needs.check.outputs.can-deploy == 'true' && github.event_name == 'push' && github.ref == 'refs/heads/master'
     needs: check
     runs-on: ubuntu-latest
     environment: production
