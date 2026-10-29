@@ -1,4 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { provideNoopAnimations } from '@angular/platform-browser/animations';
+import { TranslocoTestingModule } from '@ngneat/transloco';
+import { provideYoutubeSourceServiceMock } from '../../../source/testing/youtube-source-service.mock';
 import { ContentComponent } from './content.component';
 
 describe('ContentComponent', () => {
@@ -7,7 +10,14 @@ describe('ContentComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [ContentComponent],
+      imports: [
+        ContentComponent,
+        TranslocoTestingModule.forRoot({
+          langs: { he: {} },
+          translocoConfig: { availableLangs: ['he'], defaultLang: 'he' },
+        }),
+      ],
+      providers: [provideNoopAnimations(), provideYoutubeSourceServiceMock()],
     }).compileComponents();
 
     fixture = TestBed.createComponent(ContentComponent);

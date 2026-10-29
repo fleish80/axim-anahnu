@@ -1,4 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { TranslocoTestingModule } from '@ngneat/transloco';
 import { DescriptionComponent } from './description.component';
 
 describe('DescriptionComponent', () => {
@@ -7,7 +8,13 @@ describe('DescriptionComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [DescriptionComponent],
+      imports: [
+        DescriptionComponent,
+        TranslocoTestingModule.forRoot({
+          langs: { he: {} },
+          translocoConfig: { availableLangs: ['he'], defaultLang: 'he' },
+        }),
+      ],
     }).compileComponents();
 
     fixture = TestBed.createComponent(DescriptionComponent);

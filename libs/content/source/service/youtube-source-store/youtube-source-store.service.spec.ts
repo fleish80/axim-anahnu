@@ -1,16 +1,24 @@
 import { TestBed } from '@angular/core/testing';
+import { provideYoutubeSourceServiceMock } from '../../testing/youtube-source-service.mock';
+import { YoutubeSourceStore } from './youtube-source-store.service';
 
-import { YoutubeSourceStoreService } from './youtube-source-store.service';
-
-describe('YoutubeSourceStoreService', () => {
-  let service: YoutubeSourceStoreService;
+describe('YoutubeSourceStore', () => {
+  let store: InstanceType<typeof YoutubeSourceStore>;
 
   beforeEach(() => {
-    TestBed.configureTestingModule({});
-    service = TestBed.inject(YoutubeSourceStoreService);
+    TestBed.configureTestingModule({
+      providers: [YoutubeSourceStore, provideYoutubeSourceServiceMock()],
+    });
+    store = TestBed.inject(YoutubeSourceStore);
   });
 
-  it('should be created', () => {
-    expect(service).toBeTruthy();
+  it('should load the sources on init, sorted by order', () => {
+    expect(store.youtubeSources().map((source) => source.order)).toEqual([0, 5, 20]);
+    expect(store.loaded()).toBe(true);
+  });
+
+  it('should track the current player', () => {
+    store.setPlayer('id-3');
+    expect(store.currentPlayerId()).toBe('id-3');
   });
 });

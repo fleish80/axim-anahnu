@@ -1,4 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { TranslocoTestingModule } from '@ngneat/transloco';
 import { HolocaustComponent } from './holocaust.component';
 
 describe('HolocaustComponent', () => {
@@ -7,7 +8,13 @@ describe('HolocaustComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [HolocaustComponent],
+      imports: [
+        HolocaustComponent,
+        TranslocoTestingModule.forRoot({
+          langs: { he: {} },
+          translocoConfig: { availableLangs: ['he'], defaultLang: 'he' },
+        }),
+      ],
     }).compileComponents();
 
     fixture = TestBed.createComponent(HolocaustComponent);
