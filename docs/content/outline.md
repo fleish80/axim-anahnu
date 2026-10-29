@@ -337,10 +337,11 @@ If destruction came from hatred without a reason, the repair is love without a r
 - **Made the October 7 chapter non-partisan.** The current text blames one side of the judicial debate for the attack. The new text names the division without saying who was right.
 - **Shortened everything.** About 3–5 sentences per chapter instead of 8–12 repetitive paragraphs.
 
-### Facts to verify before launch
-- Begin's exact words on the radio after Altalena (ch. 5).
-- Operation Solomon numbers: 14,325 immigrants, 35 aircraft, about 36 hours, 1,088 on one flight (ch. 10).
-- Hebrew rendering of Josephus, Antiquities 14.77 (ch. 3): it's a free translation, so it should be marked or replaced with a published Hebrew translation.
+### Facts checked (2026-10-29)
+- **Tanakh and Talmud quotes:** all checked word by word against Sefaria. Fixed: 2 Kings 16:7 now ends with "הַקּוֹמִים עָלָי"; Shevuot 39a reads "ערבים", not "ערבין".
+- **Josephus (ch. 3):** the English matches the Whiston translation, Antiquities 14.4.5 (§77). The Hebrew is a free translation and is marked as such.
+- **Operation Solomon (ch. 10):** 14,325 people in about 36 hours is solid. Sources give 34 or 35 aircraft, so the text says "some 35". The record flight is disputed (Guinness 1,088; others 1,078–1,122), so the text says "more than a thousand".
+- **Altalena (ch. 5):** no reliable transcript of Begin's radio words was found, so the chapter describes his order and his stand against civil war without quoting him.
 
 ### Decisions for you
 1. **Chapter 7 (2023).** Keep it, soften it further, or drop it and let chapter 11 carry October 7 alone.

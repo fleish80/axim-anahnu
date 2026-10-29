@@ -54,6 +54,16 @@ h3 {
 
 p {
   margin: 0;
+  text-wrap: pretty;
+}
+
+/* Short display text wraps into even lines instead of leaving one word alone. */
+h1,
+h2,
+h3,
+blockquote,
+figcaption {
+  text-wrap: balance;
 }
 
 a {

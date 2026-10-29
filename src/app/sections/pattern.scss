@@ -28,7 +28,11 @@ h3 {
   list-style: none;
   counter-reset: step;
 
-  @media (min-width: 46rem) {
+  @media (min-width: 36rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 64rem) {
     grid-template-columns: repeat(4, 1fr);
   }
 }
@@ -50,8 +54,8 @@ li {
   }
 }
 
-/* Arrows between the steps follow the reading direction. */
-@media (min-width: 46rem) {
+/* Arrows between the steps follow the reading direction; shown when the steps sit in one row. */
+@media (min-width: 64rem) {
   li:not(:last-child)::after {
     content: '→';
     position: absolute;
@@ -84,9 +88,9 @@ li {
   color: var(--text-muted);
 }
 
-/* Forgetting fades out, the way the lesson does. */
+/* Forgetting fades, the way the lesson does, but stays readable. */
 .forgetting .step-text {
-  mask-image: linear-gradient(to bottom, #000 30%, transparent 105%);
+  mask-image: linear-gradient(to bottom, #000 40%, rgb(0 0 0 / 0.45));
 }
 
 .again {

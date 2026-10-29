@@ -1,7 +1,7 @@
 .hero {
   display: grid;
   grid-template-rows: auto 1fr auto;
-  gap: clamp(1.5rem, 4vh, 3rem);
+  gap: clamp(1rem, 3vh, 2.5rem);
   min-height: calc(100svh - var(--header-height));
   padding-block: clamp(1.25rem, 3vh, 2rem);
   text-align: center;
@@ -28,14 +28,14 @@
 }
 
 .verse {
-  font-size: clamp(2.6rem, 8.5vw, 6rem);
+  font-size: clamp(2.6rem, min(8.5vw, 10vh), 6rem);
   font-weight: 700;
   color: var(--blue);
   line-height: 1.15;
 }
 
 .verse:lang(en) {
-  font-size: clamp(2.3rem, 7vw, 5.2rem);
+  font-size: clamp(2.3rem, min(7vw, 9vh), 5.2rem);
 }
 
 .source {
@@ -46,15 +46,17 @@
 }
 
 .illustration {
-  width: min(360px, 68vw);
-  margin-top: clamp(1rem, 3vh, 2rem);
+  /* Sized by height too, so the whole hero fits on a laptop screen. */
+  width: min(360px, 68vw, 36vh);
+  margin-top: clamp(0.75rem, 2.5vh, 2rem);
 }
 
 .tagline {
-  max-width: 38rem;
-  margin-top: clamp(1rem, 3vh, 1.75rem);
-  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
-  line-height: 1.55;
+  max-width: 44rem;
+  margin-top: clamp(0.75rem, 2.5vh, 1.75rem);
+  font-size: clamp(1.1rem, min(2.5vw, 3vh), 1.5rem);
+  line-height: 1.5;
+  text-wrap: balance;
 
   strong {
     display: block;
@@ -67,7 +69,7 @@
   flex-direction: column;
   align-items: center;
   gap: 0.4rem;
-  margin-top: 1.75rem;
+  margin-top: clamp(0.75rem, 2.5vh, 1.75rem);
   font-size: 0.85rem;
   letter-spacing: 0.06em;
   color: var(--ink-muted);
@@ -76,7 +78,7 @@
   &::after {
     content: '';
     width: 1px;
-    height: 2.5rem;
+    height: clamp(1.25rem, 4vh, 2.5rem);
     background: currentColor;
     transform-origin: top;
   }
