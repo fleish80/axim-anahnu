@@ -11,7 +11,7 @@ The Hebrew needs a native reader's pass before anything ships. Quotes from Tanak
 | 1 | Opening | "We have been here before" — the pattern, in one paragraph |
 | I | When we were divided (7 chapters) | Moments when division among us opened the door to disaster |
 | — | The pattern: "Why don't we learn?" | Closes Part I: the cycle that repeats in every chapter, and why we keep repeating it |
-| — | Bridge: "They never asked" | Persecution from outside — never our fault, and it never asked which kind of Jew you were |
+| — | Bridge: "They never asked" | Hatred from outside — its victims are never to blame, even when we were divided, and it never asked which kind of Jew you were |
 | II | When we stood together (4 chapters) | Moments when unity saved us |
 | III | The lesson (6 ideas, two rows) | From the tradition: disagree without hatred · responsible for each other · baseless love. From the state and science: the Declaration's call to rally · Rivlin's four tribes · intergroup contact research |
 | IV | What you can do | Four small, concrete actions + share |
@@ -192,14 +192,16 @@ Every year on Tisha B'Av some of us fast and some just pause for a moment. All o
 
 ## Bridge — הם אף פעם לא שאלו / They never asked
 
+**Headline:** לאויבים שלנו לא משנה מי אנחנו ומה אנחנו חושבים. / Our enemies don't care who we are or what we think.
+
 **HE**
-לא כל אסון בתולדותינו נבע מפילוג. הרבה מהם באו מבחוץ, משנאה שלא הייתה לנו בה שום אשמה: מסע הצלב הראשון, שטבח בקהילות וורמס ומגנצא ב־1096. פוגרום קישינב ב־1903. השואה, שבה נרצחו שישה מיליון יהודים. ה־7 באוקטובר.
-הרוצחים מעולם לא שאלו אם אתה דתי או חילוני, ציוני או לא, ימני או שמאלני, אשכנזי או ספרדי. בעיניהם כולנו היינו אחד.
+הרבה מהאסונות שלנו באו מבחוץ — משנאה שהקורבנות שלה לא היו אשמים בה בשום דבר. גם כשהיינו מפולגים, כמו ב־2023, האשמה ברצח היא של הרוצחים בלבד.  מסע הצלב הראשון, שטבח בקהילות וורמס ומגנצא ב־1096. פוגרום קישינב ב־1903. השואה, שבה נרצחו שישה מיליון יהודים. ה־7 באוקטובר.
+הרוצחים מעולם לא שאלו אם אתה דתי או חילוני, ציוני או לא, ימני או שמאלני, אשכנזי או ספרדי — ולא בעד מי הצבעת ונגד מה הפגנת. בעיניהם כולנו היינו אחד.
 *לקח:* אם השונאים שלנו מעולם לא הבחינו בינינו — למה שאנחנו נעשה את זה?
 
 **EN**
-Not every disaster in our history came from division. Many came from outside, from a hatred that was never our fault: the First Crusade, which massacred the communities of Worms and Mainz in 1096. The Kishinev pogrom in 1903. The Holocaust, in which six million Jews were murdered. October 7.
-The murderers never asked whether you were religious or secular, Zionist or not, right or left, Ashkenazi or Sephardi. In their eyes, we were all one.
+Many of our disasters came from outside — from a hatred whose victims bore no blame at all. Even when we were divided, as in 2023, the guilt for murder belongs to the murderers alone.  the First Crusade, which massacred the communities of Worms and Mainz in 1096. The Kishinev pogrom in 1903. The Holocaust, in which six million Jews were murdered. October 7.
+The murderers never asked whether you were religious or secular, Zionist or not, right or left, Ashkenazi or Sephardi — or whom you voted for and what you protested against. In their eyes, we were all one.
 *Lesson:* If those who hate us never told us apart — why should we?
 
 ---

@@ -180,7 +180,8 @@
   },
   "bridge": {
     "title": "They never asked",
-    "intro": "Not every disaster in our history came from division. Many came from outside, from a hatred that was never our fault.",
+    "headline": "Our enemies don't care who we are or what we think.",
+    "intro": "Many of our disasters came from outside — from a hatred whose victims bore no blame at all. Even when we were divided, as in 2023, the guilt for murder belongs to the murderers alone.",
     "events": {
       "crusade": {
         "year": "1096",
@@ -199,7 +200,7 @@
         "text": "October 7"
       }
     },
-    "text": "The murderers never asked whether you were religious or secular, Zionist or not, right or left, Ashkenazi or Sephardi. In their eyes, we were all one.",
+    "text": "The murderers never asked whether you were religious or secular, Zionist or not, right or left, Ashkenazi or Sephardi — or whom you voted for and what you protested against. In their eyes, we were all one.",
     "lesson": "If those who hate us never told us apart — why should we?"
   },
   "lessons": {

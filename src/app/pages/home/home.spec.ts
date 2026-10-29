@@ -78,6 +78,13 @@ describe('Home', () => {
     );
   });
 
+  it('should say plainly that our enemies do not care who we are or what we think', () => {
+    expect(page.querySelector('aa-bridge .headline')?.textContent).toBe(
+      "Our enemies don't care who we are or what we think.",
+    );
+    expect(page.querySelector('aa-bridge .text')?.textContent).toContain('whom you voted for');
+  });
+
   it('should list the outside persecutions, the lessons and the four actions', () => {
     expect(page.querySelectorAll('aa-bridge li')).toHaveLength(4);
     expect(texts('aa-lessons h3')).toEqual(['From the tradition', 'From the state and science']);

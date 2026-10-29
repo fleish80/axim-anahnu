@@ -15,6 +15,7 @@ import { BRIDGE_EVENTS } from '../content/story';
     >
       <div class="measure reveal">
         <h2 id="bridge-title">{{ t('title') }}</h2>
+        <p class="headline">{{ t('headline') }}</p>
         <p class="intro">{{ t('intro') }}</p>
         <ol class="events">
           @for (event of events; track event) {
@@ -35,8 +36,18 @@ import { BRIDGE_EVENTS } from '../content/story';
       font-weight: 900;
       text-align: center;
     }
+    .headline {
+      margin-block: 1.25rem 0;
+      font-family: var(--serif);
+      font-size: clamp(1.6rem, 4.4vw, 2.5rem);
+      font-weight: 700;
+      line-height: 1.3;
+      text-align: center;
+      text-wrap: balance;
+      color: var(--white);
+    }
     .intro {
-      margin-block: 1rem 2.5rem;
+      margin-block: 1.25rem 2.5rem;
       text-align: center;
       color: var(--text-muted);
       font-size: 1.15rem;
