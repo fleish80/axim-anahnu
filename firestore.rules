@@ -1,0 +1,13 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Site content per language (he, en) is public and read-only from the client.
+    // Content is edited in the Firebase console, which bypasses these rules.
+    match /{lang}/{docId} {
+      allow read: if lang in ['he', 'en'];
+      allow write: if false;
+    }
+  }
+}
