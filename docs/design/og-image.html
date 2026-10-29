@@ -1,0 +1,135 @@
+<!doctype html>
+<!--
+  Share image (Open Graph) template, 1200x630.
+  Regenerate public/og/he.jpg and public/og/en.jpg with:  npm run og-images
+-->
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@700;900&family=Heebo:wght@400;500;700&display=block"
+    />
+    <style>
+      :root {
+        --blue: #0038b8;
+        --ink: #14213d;
+        --ink-muted: #4a5468;
+        --white: #ffffff;
+        --paper: #fbf8f2;
+        --stone: #f1ebdf;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+      body {
+        display: grid;
+        grid-template-rows: 44px 1fr 44px;
+        row-gap: 0;
+        font-family: 'Heebo', system-ui, sans-serif;
+        color: var(--ink);
+        background: radial-gradient(circle at 70% 55%, var(--white) 0%, var(--paper) 45%, var(--stone) 100%);
+      }
+      html[dir='ltr'] body { background: radial-gradient(circle at 30% 55%, var(--white) 0%, var(--paper) 45%, var(--stone) 100%); }
+      .band { background: var(--blue); margin-block: 30px 0; height: 44px; }
+      .band.bottom { margin-block: 0 30px; align-self: end; }
+      main {
+        display: grid;
+        grid-template-columns: 1fr 380px;
+        align-items: center;
+        gap: 40px;
+        padding: 0 80px;
+      }
+      .text { display: flex; flex-direction: column; gap: 22px; }
+      .verse {
+        margin: 0;
+        font-family: 'Frank Ruhl Libre', serif;
+        font-weight: 900;
+        font-size: 84px;
+        line-height: 1.1;
+        color: var(--blue);
+        text-wrap: balance;
+      }
+      html[lang='en'] .verse { font-size: 74px; }
+      .tagline { margin: 0; font-size: 32px; line-height: 1.4; font-weight: 500; }
+      .url { align-self: flex-start; font-size: 24px; font-weight: 500; color: var(--ink-muted); letter-spacing: 0.02em; direction: ltr; unicode-bidi: isolate; }
+      svg { width: 380px; height: auto; display: block; filter: drop-shadow(0 20px 26px rgb(20 33 61 / 0.18)); }
+      .person { fill: var(--ink); }
+      .other { fill: #26355a; }
+      .flag-white { fill: var(--white); }
+      .flag-blue { fill: var(--blue); }
+      .star path { fill: none; stroke: var(--blue); stroke-width: 7.5; stroke-linejoin: round; }
+      .fold { fill: none; stroke: rgb(0 0 0 / 0.09); }
+      .fold.light { stroke: rgb(0 0 0 / 0.06); }
+      [data-lang] { display: none; }
+      html[lang='he'] [data-lang='he'], html[lang='en'] [data-lang='en'] { display: revert; }
+    </style>
+  </head>
+  <body>
+    <div class="band"></div>
+    <main>
+      <div class="text">
+        <p class="verse" data-lang="he">כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ</p>
+        <p class="verse" data-lang="en">For we are brothers.</p>
+        <p class="tagline" data-lang="he">אלפי שנות היסטוריה חוזרות על אותו לקח — ועדיין לא למדנו אותו.</p>
+        <p class="tagline" data-lang="en">Thousands of years of history repeat one lesson — and we still haven't learned it.</p>
+        <span class="url">axim-anahnu.web.app</span>
+      </div>
+      <svg viewBox="0 0 600 540">
+      <defs>
+        <clipPath id="brothers-cape">
+          <path
+            d="M112 300 C 112 252 140 224 192 216 C 236 210 268 220 300 228 C 334 216 366 202 414 206 C 462 212 488 246 490 300 L 496 440 C 452 456 420 430 380 446 C 340 462 304 436 262 452 C 220 466 180 440 140 454 C 126 458 114 456 106 450 Z"
+          />
+        </clipPath>
+      </defs>
+      <path
+        class="person"
+        d="M118 540 L 122 300 C 124 250 150 222 196 214 L 258 210 C 296 214 314 240 318 290 L 322 540 Z"
+      />
+      <path
+        class="person other"
+        d="M284 540 L 288 290 C 292 238 316 208 362 204 L 410 206 C 456 212 480 244 482 300 L 486 540 Z"
+      />
+      <rect class="person" x="208" y="150" width="36" height="70" rx="14" />
+      <rect class="person other" x="364" y="140" width="38" height="72" rx="14" />
+      <circle class="person" cx="226" cy="128" r="44" />
+      <circle class="person other" cx="383" cy="118" r="46" />
+      <path class="flag-blue" d="M357 88 C 360 70 406 70 409 88 C 392 82 374 82 357 88 Z" />
+      <g clip-path="url(#brothers-cape)">
+        <rect class="flag-white" x="90" y="190" width="420" height="290" />
+        <path
+          class="flag-blue"
+          d="M90 252 C 180 238 230 262 300 256 C 370 250 430 236 510 248 L 510 274 C 430 262 370 276 300 282 C 230 288 180 266 90 278 Z"
+        />
+        <path
+          class="flag-blue"
+          d="M90 398 C 180 386 230 408 300 402 C 370 396 430 384 510 396 L 510 422 C 430 410 370 422 300 428 C 230 434 180 412 90 424 Z"
+        />
+        <g class="star" transform="translate(300 336)">
+          <path d="M0 -44 L 38 22 L -38 22 Z" />
+          <path d="M0 44 L 38 -22 L -38 -22 Z" />
+        </g>
+        <path class="fold" d="M300 228 C 296 300 306 380 298 460" stroke-width="12" />
+        <path class="fold light" d="M200 216 C 186 300 190 380 176 460" stroke-width="9" />
+        <path class="fold light" d="M408 206 C 426 300 420 380 432 460" stroke-width="9" />
+      </g>
+      <path
+        class="person"
+        d="M128 252 C 124 236 136 224 152 226 L 180 230 C 190 232 190 244 180 246 L 154 252 C 144 256 132 260 128 252 Z"
+      />
+      <path
+        class="person other"
+        d="M472 244 C 476 228 464 216 448 218 L 420 222 C 410 224 410 236 420 238 L 446 244 C 456 248 468 252 472 244 Z"
+      />
+    </svg>
+    </main>
+    <div class="band bottom"></div>
+    <script>
+      const lang = new URLSearchParams(location.search).get('lang') === 'en' ? 'en' : 'he';
+      document.documentElement.lang = lang;
+      document.documentElement.dir = lang === 'he' ? 'rtl' : 'ltr';
+    </script>
+  </body>
+</html>

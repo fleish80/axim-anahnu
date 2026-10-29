@@ -13,6 +13,7 @@ import { PartHeader } from '../../sections/part-header';
 
 @Component({
   selector: 'aa-home',
+  standalone: true,
   imports: [
     TranslocoDirective,
     TranslocoPipe,

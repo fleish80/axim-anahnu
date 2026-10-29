@@ -15,24 +15,26 @@ npm ci
 
 ## Scripts
 
-| Command                  | What it does                                                                          |
-| ------------------------ | ------------------------------------------------------------------------------------- |
-| `npm start`              | Dev server at http://localhost:4200                                                   |
-| `npm test`               | Unit tests once (Vitest); `npm run test:watch` to keep watching                       |
-| `npm run lint`           | ESLint (angular-eslint)                                                               |
-| `npm run format`         | Prettier; `npm run format:check` in CI                                                |
-| `npm run build`          | Production build, prerendering `/` (Hebrew) and `/en` into `dist/axim-anahnu/browser` |
-| `npm run deploy:hosting` | Build and deploy the site to Firebase Hosting                                         |
-| `npm run deploy:rules`   | Deploy the Firestore security rules                                                   |
+| Command                  | What it does                                                                                                    |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| `npm start`              | Dev server at http://localhost:4200                                                                             |
+| `npm test`               | Unit tests once (Vitest); `npm run test:watch` to keep watching                                                 |
+| `npm run lint`           | ESLint (angular-eslint)                                                                                         |
+| `npm run format`         | Prettier; `npm run format:check` in CI                                                                          |
+| `npm run build`          | Production build, prerendering `/` (Hebrew), `/en` and the bilingual `404.html` into `dist/axim-anahnu/browser` |
+| `npm run og-images`      | Re-render the share images `public/og/{he,en}.jpg` from `docs/design/og-image.html` (needs Chrome)              |
+| `npm run deploy:hosting` | Build and deploy the site to Firebase Hosting                                                                   |
+| `npm run deploy:rules`   | Deploy the Firestore security rules                                                                             |
 
 ## Content
 
 - Texts live in `src/i18n/he.json` and `src/i18n/en.json`. Both must have the same keys; a test checks it.
 - The content plan and editorial notes are in `docs/content/outline.md`.
+- Every quote and fact links to its source; the links are in `src/app/content/story.ts` and `src/app/content/sources.ts`.
 
 ## Languages and URLs
 
-Hebrew is served at `/` (right to left) and English at `/en` (left to right). Each page sets `lang`, `dir`, its title, description, Open Graph tags, a canonical link and hreflang alternates.
+Hebrew is served at `/` (right to left) and English at `/en` (left to right). Each page sets `lang`, `dir`, its title, description, Open Graph tags with its own share image, a canonical link and hreflang alternates. Unknown paths get the bilingual 404 page with a real 404 status.
 
 ## CI and deploys
 

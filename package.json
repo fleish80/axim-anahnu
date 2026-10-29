@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "postbuild": "node -e \"require('node:fs').copyFileSync('dist/axim-anahnu/browser/404/index.html', 'dist/axim-anahnu/browser/404.html')\"",
     "watch": "ng build --watch --configuration development",
     "test": "ng test --watch=false",
     "lint": "ng lint",
@@ -12,7 +13,8 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "deploy:hosting": "npm run build && npx -y firebase-tools@latest deploy --only hosting",
-    "deploy:rules": "npx -y firebase-tools@latest deploy --only firestore:rules"
+    "deploy:rules": "npx -y firebase-tools@latest deploy --only firestore:rules",
+    "og-images": "node scripts/og-images.mjs"
   },
   "private": true,
   "packageManager": "npm@11.19.1",

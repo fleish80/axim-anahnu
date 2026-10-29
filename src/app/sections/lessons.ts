@@ -1,11 +1,13 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { TranslocoDirective } from '@jsverse/transloco';
+import { SourceLink } from '../components/source-link';
 import { LESSON_GROUPS } from '../content/story';
 import { PartHeader } from './part-header';
 
 @Component({
   selector: 'aa-lessons',
-  imports: [TranslocoDirective, PartHeader],
+  standalone: true,
+  imports: [TranslocoDirective, PartHeader, SourceLink],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <section class="section tone-white" aria-labelledby="lesson-title">
@@ -29,7 +31,12 @@ import { PartHeader } from './part-header';
                         }
                       </p>
                     }
-                    <figcaption>{{ t(lesson.id + '.source') }}</figcaption>
+                    <figcaption>
+                      <aa-source-link
+                        [label]="t(lesson.id + '.source')"
+                        [link]="lesson.sourceLink"
+                      />
+                    </figcaption>
                   </figure>
                 </article>
               }

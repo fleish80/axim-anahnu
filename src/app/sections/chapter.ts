@@ -1,10 +1,12 @@
 import { ChangeDetectionStrategy, Component, computed, input } from '@angular/core';
 import { TranslocoDirective, TranslocoPipe } from '@jsverse/transloco';
+import { SourceLink } from '../components/source-link';
 import { ChapterRef } from '../content/story';
 
 @Component({
   selector: 'aa-chapter',
-  imports: [TranslocoDirective, TranslocoPipe],
+  standalone: true,
+  imports: [TranslocoDirective, TranslocoPipe, SourceLink],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <article
@@ -25,7 +27,9 @@ import { ChapterRef } from '../content/story';
             <blockquote>
               <p>{{ t('quote') }}</p>
             </blockquote>
-            <figcaption>{{ t('source') }}</figcaption>
+            <figcaption>
+              <aa-source-link [label]="t('source')" [link]="chapter().sourceLink" />
+            </figcaption>
           </figure>
         }
         @if (chapter().hasLight) {

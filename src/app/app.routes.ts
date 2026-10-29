@@ -1,5 +1,6 @@
 import { Routes } from '@angular/router';
 import { languageResolver } from './i18n/language.resolver';
+import { notFoundResolver } from './i18n/not-found.resolver';
 import { Language } from './i18n/languages';
 
 const home = (lang: Language) => ({
@@ -8,8 +9,15 @@ const home = (lang: Language) => ({
   resolve: { lang: languageResolver },
 });
 
+const notFound = {
+  loadComponent: () => import('./pages/not-found/not-found').then((m) => m.NotFound),
+  resolve: { ready: notFoundResolver },
+};
+
 export const routes: Routes = [
   { path: '', pathMatch: 'full', ...home('he') },
   { path: 'en', ...home('en') },
-  { path: '**', redirectTo: '' },
+  // Prerendered as 404/index.html and copied to 404.html, which Firebase Hosting serves for unknown paths.
+  { path: '404', ...notFound },
+  { path: '**', ...notFound },
 ];

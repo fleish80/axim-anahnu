@@ -12,6 +12,7 @@ import { LANGUAGE_PATHS, SITE_URL } from '../i18n/languages';
 
 @Component({
   selector: 'aa-share-buttons',
+  standalone: true,
   imports: [TranslocoDirective],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `

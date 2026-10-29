@@ -6,6 +6,7 @@ import { Language, LANGUAGE_PATHS } from './i18n/languages';
 
 @Component({
   selector: 'aa-root',
+  standalone: true,
   imports: [RouterOutlet, RouterLink, TranslocoDirective],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `

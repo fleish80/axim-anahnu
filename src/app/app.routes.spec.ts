@@ -42,6 +42,20 @@ describe('language routes', () => {
     expect(link('link[rel="canonical"]')).toBe('https://axim-anahnu.web.app/en');
   });
 
+  it('should give each language its own share image', async () => {
+    const image = () =>
+      document.head.querySelector('meta[property="og:image"]')?.getAttribute('content');
+
+    await harness.navigateByUrl('/');
+    expect(image()).toBe('https://axim-anahnu.web.app/og/he.jpg');
+
+    await harness.navigateByUrl('/en');
+    expect(image()).toBe('https://axim-anahnu.web.app/og/en.jpg');
+    expect(
+      document.head.querySelector('meta[property="og:image:width"]')?.getAttribute('content'),
+    ).toBe('1200');
+  });
+
   it('should link every page to both languages and mark Hebrew as the default', async () => {
     await harness.navigateByUrl('/en');
 
@@ -50,9 +64,25 @@ describe('language routes', () => {
     expect(link('link[hreflang="x-default"]')).toBe('https://axim-anahnu.web.app/');
   });
 
-  it('should send unknown paths to the Hebrew home page', async () => {
+  it('should show the bilingual not-found page for unknown paths, kept out of search results', async () => {
     await harness.navigateByUrl('/no-such-page');
 
-    expect(TestBed.inject(Router).url).toBe('/');
+    expect(TestBed.inject(Router).url).toBe('/no-such-page');
+    expect(harness.routeNativeElement?.querySelector('h1')?.textContent).toBe('הדף הזה לא נמצא');
+    expect(harness.routeNativeElement?.querySelector('h2')?.textContent).toBe(
+      "This page wasn't found",
+    );
+    expect(document.head.querySelector('meta[name="robots"]')?.getAttribute('content')).toBe(
+      'noindex',
+    );
+    expect(link('link[rel="canonical"]')).toBeNull();
+  });
+
+  it('should make a page indexable again after leaving the not-found page', async () => {
+    await harness.navigateByUrl('/no-such-page');
+    await harness.navigateByUrl('/en');
+
+    expect(document.head.querySelector('meta[name="robots"]')).toBeNull();
+    expect(link('link[rel="canonical"]')).toBe('https://axim-anahnu.web.app/en');
   });
 });

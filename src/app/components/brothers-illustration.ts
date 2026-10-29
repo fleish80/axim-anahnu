@@ -3,6 +3,7 @@ import { ChangeDetectionStrategy, Component, input } from '@angular/core';
 /** Two brothers seen from behind, one with a kippah, holding each other under one flag. */
 @Component({
   selector: 'aa-brothers-illustration',
+  standalone: true,
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: { role: 'img', '[attr.aria-label]': 'label()' },
   template: `

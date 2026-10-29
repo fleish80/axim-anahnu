@@ -4,6 +4,7 @@ import { TranslocoDirective } from '@jsverse/transloco';
 /** Eyebrow, title and one-line intro that open each part of the story. */
 @Component({
   selector: 'aa-part-header',
+  standalone: true,
   imports: [TranslocoDirective],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `

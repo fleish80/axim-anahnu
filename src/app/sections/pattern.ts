@@ -1,11 +1,14 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { TranslocoDirective } from '@jsverse/transloco';
+import { SourceLink } from '../components/source-link';
+import { SOURCES } from '../content/sources';
 import { PATTERN_STEPS } from '../content/story';
 
 /** Closes "When we were divided": the same four steps, every time, and why we keep repeating them. */
 @Component({
   selector: 'aa-pattern',
-  imports: [TranslocoDirective],
+  standalone: true,
+  imports: [TranslocoDirective, SourceLink],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <section
@@ -29,7 +32,9 @@ import { PATTERN_STEPS } from '../content/story';
       <p class="tisha-beav">{{ t('tishaBeav') }}</p>
       <figure>
         <blockquote>{{ t('quote') }}</blockquote>
-        <figcaption>{{ t('source') }}</figcaption>
+        <figcaption>
+          <aa-source-link [label]="t('source')" [link]="sources.deuteronomy" />
+        </figcaption>
       </figure>
       <p class="lesson">{{ t('lesson') }}</p>
     </section>
@@ -38,4 +43,5 @@ import { PATTERN_STEPS } from '../content/story';
 })
 export class Pattern {
   protected readonly steps = PATTERN_STEPS;
+  protected readonly sources = SOURCES;
 }

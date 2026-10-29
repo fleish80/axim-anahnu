@@ -9,6 +9,7 @@ const YOUTUBE_ID = /^[\w-]{11}$/;
  */
 @Component({
   selector: 'aa-video-player',
+  standalone: true,
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <figure>

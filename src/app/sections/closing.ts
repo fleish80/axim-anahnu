@@ -1,17 +1,20 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { TranslocoDirective } from '@jsverse/transloco';
+import { SourceLink } from '../components/source-link';
+import { SOURCES } from '../content/sources';
 
 /** Ends where the site began: Abraham choosing to end the quarrel. */
 @Component({
   selector: 'aa-closing',
-  imports: [TranslocoDirective],
+  standalone: true,
+  imports: [TranslocoDirective, SourceLink],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <section class="closing" *transloco="let t; prefix: 'closing'">
       <div class="band" aria-hidden="true"></div>
       <figure class="reveal">
         <blockquote>{{ t('verse') }}</blockquote>
-        <figcaption>{{ t('source') }}</figcaption>
+        <figcaption><aa-source-link [label]="t('source')" [link]="sources.genesis" /></figcaption>
       </figure>
       <div class="band" aria-hidden="true"></div>
     </section>
@@ -48,4 +51,6 @@ import { TranslocoDirective } from '@jsverse/transloco';
     }
   `,
 })
-export class Closing {}
+export class Closing {
+  protected readonly sources = SOURCES;
+}

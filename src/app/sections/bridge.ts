@@ -5,6 +5,7 @@ import { BRIDGE_EVENTS } from '../content/story';
 /** Persecution from outside: never our fault, and it never asked which kind of Jew you were. */
 @Component({
   selector: 'aa-bridge',
+  standalone: true,
   imports: [TranslocoDirective],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `

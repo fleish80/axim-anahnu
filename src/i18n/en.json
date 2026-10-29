@@ -2,11 +2,13 @@
   "site": {
     "name": "We Are Brothers",
     "switchLanguage": "עברית",
-    "skipToContent": "Skip to content"
+    "skipToContent": "Skip to content",
+    "opensInNewTab": "opens in a new tab"
   },
   "meta": {
     "title": "We Are Brothers — the lesson our history keeps repeating",
-    "description": "Thousands of years of Jewish history repeat one lesson — and we still haven't learned it: divided, we fall. Together, we rise."
+    "description": "Thousands of years of Jewish history repeat one lesson — and we still haven't learned it: divided, we fall. Together, we rise.",
+    "imageAlt": "For we are brothers — two brothers seen from behind, embracing under a single flag of Israel"
   },
   "hero": {
     "verse": "For we are brothers.",
@@ -281,5 +283,11 @@
   "footer": {
     "sources": "Every quote on this site is shown with its source. Quotes from the Tanakh and Talmud are given exactly; Josephus is quoted in translation.",
     "top": "Back to top"
+  },
+  "notFound": {
+    "title": "This page wasn't found",
+    "text": "Maybe the link broke — but the story is still here.",
+    "home": "Go to the home page",
+    "metaTitle": "Page not found · We Are Brothers"
   }
 }

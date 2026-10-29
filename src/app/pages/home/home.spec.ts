@@ -56,7 +56,9 @@ describe('Home', () => {
     const temple = page.querySelector('[aria-labelledby="chapter-temple"]');
 
     expect(altalena?.querySelector('blockquote')).toBeNull();
-    expect(temple?.querySelector('figcaption')?.textContent).toBe('Babylonian Talmud, Yoma 9b');
+    const source = temple?.querySelector('figcaption a');
+    expect(source?.textContent).toContain('Babylonian Talmud, Yoma 9b');
+    expect(source?.getAttribute('href')).toBe('https://www.sefaria.org/Yoma.9b?lang=bi');
   });
 
   it('should end the divided part by asking why we do not learn, with the cycle that repeats', () => {
@@ -69,7 +71,18 @@ describe('Home', () => {
       'Ruin',
       'Forgetting',
     ]);
-    expect(pattern.querySelector('figcaption')?.textContent).toBe('Deuteronomy 32:7');
+    expect(pattern.querySelector('figcaption a')?.getAttribute('href')).toBe(
+      'https://www.sefaria.org/Deuteronomy.32.7?lang=bi',
+    );
+  });
+
+  it('should link every quote and fact on the page to its source', () => {
+    // The video's caption is a credit, not a source.
+    const captions = [...page.querySelectorAll('figcaption')].filter(
+      (caption) => !caption.closest('aa-video-player'),
+    );
+    expect(captions.length).toBeGreaterThan(0);
+    expect(captions.filter((caption) => !caption.querySelector('a[href^="https://"]'))).toEqual([]);
   });
 
   it('should say in the hero that we still have not learned the lesson', () => {

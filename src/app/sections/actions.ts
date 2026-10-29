@@ -6,6 +6,7 @@ import { PartHeader } from './part-header';
 
 @Component({
   selector: 'aa-actions',
+  standalone: true,
   imports: [TranslocoDirective, PartHeader, ShareButtons],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
