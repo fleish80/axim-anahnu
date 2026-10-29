@@ -29,7 +29,37 @@ export const PATTERN_STEPS = ['dispute', 'hatred', 'ruin', 'forgetting'] as cons
 
 export const BRIDGE_EVENTS = ['crusade', 'kishinev', 'holocaust', 'october'] as const;
 
-export const LESSONS = ['argue', 'responsible', 'love'] as const;
+export interface LessonRef {
+  /** Key under `lessons.` in the translation files. */
+  readonly id: string;
+  /** A quote from a text, or a fact from a speech or a study. */
+  readonly kind: 'quote' | 'fact';
+}
+
+export interface LessonGroup {
+  readonly id: 'tradition' | 'modern';
+  readonly lessons: readonly LessonRef[];
+}
+
+/** The lesson told twice: from the tradition, and from the state and science, for religious and secular readers alike. */
+export const LESSON_GROUPS: readonly LessonGroup[] = [
+  {
+    id: 'tradition',
+    lessons: [
+      { id: 'argue', kind: 'quote' },
+      { id: 'responsible', kind: 'quote' },
+      { id: 'love', kind: 'quote' },
+    ],
+  },
+  {
+    id: 'modern',
+    lessons: [
+      { id: 'rally', kind: 'quote' },
+      { id: 'tribes', kind: 'fact' },
+      { id: 'contact', kind: 'fact' },
+    ],
+  },
+];
 
 export const ACTIONS = ['conversation', 'contempt', 'table', 'share'] as const;
 

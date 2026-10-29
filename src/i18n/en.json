@@ -18,7 +18,7 @@
   },
   "opening": {
     "title": "We have been here before",
-    "text": "Our tradition doesn't only blame our enemies. The sages wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. Again and again in our history, the greatest danger wasn't only at the gate; it was sitting inside our own house. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn."
+    "text": "Our tradition doesn't only blame our enemies. The sages wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. Again and again in our history, the greatest danger wasn't only at the gate; it was sitting inside our own house. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn. And you don't have to be religious to see it: history, the founders of the state and today's science all tell the same story."
   },
   "parts": {
     "divided": {
@@ -34,7 +34,7 @@
     "lesson": {
       "eyebrow": "Part three",
       "title": "The lesson",
-      "intro": "Three ancient ideas — that still work."
+      "intro": "Six ideas — from the tradition, from the state and from science."
     },
     "act": {
       "eyebrow": "Part four",
@@ -203,6 +203,10 @@
     "lesson": "If those who hate us never told us apart — why should we?"
   },
   "lessons": {
+    "groups": {
+      "tradition": "From the tradition",
+      "modern": "From the state and science"
+    },
     "argue": {
       "title": "Argue without hating",
       "text": "The schools of Shammai and Hillel disagreed on almost everything — and still married into each other's families (Yevamot 14b). The law follows Hillel, because they were gentle and humble, studied Shammai's views as well, and even quoted them before their own.",
@@ -220,6 +224,24 @@
       "text": "If destruction came from hatred without a reason, the repair is love without a reason. Not because he thinks like me — because he is my brother.",
       "quote": "If we were destroyed, and the world with us, by baseless hatred — we shall be rebuilt, and the world with us, by baseless love.",
       "source": "Rav Kook, Orot HaKodesh III, p. 324"
+    },
+    "rally": {
+      "title": "Rally together — without being the same",
+      "text": "The state was born with a call for unity. The Declaration of Independence called on Jews everywhere to rally round the Yishuv — and in the same text promised equal rights to all its citizens, regardless of religion, race or sex. For the founders, unity never meant everyone thinking alike.",
+      "quote": "We appeal to the Jewish people throughout the Diaspora to rally round the Jews of Eretz-Israel.",
+      "source": "Declaration of Independence, 14 May 1948"
+    },
+    "tribes": {
+      "title": "Four tribes, one future",
+      "text": "In 2015 President Reuven Rivlin showed who sits in Israel's first-grade classrooms today. There is no longer one majority that sets the rules for everyone — every tribe is a minority. That, he said, calls for a new concept of partnership between the parts of our society.",
+      "fact": "38% secular · 15% national-religious · about a quarter Arab · close to a quarter Haredi",
+      "source": "First-grade classes, President Rivlin's speech, Herzliya Conference, 7 June 2015"
+    },
+    "contact": {
+      "title": "Meeting changes minds",
+      "text": "In 1954 the psychologist Gordon Allport proposed that real contact between groups — as equals, working toward a shared goal — reduces prejudice. Half a century later, researchers Pettigrew and Tropp pooled the studies on it: contact reduced prejudice, and not only toward the people met — toward the whole group.",
+      "fact": "515 studies",
+      "source": "Pettigrew & Tropp, Journal of Personality and Social Psychology, 2006"
     }
   },
   "actions": {

@@ -1,11 +1,16 @@
 import en from '../../i18n/en.json';
 import he from '../../i18n/he.json';
-import { DIVIDED_CHAPTERS, TOGETHER_CHAPTERS } from './story';
+import { DIVIDED_CHAPTERS, LESSON_GROUPS, TOGETHER_CHAPTERS } from './story';
 
 type Chapters = Record<string, Record<string, string>>;
 
 const languages = { he: he.chapters as Chapters, en: en.chapters as Chapters };
 const story = [...DIVIDED_CHAPTERS, ...TOGETHER_CHAPTERS];
+const lessons = LESSON_GROUPS.flatMap((group) => group.lessons);
+const lessonTexts = {
+  he: he.lessons as unknown as Chapters,
+  en: en.lessons as unknown as Chapters,
+};
 
 describe('story', () => {
   for (const [lang, chapters] of Object.entries(languages)) {
@@ -23,6 +28,11 @@ describe('story', () => {
 
       it('should not have texts for chapters the story does not show', () => {
         expect(Object.keys(chapters).sort()).toEqual(story.map((chapter) => chapter.id).sort());
+      });
+
+      it.each(lessons)('should have a $kind and its source for lesson "$id"', (lesson) => {
+        const texts = lessonTexts[lang as 'he' | 'en'][lesson.id] ?? {};
+        expect(Object.keys(texts).sort()).toEqual(['source', 'text', 'title', lesson.kind].sort());
       });
     });
   }

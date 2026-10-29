@@ -13,7 +13,7 @@ The Hebrew needs a native reader's pass before anything ships. Quotes from Tanak
 | — | The pattern: "Why don't we learn?" | Closes Part I: the cycle that repeats in every chapter, and why we keep repeating it |
 | — | Bridge: "They never asked" | Persecution from outside — never our fault, and it never asked which kind of Jew you were |
 | II | When we stood together (4 chapters) | Moments when unity saved us |
-| III | The lesson (3 ideas) | Disagree without hatred · responsible for each other · baseless love |
+| III | The lesson (6 ideas, two rows) | From the tradition: disagree without hatred · responsible for each other · baseless love. From the state and science: the Declaration's call to rally · Rivlin's four tribes · intergroup contact research |
 | IV | What you can do | Four small, concrete actions + share |
 | 5 | Closing | Back to the opening verse |
 
@@ -42,10 +42,10 @@ Thousands of years of history repeat one lesson — and we still haven't learned
 ## 1 · Opening — כבר היינו כאן / We have been here before
 
 **HE**
-המסורת שלנו לא מאשימה רק את האויבים. חז"ל כתבו בגלוי שבית המקדש השני חרב בגלל שנאת חינם — שנאה בין יהודים. שוב ושוב בהיסטוריה שלנו, הסכנה הגדולה לא עמדה רק בשער; היא ישבה אצלנו בבית. האתר הזה עובר על הרגעים האלה — וגם על הרגעים שבהם בחרנו אחרת והצלחנו. לא כדי להאשים. כדי שהפעם נלמד.
+המסורת שלנו לא מאשימה רק את האויבים. חז"ל כתבו בגלוי שבית המקדש השני חרב בגלל שנאת חינם — שנאה בין יהודים. שוב ושוב בהיסטוריה שלנו, הסכנה הגדולה לא עמדה רק בשער; היא ישבה אצלנו בבית. האתר הזה עובר על הרגעים האלה — וגם על הרגעים שבהם בחרנו אחרת והצלחנו. לא כדי להאשים. כדי שהפעם נלמד. ולא צריך להיות דתי כדי לראות את זה: גם ההיסטוריה, גם מייסדי המדינה וגם המדע של ימינו מספרים את אותו הסיפור.
 
 **EN**
-Our tradition doesn't only blame our enemies. The sages wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. Again and again in our history, the greatest danger wasn't only at the gate; it was sitting inside our own house. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn.
+Our tradition doesn't only blame our enemies. The sages wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. Again and again in our history, the greatest danger wasn't only at the gate; it was sitting inside our own house. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn. And you don't have to be religious to see it: history, the founders of the state and today's science all tell the same story.
 
 ---
 
@@ -296,6 +296,33 @@ Responsibility isn't agreement. It's knowing that the fate of each of us is tied
 **EN**
 If destruction came from hatred without a reason, the repair is love without a reason. Not because he thinks like me — because he is my brother.
 *Quote:* "If we were destroyed, and the world with us, by baseless hatred — we shall be rebuilt, and the world with us, by baseless love." — Rav Kook, Orot HaKodesh III, p. 324
+
+### From the state and science (for secular readers)
+
+The lessons are told twice: the three above "from the tradition", and three "from the state and science", so the site speaks to religious and secular readers alike.
+
+#### L4 · להתלכד — בלי להיות אחידים / Rally together — without being the same
+**HE** המדינה נולדה בקריאה לאחדות. מגילת העצמאות קראה ליהודים בכל העולם להתלכד סביב היישוב — ובאותה מגילה הבטיחה שוויון זכויות לכל אזרחיה בלי הבדל דת, גזע ומין. בעיני מייסדי המדינה, אחדות לא דרשה שכולם יחשבו אותו דבר.
+*ציטוט:* "אנו קוראים אל העם היהודי בכל התפוצות להתלכד סביב הישוב." — מגילת העצמאות, 14 במאי 1948
+
+**EN** The state was born with a call for unity. The Declaration of Independence called on Jews everywhere to rally round the Yishuv — and in the same text promised equal rights to all its citizens, regardless of religion, race or sex. For the founders, unity never meant everyone thinking alike.
+*Quote:* "We appeal to the Jewish people throughout the Diaspora to rally round the Jews of Eretz-Israel." — Declaration of Independence, 14 May 1948
+
+#### L5 · ארבעה שבטים, עתיד אחד / Four tribes, one future
+**HE** ב־2015 הראה הנשיא ראובן ריבלין מי יושב היום בכיתות א' בישראל. אין יותר רוב אחד שמכתיב לכולם — כל אחד מהשבטים הוא מיעוט. מכאן, אמר, צריך תפיסה חדשה של שותפות בין חלקי החברה.
+*נתון:* 38% חילונים · 15% דתיים־לאומיים · כרבע ערבים · קרוב לרבע חרדים — הרכב כיתות א', נאום הנשיא ריבלין, כנס הרצליה, 7 ביוני 2015
+
+**EN** In 2015 President Reuven Rivlin showed who sits in Israel's first-grade classrooms today. There is no longer one majority that sets the rules for everyone — every tribe is a minority. That, he said, calls for a new concept of partnership between the parts of our society.
+*Fact:* 38% secular · 15% national-religious · about a quarter Arab · close to a quarter Haredi — first-grade classes, President Rivlin's speech, Herzliya Conference, 7 June 2015
+
+#### L6 · המפגש משנה / Meeting changes minds
+**HE** ב־1954 הציע הפסיכולוג גורדון אולפורט שמפגש אמיתי בין קבוצות — בגובה העיניים ולמטרה משותפת — מפחית דעות קדומות. חצי מאה אחר כך בדקו החוקרים פטיגרו וטרופ את כל המחקרים שנעשו על כך: מפגש הפחית דעות קדומות, ולא רק כלפי האנשים שפגשו — כלפי הקבוצה כולה.
+*נתון:* 515 מחקרים — Pettigrew & Tropp, Journal of Personality and Social Psychology, 2006
+
+**EN** In 1954 the psychologist Gordon Allport proposed that real contact between groups — as equals, working toward a shared goal — reduces prejudice. Half a century later, researchers Pettigrew and Tropp pooled the studies on it: contact reduced prejudice, and not only toward the people met — toward the whole group.
+*Fact:* 515 studies — Pettigrew & Tropp, Journal of Personality and Social Psychology, 2006
+
+*Sources checked (2026-10-29): Declaration text against Hebrew Wikisource; Rivlin figures and wording as reported by the Times of Israel; the meta-analysis against its PubMed abstract (PMID 16737372).*
 
 ---
 

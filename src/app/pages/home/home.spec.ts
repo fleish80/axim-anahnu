@@ -78,13 +78,26 @@ describe('Home', () => {
     );
   });
 
-  it('should list the outside persecutions, the three lessons and the four actions', () => {
+  it('should list the outside persecutions, the lessons and the four actions', () => {
     expect(page.querySelectorAll('aa-bridge li')).toHaveLength(4);
-    expect(texts('aa-lessons h3')).toEqual([
+    expect(texts('aa-lessons h3')).toEqual(['From the tradition', 'From the state and science']);
+    expect(texts('aa-lessons h4')).toEqual([
       'Argue without hating',
       'Responsible for one another',
       'Baseless love',
+      'Rally together — without being the same',
+      'Four tribes, one future',
+      'Meeting changes minds',
     ]);
     expect(page.querySelectorAll('aa-actions li.reveal')).toHaveLength(4);
+  });
+
+  it('should speak to secular readers too, with sources from the state and from research', () => {
+    expect(page.querySelector('#opening p')?.textContent).toContain(
+      "you don't have to be religious",
+    );
+    const contact = page.querySelector('[aria-labelledby="lesson-contact"]');
+    expect(contact?.querySelector('.fact')?.textContent).toBe('515 studies');
+    expect(contact?.querySelector('figcaption')?.textContent).toContain('Pettigrew & Tropp');
   });
 });
