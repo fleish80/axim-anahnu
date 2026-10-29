@@ -29,3 +29,6 @@ export const BRIDGE_EVENTS = ['crusade', 'kishinev', 'holocaust', 'october'] as 
 export const LESSONS = ['argue', 'responsible', 'love'] as const;
 
 export const ACTIONS = ['conversation', 'contempt', 'table', 'share'] as const;
+
+/** "A tribe of brothers and sisters" (Galgalatz), shown at the end of "When we stood together". */
+export const FEATURED_VIDEO_ID = 'xWx3R7WaAQY';

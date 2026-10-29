@@ -1,6 +1,7 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
-import { TranslocoDirective } from '@jsverse/transloco';
-import { DIVIDED_CHAPTERS, TOGETHER_CHAPTERS } from '../../content/story';
+import { TranslocoDirective, TranslocoPipe } from '@jsverse/transloco';
+import { VideoPlayer } from '../../components/video-player';
+import { DIVIDED_CHAPTERS, FEATURED_VIDEO_ID, TOGETHER_CHAPTERS } from '../../content/story';
 import { Actions } from '../../sections/actions';
 import { Bridge } from '../../sections/bridge';
 import { Chapter } from '../../sections/chapter';
@@ -11,7 +12,18 @@ import { PartHeader } from '../../sections/part-header';
 
 @Component({
   selector: 'aa-home',
-  imports: [TranslocoDirective, Hero, PartHeader, Chapter, Bridge, Lessons, Actions, Closing],
+  imports: [
+    TranslocoDirective,
+    TranslocoPipe,
+    VideoPlayer,
+    Hero,
+    PartHeader,
+    Chapter,
+    Bridge,
+    Lessons,
+    Actions,
+    Closing,
+  ],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <main id="content">
@@ -43,6 +55,15 @@ import { PartHeader } from '../../sections/part-header';
         @for (chapter of together; track chapter.id; let i = $index) {
           <aa-chapter [chapter]="chapter" [number]="divided.length + i + 1" />
         }
+        <div class="video reveal">
+          <p class="video-intro">{{ 'video.intro' | transloco }}</p>
+          <aa-video-player
+            [youtubeId]="videoId"
+            [title]="'video.title' | transloco"
+            [caption]="'video.caption' | transloco"
+            [playLabel]="'video.play' | transloco"
+          />
+        </div>
       </section>
 
       <aa-lessons />
@@ -60,6 +81,17 @@ import { PartHeader } from '../../sections/part-header';
       color: var(--blue);
       margin-block-end: 1.5rem;
     }
+    .video {
+      max-width: 56rem;
+      margin: clamp(3rem, 8vw, 5rem) auto 0;
+    }
+    .video-intro {
+      margin-block-end: 1.5rem;
+      font-family: var(--serif);
+      font-size: clamp(1.5rem, 4vw, 2.2rem);
+      font-weight: 700;
+      text-align: center;
+    }
     .opening p {
       font-size: clamp(1.15rem, 2.5vw, 1.4rem);
       line-height: 1.8;
@@ -69,4 +101,5 @@ import { PartHeader } from '../../sections/part-header';
 export class Home {
   protected readonly divided = DIVIDED_CHAPTERS;
   protected readonly together = TOGETHER_CHAPTERS;
+  protected readonly videoId = FEATURED_VIDEO_ID;
 }

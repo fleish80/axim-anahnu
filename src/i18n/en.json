@@ -144,6 +144,12 @@
       "lesson": "We knew how to do it the day after. The challenge is to do it the day before."
     }
   },
+  "video": {
+    "intro": "And sometimes a song says it best.",
+    "title": "A Tribe of Brothers and Sisters",
+    "caption": "Shevet Achim VeAchayot (A Tribe of Brothers and Sisters) · Galgalatz",
+    "play": "Play the video: A Tribe of Brothers and Sisters"
+  },
   "bridge": {
     "title": "They never asked",
     "intro": "Not every disaster in our history came from division. Many came from outside, from a hatred that was never our fault.",
@@ -152,9 +158,18 @@
         "year": "1096",
         "text": "The First Crusade massacres the communities of Worms and Mainz"
       },
-      "kishinev": { "year": "1903", "text": "The Kishinev pogrom" },
-      "holocaust": { "year": "1939–1945", "text": "The Holocaust — six million Jews murdered" },
-      "october": { "year": "2023", "text": "October 7" }
+      "kishinev": {
+        "year": "1903",
+        "text": "The Kishinev pogrom"
+      },
+      "holocaust": {
+        "year": "1939–1945",
+        "text": "The Holocaust — six million Jews murdered"
+      },
+      "october": {
+        "year": "2023",
+        "text": "October 7"
+      }
     },
     "text": "The murderers never asked whether you were religious or secular, Zionist or not, right or left, Ashkenazi or Sephardi. In their eyes, we were all one.",
     "lesson": "If those who hate us never told us apart — why should we?"

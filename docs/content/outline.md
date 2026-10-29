@@ -314,9 +314,5 @@ If destruction came from hatred without a reason, the repair is love without a r
 ### Decisions for you
 1. **Chapter 7 (2023).** Keep it, soften it further, or drop it and let chapter 11 carry October 7 alone.
 2. **The "They never asked" bridge.** Keep it as one panel, or give each event its own short chapter.
-3. **Videos.** I can't watch the 12 videos, so pick 4–6 by watching them. Possible matches by title only:
-   - "מושתל הכליה מהשמאל שקיבל את הכליה של המגורש מגוש קטיף" → Part III / L3 (baseless love) — *the story itself also needs verifying*
-   - "המגזר החרדי מתגייס למאמץ המלחמתי" → chapter 11
-   - "אנשים אחים אנחנו" or "שבט אחים ואחיות" → hero or closing
-   - "מסר חשוב של אחדות ליום השואה והגבורה" → the bridge
+3. **Videos.** ✅ Decided: one video only — "שבט אחים ואחיות" (A tribe of brothers and sisters, Galgalatz, https://www.youtube.com/watch?v=xWx3R7WaAQY), shown at the end of Part II after "The morning after", loaded only when the visitor presses play.
 4. **Tagline.** "כשאנחנו מפולגים — אנחנו נופלים. כשאנחנו יחד — אנחנו קמים." Keep or rewrite?
