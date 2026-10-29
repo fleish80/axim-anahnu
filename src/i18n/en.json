@@ -1,0 +1,293 @@
+{
+  "site": {
+    "name": "We Are Brothers",
+    "switchLanguage": "עברית",
+    "skipToContent": "Skip to content",
+    "opensInNewTab": "opens in a new tab"
+  },
+  "meta": {
+    "title": "We Are Brothers — the lesson our history keeps repeating",
+    "description": "Thousands of years of Jewish history repeat one lesson — and we still haven't learned it: divided, we fall. Together, we rise.",
+    "imageAlt": "For we are brothers — two brothers seen from behind, embracing under a single flag of Israel"
+  },
+  "hero": {
+    "verse": "For we are brothers.",
+    "source": "Genesis 13:8",
+    "tagline": "Thousands of years of history repeat one lesson — and we still haven't learned it:",
+    "taglineStrong": "divided, we fall. Together, we rise.",
+    "scroll": "Scroll to the story",
+    "illustration": "Two brothers seen from behind, one wearing a kippah and one without, embracing under a single flag of Israel"
+  },
+  "opening": {
+    "title": "We have been here before",
+    "text": "Blaming our enemies is easy. It's harder to admit that, again and again in our history, the greatest danger wasn't only at the gate — it was sitting inside our own house. Even the sages of the Talmud, who could have blamed Rome alone, wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn. And you don't have to be religious to see it: history, the founders of the state and today's science all tell the same story."
+  },
+  "parts": {
+    "divided": {
+      "eyebrow": "Part one",
+      "title": "When we were divided",
+      "intro": "Seven moments when division among us opened the door to disaster."
+    },
+    "together": {
+      "eyebrow": "Part two",
+      "title": "When we stood together",
+      "intro": "Four moments when unity saved us."
+    },
+    "lesson": {
+      "eyebrow": "Part three",
+      "title": "The lesson",
+      "intro": "Six ideas — from the tradition, from the state and from science."
+    },
+    "act": {
+      "eyebrow": "Part four",
+      "title": "What you can do",
+      "intro": "Four small steps. You can start today."
+    }
+  },
+  "chapter": {
+    "lesson": "The lesson",
+    "light": "A moment of light"
+  },
+  "chapters": {
+    "joseph": {
+      "title": "The coat that took us down to Egypt",
+      "date": "The age of the patriarchs · biblical narrative",
+      "hook": "The first exile of the people of Israel began with jealousy between brothers.",
+      "story": "Jacob favoured Joseph and gave him a coat of many colours. His brothers grew jealous, “could not speak peaceably to him,” and finally sold their own brother as a slave. From there the story rolled on: Joseph in Egypt, the famine, the whole family's descent — and in the end, generations of slavery. The sages traced the entire chain back to one moment of jealousy.",
+      "quote": "Because of two sela's weight of fine wool that Jacob gave Joseph beyond his other sons, his brothers grew jealous of him — and the matter rolled on until our forefathers went down to Egypt.",
+      "source": "Babylonian Talmud, Shabbat 10b",
+      "lesson": "A small jealousy between brothers can roll into an exile of generations."
+    },
+    "ahaz": {
+      "title": "Calling in a stranger against a brother",
+      "date": "c. 930 BCE · 735–722 BCE",
+      "hook": "When the kingdom split in two, one king invited a foreign empire to fight his brothers — and the empire swallowed them all.",
+      "story": "After Solomon died, his son Rehoboam refused the people's plea to lighten their burden, and the kingdom split: Israel in the north, Judah in the south. Over two centuries the brothers fought each other again and again. When the king of Israel joined Aram to attack Judah, King Ahaz of Judah sent silver and gold to Assyria and asked for help. Assyria came — and within about a dozen years destroyed the Kingdom of Israel and exiled the ten tribes. They never came back.",
+      "quote": "Ahaz sent messengers to Tiglath-pileser king of Assyria, saying: I am your servant and your son. Come up and save me from the hand of the king of Aram and the hand of the king of Israel, who are rising up against me.",
+      "source": "2 Kings 16:7",
+      "lesson": "Whoever calls in a stranger to settle a quarrel with his brother learns that the stranger doesn't tell them apart.",
+      "light": "In that same war, soldiers of Israel took captives from Judah. The prophet Oded confronted them — and they clothed the captives, fed them and brought them home as far as Jericho (2 Chronicles 28)."
+    },
+    "hasmoneans": {
+      "title": "The brothers who handed Jerusalem to Rome",
+      "date": "67–63 BCE",
+      "hook": "The Hasmoneans won the Jewish people its independence. Their grandsons lost it — in a war between brothers.",
+      "story": "After Queen Salome Alexandra died, her two sons, Hyrcanus and Aristobulus, fought over the crown. Each sent envoys to the Roman general Pompey, asking him to rule in his favour. Pompey ruled: in 63 BCE he entered Jerusalem, took the Temple Mount, and Judea became a Roman dependency. The Jewish independence lost that year returned only some two thousand years later — in 1948.",
+      "quote": "Now the occasions of this misery which came upon Jerusalem were Hyrcanus and Aristobulus, by raising a sedition one against the other; for now we lost our liberty, and became subject to the Romans.",
+      "source": "Josephus, Antiquities of the Jews 14.4.5 (§77), Whiston translation",
+      "lesson": "A century separated the Maccabees' victory from the loss of freedom. The difference wasn't the enemy — the difference was us."
+    },
+    "temple": {
+      "title": "Baseless hatred",
+      "date": "66–70 CE · Tisha B'Av",
+      "hook": "When Rome besieged Jerusalem, the city held food for years. The Jews burned it themselves.",
+      "story": "The city was split between zealot factions that fought each other inside the walls while the legions waited outside. To force everyone into battle, the rebels set fire to the stores of wheat and barley — and famine did the rest. The sages also remembered the story where it all began: a man humiliated at a banquet because the host confused Kamtza with Bar Kamtza — and the rabbis who sat there and said nothing.",
+      "quote": "The Second Temple — where they engaged in Torah, commandments and acts of kindness — why was it destroyed? Because there was baseless hatred in it.",
+      "source": "Babylonian Talmud, Yoma 9b",
+      "lesson": "They were people of Torah, learning and kindness — and still it fell. Nothing — not commandments, not good values — replaces how we treat each other."
+    },
+    "altalena": {
+      "title": "The ship that almost sank the state",
+      "date": "20–22 June 1948",
+      "hook": "Five weeks after the state was founded, Jews fired on Jews off the beach of Tel Aviv.",
+      "story": "The Irgun ship Altalena arrived carrying weapons and immigrants, just as the IDF was being formed as a single army. The dispute over the weapons turned into a battle; the ship was shelled and caught fire. Sixteen Irgun fighters and three IDF soldiers were killed. And yet something stopped the slide: Menachem Begin ordered his men not to return fire and declared there would be no civil war. The young state survived that night too.",
+      "lesson": "You can suffer a real injustice and still choose not to raise your hand against a brother. That choice saved the state."
+    },
+    "rabin": {
+      "title": "When words became bullets",
+      "date": "4 November 1995",
+      "hook": "The Prime Minister of Israel was murdered by a Jew, at the end of a rally for peace.",
+      "story": "The dispute over the Oslo Accords was deep and legitimate — but the debate turned into incitement, and neighbours began to see each other as traitors. In Kings of Israel Square, right after a song for peace, Yitzhak Rabin was shot in the back. The dispute itself didn't end that night; it only became more painful.",
+      "quote": "Death and life are in the power of the tongue.",
+      "source": "Proverbs 18:21",
+      "lesson": "Disagreement is part of life in a free people. Incitement is how disagreement turns into blood."
+    },
+    "year2023": {
+      "title": "The year we stopped listening",
+      "date": "2023",
+      "hook": "In 2023 Israel tore in two — and while we fought each other, someone was watching.",
+      "story": "The dispute over the judicial overhaul brought hundreds of thousands into the streets every week, on both sides. Families stopped talking, friends stopped meeting, and each side saw the other as a danger to the state. This site won't tell you who was right — it was written for both sides. On 7 October 2023 Hamas attacked; some 1,200 people were murdered and 251 were taken hostage. Official inquiries will determine what failed. The question our history keeps asking doesn't wait for them.",
+      "lesson": "We don't have to agree. We have to remember that the person across the argument is a brother — and that the enemy never tells us apart."
+    },
+    "purim": {
+      "title": "Scattered and divided — go, gather",
+      "date": "Persian period · Book of Esther",
+      "hook": "Haman understood our weakness before we did.",
+      "story": "When he asked King Ahasuerus to destroy the Jews, he described them as a people “scattered and divided.” Esther's answer was the exact opposite: before risking her life before the king, she asked Mordecai to gather all the Jews of Shushan to fast together for her. Only then did she go in. What began as a decree of annihilation ended as a holiday of sending gifts to one another.",
+      "quote": "There is a certain people scattered and divided among the peoples… Go, gather all the Jews who are in Shushan.",
+      "source": "Esther 3:8 · 4:16",
+      "lesson": "The answer to “scattered and divided” is “go, gather.”"
+    },
+    "independence": {
+      "title": "From dozens of exiles — one people",
+      "date": "1948",
+      "hook": "People with no shared language, no shared kitchen, not even a shared melody for prayer — built a state.",
+      "story": "Holocaust survivors from Europe, Jews from Yemen and Iraq, from North Africa and the Balkans, and the old-timers of the Yishuv fought side by side in the War of Independence. Some 6,000 of them fell — a full one percent of the Jewish population. Many fought beside people whose language they couldn't understand — and became brothers anyway.",
+      "quote": "I will take you from among the nations, gather you from all the countries, and bring you into your own land.",
+      "source": "Ezekiel 36:24",
+      "lesson": "What united them wasn't sameness. It was a shared fate — and the decision to carry it together."
+    },
+    "solomon": {
+      "title": "14,325 brothers and sisters in 36 hours",
+      "date": "24–25 May 1991",
+      "hook": "In a day and a half, Israel flew an entire community home.",
+      "story": "As Addis Ababa was about to fall in a civil war, Israel launched Operation Solomon. Some 35 aircraft flew back and forth, and within about 36 hours, 14,325 Ethiopian Jews arrived in Israel. One flight carried more than a thousand passengers — a world record for a single aircraft — and babies were born on the way.",
+      "quote": "All of Israel are responsible for one another.",
+      "source": "Babylonian Talmud, Shevuot 39a",
+      "lesson": "Mutual responsibility isn't a slogan. Sometimes it looks like a plane filled to the last seat."
+    },
+    "morningAfter": {
+      "title": "The morning after",
+      "date": "October 2023",
+      "hook": "On October 8, people who had been shouting at each other in the streets stood shoulder to shoulder.",
+      "story": "Hundreds of thousands of reservists reported within days — including many who had announced months earlier that they would stop volunteering. Protest organisations from both sides became aid centres overnight. Volunteers from every community — Haredi, secular, religious, Arab and Druze — cooked, drove, gave blood and opened their homes to evacuees.",
+      "quote": "How good and how pleasant it is for brothers to dwell together.",
+      "source": "Psalm 133:1",
+      "lesson": "We knew how to do it the day after. The challenge is to do it the day before."
+    }
+  },
+  "pattern": {
+    "eyebrow": "The pattern",
+    "title": "Why don't we learn?",
+    "intro": "Seven chapters, thousands of years — and the same order every time:",
+    "steps": {
+      "dispute": {
+        "title": "Disagreement",
+        "text": "A real argument, about things that matter."
+      },
+      "hatred": {
+        "title": "Hatred",
+        "text": "The other side stops being a brother and becomes an enemy."
+      },
+      "ruin": {
+        "title": "Ruin",
+        "text": "We call in a stranger, raise a hand, burn our own stores — and the real enemy walks in."
+      },
+      "forgetting": {
+        "title": "Forgetting",
+        "text": "We mourn, we write, we set a fast day — and we forget why."
+      }
+    },
+    "again": "And around again",
+    "tishaBeav": "Every year on Tisha B'Av some of us fast and some just pause for a moment. All of us remember the date — and forget the reason.",
+    "quote": "Remember the days of old; understand the years of every generation.",
+    "source": "Deuteronomy 32:7",
+    "lesson": "The verse asks for two things: to remember — and to understand. Remembering we know how to do; we have done it for thousands of years. The question is whether this time we also understand."
+  },
+  "video": {
+    "intro": "And sometimes a song says it best.",
+    "title": "A Tribe of Brothers and Sisters",
+    "caption": "Shevet Achim VeAchayot (A Tribe of Brothers and Sisters) · Galgalatz",
+    "play": "Play the video: A Tribe of Brothers and Sisters"
+  },
+  "bridge": {
+    "title": "They never asked",
+    "headline": "Our enemies don't care who we are or what we think.",
+    "intro": "Many of our disasters came from outside — from a hatred whose victims bore no blame at all. Even when we were divided, as in 2023, the guilt for murder belongs to the murderers alone.",
+    "events": {
+      "crusade": {
+        "year": "1096",
+        "text": "The First Crusade massacres the communities of Worms and Mainz"
+      },
+      "kishinev": {
+        "year": "1903",
+        "text": "The Kishinev pogrom"
+      },
+      "holocaust": {
+        "year": "1939–1945",
+        "text": "The Holocaust — six million Jews murdered"
+      },
+      "october": {
+        "year": "2023",
+        "text": "October 7"
+      }
+    },
+    "text": "The murderers never asked whether you were religious or secular, Zionist or not, right or left, Ashkenazi or Sephardi — or whom you voted for and what you protested against. In their eyes, we were all one.",
+    "lesson": "If those who hate us never told us apart — why should we?"
+  },
+  "lessons": {
+    "groups": {
+      "tradition": "From the tradition",
+      "modern": "From the state and science"
+    },
+    "argue": {
+      "title": "Argue without hating",
+      "text": "The schools of Shammai and Hillel disagreed on almost everything — and still married into each other's families (Yevamot 14b). In the end the law followed Hillel, because they were gentle and humble, studied Shammai's views as well, and even quoted them before their own.",
+      "quote": "These and those are the words of the living God.",
+      "source": "Eruvin 13b"
+    },
+    "responsible": {
+      "title": "Responsible for one another",
+      "text": "Responsibility isn't agreement. It's knowing that the fate of each of us is tied to the fate of all of us — those who agree with me and those who don't.",
+      "quote": "All of Israel are responsible for one another.",
+      "source": "Shevuot 39a"
+    },
+    "love": {
+      "title": "Baseless love",
+      "text": "If destruction came from hatred without a reason, the repair is love without a reason. Not because he thinks like me — because he is my brother.",
+      "quote": "If we were destroyed, and the world with us, by baseless hatred — we shall be rebuilt, and the world with us, by baseless love.",
+      "source": "Rav Kook, Orot HaKodesh III, p. 324"
+    },
+    "rally": {
+      "title": "Rally together — without being the same",
+      "text": "The state was born with a call for unity. The Declaration of Independence called on Jews everywhere to rally round the Yishuv — and in the same text promised equal rights to all its citizens, regardless of religion, race or sex. For the founders, unity never meant everyone thinking alike.",
+      "quote": "We appeal to the Jewish people throughout the Diaspora to rally round the Jews of Eretz-Israel.",
+      "source": "Declaration of Independence, 14 May 1948"
+    },
+    "tribes": {
+      "title": "Four tribes, one future",
+      "text": "In 2015 President Reuven Rivlin showed who sits in Israel's first-grade classrooms today. There is no longer one majority that sets the rules for everyone — every tribe is a minority. That, he said, calls for a new concept of partnership between the parts of our society.",
+      "fact": "38% secular · 15% national-religious · about a quarter Arab · close to a quarter Haredi",
+      "source": "First-grade classes, President Rivlin's speech, Herzliya Conference, 7 June 2015"
+    },
+    "contact": {
+      "title": "Meeting changes minds",
+      "text": "In 1954 the psychologist Gordon Allport proposed that real contact between groups — as equals, working toward a shared goal — reduces prejudice. Half a century later, researchers Pettigrew and Tropp pooled the studies on it: contact reduced prejudice, and not only toward the people met — toward the whole group.",
+      "fact": "515 studies",
+      "source": "Pettigrew & Tropp, Journal of Personality and Social Psychology, 2006"
+    }
+  },
+  "actions": {
+    "conversation": {
+      "title": "One conversation",
+      "text": "This week, talk with someone who thinks differently from you — to understand, not to convince."
+    },
+    "contempt": {
+      "title": "No contempt",
+      "text": "You can disagree fiercely with an opinion without despising the person who holds it. Before you post, ask whether you'd say it to your brother."
+    },
+    "table": {
+      "title": "An open table",
+      "text": "Invite someone from a world different from yours to a Friday-night dinner."
+    },
+    "share": {
+      "title": "Pass it on",
+      "text": "Share this site with the person you agree with least."
+    }
+  },
+  "share": {
+    "title": "Share the message",
+    "message": "We Are Brothers — thousands of years of history repeat one lesson, and we still haven't learned it: divided, we fall. Together, we rise.",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "facebook": "Facebook",
+    "x": "X",
+    "copy": "Copy link",
+    "copied": "Link copied",
+    "native": "Share"
+  },
+  "closing": {
+    "verse": "Let there be no strife between me and you… for we are brothers.",
+    "source": "Genesis 13:8"
+  },
+  "footer": {
+    "sources": "Every quote on this site is shown with its source. Quotes from the Tanakh and Talmud are given exactly; Josephus is quoted in translation.",
+    "top": "Back to top"
+  },
+  "notFound": {
+    "title": "This page wasn't found",
+    "text": "Maybe the link broke — but the story is still here.",
+    "home": "Go to the home page",
+    "metaTitle": "Page not found · We Are Brothers"
+  }
+}

@@ -1,0 +1,108 @@
+.skip-link {
+  position: absolute;
+  inset-inline-start: 1rem;
+  inset-block-start: -4rem;
+  z-index: 20;
+  padding: 0.6rem 1rem;
+  border-radius: 0.5rem;
+  color: var(--white);
+  background: var(--blue);
+
+  &:focus {
+    inset-block-start: 0.5rem;
+  }
+}
+
+.site-header {
+  position: sticky;
+  inset-block-start: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  height: var(--header-height);
+  padding-inline: var(--gutter);
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-block-end: 1px solid rgb(20 33 61 / 0.08);
+
+  /* Reading progress in flag blue, where scroll-driven animations are supported. */
+  &::after {
+    content: '';
+    position: absolute;
+    inset-inline: 0;
+    inset-block-end: -1px;
+    height: 3px;
+    background: var(--blue);
+    transform: scaleX(0);
+    transform-origin: var(--progress-origin, right);
+  }
+
+  &:dir(ltr)::after {
+    --progress-origin: left;
+  }
+}
+
+@supports (animation-timeline: scroll()) {
+  .site-header::after {
+    animation: progress linear both;
+    animation-timeline: scroll(root);
+  }
+}
+
+@keyframes progress {
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.brand {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: var(--blue);
+  text-decoration: none;
+}
+
+.language-switch {
+  padding: 0.3rem 0.9rem;
+  border: 1.5px solid var(--blue);
+  border-radius: 999px;
+  font-weight: 500;
+  color: var(--blue);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--white);
+    background: var(--blue);
+  }
+}
+
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 2rem;
+  padding: 2rem var(--gutter);
+  font-size: 0.9rem;
+  color: #c9d6ff;
+  background: var(--blue-night);
+
+  p {
+    max-width: 48rem;
+  }
+
+  nav {
+    display: flex;
+    gap: 1.25rem;
+  }
+
+  /* Comfortable tap targets on phones. */
+  nav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
+}
