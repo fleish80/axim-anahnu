@@ -29,7 +29,10 @@ export class DocumentHead {
     this.#meta.updateTag({ property: 'og:description', content: description });
     this.#meta.updateTag({ property: 'og:url', content: url });
     this.#meta.updateTag({ property: 'og:locale', content: LOCALES[lang] });
-    this.#meta.updateTag({ property: 'og:image', content: `${SITE_URL}/og/${lang}.jpg` });
+    const image = `${SITE_URL}/og/${lang}.jpg`;
+    this.#meta.updateTag({ property: 'og:image', content: image });
+    this.#meta.updateTag({ property: 'og:image:secure_url', content: image });
+    this.#meta.updateTag({ property: 'og:image:type', content: 'image/jpeg' });
     this.#meta.updateTag({ property: 'og:image:width', content: '1200' });
     this.#meta.updateTag({ property: 'og:image:height', content: '630' });
     this.#meta.updateTag({
@@ -37,7 +40,9 @@ export class DocumentHead {
       content: this.#translate('meta.imageAlt', lang),
     });
     this.#meta.updateTag({ name: 'twitter:card', content: 'summary_large_image' });
-    this.#meta.updateTag({ name: 'twitter:image', content: `${SITE_URL}/og/${lang}.jpg` });
+    this.#meta.updateTag({ name: 'twitter:title', content: title });
+    this.#meta.updateTag({ name: 'twitter:description', content: description });
+    this.#meta.updateTag({ name: 'twitter:image', content: image });
 
     this.#setLink('canonical', url);
     for (const language of LANGUAGES) {
