@@ -42,10 +42,10 @@ Thousands of years of history repeat one lesson — and we still haven't learned
 ## 1 · Opening — כבר היינו כאן / We have been here before
 
 **HE**
-המסורת שלנו לא מאשימה רק את האויבים. חז"ל כתבו בגלוי שבית המקדש השני חרב בגלל שנאת חינם — שנאה בין יהודים. שוב ושוב בהיסטוריה שלנו, הסכנה הגדולה לא עמדה רק בשער; היא ישבה אצלנו בבית. האתר הזה עובר על הרגעים האלה — וגם על הרגעים שבהם בחרנו אחרת והצלחנו. לא כדי להאשים. כדי שהפעם נלמד. ולא צריך להיות דתי כדי לראות את זה: גם ההיסטוריה, גם מייסדי המדינה וגם המדע של ימינו מספרים את אותו הסיפור.
+את האויבים קל להאשים. קשה יותר להודות ששוב ושוב בהיסטוריה שלנו, הסכנה הגדולה לא עמדה רק בשער — היא ישבה אצלנו בבית. אפילו חכמי התלמוד, שיכלו להאשים רק את רומא, כתבו בגלוי שבית המקדש השני חרב בגלל שנאת חינם — שנאה בין יהודים. האתר הזה עובר על הרגעים האלה — וגם על הרגעים שבהם בחרנו אחרת והצלחנו. לא כדי להאשים. כדי שהפעם נלמד. ולא צריך להיות דתי כדי לראות את זה: גם ההיסטוריה, גם מייסדי המדינה וגם המדע של ימינו מספרים את אותו הסיפור.
 
 **EN**
-Our tradition doesn't only blame our enemies. The sages wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. Again and again in our history, the greatest danger wasn't only at the gate; it was sitting inside our own house. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn. And you don't have to be religious to see it: history, the founders of the state and today's science all tell the same story.
+Blaming our enemies is easy. It's harder to admit that, again and again in our history, the greatest danger wasn't only at the gate — it was sitting inside our own house. Even the sages of the Talmud, who could have blamed Rome alone, wrote plainly that the Second Temple fell because of baseless hatred — hatred between Jews. This site walks through those moments — and through the moments when we chose differently and won. Not to blame anyone. So that this time, we learn. And you don't have to be religious to see it: history, the founders of the state and today's science all tell the same story.
 
 ---
 
@@ -105,13 +105,13 @@ After Queen Salome Alexandra died, her two sons, Hyrcanus and Aristobulus, fough
 *הוק:* כשרומא צרה על ירושלים, היו בעיר מזון לשנים. היהודים שרפו אותו בעצמם.
 העיר הייתה מחולקת בין פלגים קנאים שנלחמו זה בזה בתוך החומות, בזמן שהלגיונות עמדו בחוץ. כדי להכריח את כולם להילחם, שרפו הבריונים את מחסני החיטה והשעורה — והרעב עשה את השאר. חז"ל זכרו גם את הסיפור שהתחיל הכול: אדם שהושפל בסעודה כי בעל הבית התבלבל בין קמצא לבר קמצא, והחכמים שישבו שם ושתקו.
 *ציטוט:* "מקדש שני, שהיו עוסקין בתורה ובמצוות וגמילות חסדים — מפני מה חרב? מפני שהייתה בו שנאת חינם." — יומא ט, ב
-*לקח:* הם היו אנשי תורה וחסד — ובכל זאת חרבו. מצוות לא מחליפות את היחס שלנו זה לזה.
+*לקח:* הם היו אנשי תורה, לימוד וחסד — ובכל זאת חרבו. שום דבר — לא מצוות ולא ערכים טובים — לא מחליף את היחס שלנו זה לזה.
 
 **EN**
 *Hook:* When Rome besieged Jerusalem, the city held food for years. The Jews burned it themselves.
 The city was split between zealot factions that fought each other inside the walls while the legions waited outside. To force everyone into battle, the rebels set fire to the stores of wheat and barley — and famine did the rest. The sages also remembered the story where it all began: a man humiliated at a banquet because the host confused Kamtza with Bar Kamtza — and the rabbis who sat there and said nothing.
 *Quote:* "The Second Temple — where they engaged in Torah, commandments and acts of kindness — why was it destroyed? Because there was baseless hatred in it." — Talmud, Yoma 9b
-*Lesson:* They were people of Torah and kindness, and still it fell. Observance is no substitute for how we treat each other.
+*Lesson:* They were people of Torah, learning and kindness — and still it fell. Nothing — not commandments, not good values — replaces how we treat each other.
 
 ### 5 · האונייה שכמעט הטביעה את המדינה / The ship that almost sank the state
 **Date:** 20–22 June 1948
@@ -171,9 +171,9 @@ Closes Part I, right after chapter 7.
 3. **חורבן** — מזמינים זר, מרימים יד, שורפים את המחסנים — והאויב האמיתי נכנס.
 4. **שכחה** — מתאבלים, כותבים, קובעים צום — ושוכחים למה. *(וחוזר חלילה)*
 
-בכל שנה בתשעה באב אנחנו צמים על החורבן. אנחנו זוכרים את התאריך — ושוכחים את הסיבה.
+בכל שנה בתשעה באב יש שצמים ויש שרק עוצרים לרגע. כולנו זוכרים את התאריך — ושוכחים את הסיבה.
 *ציטוט:* "זְכֹר יְמוֹת עוֹלָם, בִּינוּ שְׁנוֹת דֹּר וָדֹר." — דברים לב, ז
-*לקח:* התורה ביקשה שני דברים: לזכור — ולהבין. את הראשון קיימנו. השאלה היא אם הפעם נקיים גם את השני.
+*לקח:* הפסוק מבקש שני דברים: לזכור — ולהבין. לזכור אנחנו יודעים; אנחנו עושים את זה כבר אלפי שנים. השאלה היא אם הפעם גם נבין.
 
 **EN**
 Seven chapters, thousands of years — and the same order every time:
@@ -182,9 +182,9 @@ Seven chapters, thousands of years — and the same order every time:
 3. **Ruin** — we call in a stranger, raise a hand, burn our own stores — and the real enemy walks in.
 4. **Forgetting** — we mourn, we write, we set a fast day — and we forget why. *(And around again.)*
 
-Every year on Tisha B'Av we fast over the destruction. We remember the date — and forget the reason.
+Every year on Tisha B'Av some of us fast and some just pause for a moment. All of us remember the date — and forget the reason.
 *Quote:* "Remember the days of old; understand the years of every generation." — Deuteronomy 32:7
-*Lesson:* The Torah asked for two things: to remember — and to understand. We kept the first. The question is whether this time we keep the second.
+*Lesson:* The verse asks for two things: to remember — and to understand. Remembering we know how to do; we have done it for thousands of years. The question is whether this time we also understand.
 
 *Note: written as "we", not "the Jews", and limited to the divided chapters — it never suggests that victims of persecution failed to learn something.*
 
@@ -272,11 +272,11 @@ Hundreds of thousands of reservists reported within days — including many who 
 
 ### L1 · להתווכח בלי לשנוא / Argue without hating
 **HE**
-בית שמאי ובית הלל נחלקו כמעט בכל דבר — ובכל זאת התחתנו אלה עם אלה (יבמות יד, ב). ההלכה נפסקה כבית הלל, כי הם היו נוחים וענוותנים, ולמדו גם את דברי בית שמאי — ואף הקדימו אותם לדבריהם.
+בית שמאי ובית הלל נחלקו כמעט בכל דבר — ובכל זאת התחתנו אלה עם אלה (יבמות יד, ב). ובסוף ההלכה נקבעה כדעת בית הלל, כי הם היו נוחים וצנועים, למדו גם את דברי בית שמאי — ואף הביאו אותם לפני דבריהם.
 *ציטוט:* "אלו ואלו דברי אלהים חיים." — עירובין יג, ב · "כל מחלוקת שהיא לשם שמים, סופה להתקיים." — אבות ה, יז (בחלק מהמהדורות ה, כ)
 
 **EN**
-The schools of Shammai and Hillel disagreed on almost everything — and still married into each other's families (Yevamot 14b). The law follows Hillel, because they were gentle and humble, studied Shammai's views as well, and even quoted them before their own.
+The schools of Shammai and Hillel disagreed on almost everything — and still married into each other's families (Yevamot 14b). In the end the law followed Hillel, because they were gentle and humble, studied Shammai's views as well, and even quoted them before their own.
 *Quote:* "These and those are the words of the living God." — Eruvin 13b · "Every dispute for the sake of Heaven will endure." — Avot 5:17 (5:20 in some editions)
 
 ### L2 · אחראים זה לזה / Responsible for one another
