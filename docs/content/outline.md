@@ -10,6 +10,7 @@ The Hebrew needs a native reader's pass before anything ships. Quotes from Tanak
 | 0 | Hero | The name of the site and its one idea, in five seconds |
 | 1 | Opening | "We have been here before" — the pattern, in one paragraph |
 | I | When we were divided (7 chapters) | Moments when division among us opened the door to disaster |
+| — | The pattern: "Why don't we learn?" | Closes Part I: the cycle that repeats in every chapter, and why we keep repeating it |
 | — | Bridge: "They never asked" | Persecution from outside — never our fault, and it never asked which kind of Jew you were |
 | II | When we stood together (4 chapters) | Moments when unity saved us |
 | III | The lesson (3 ideas) | Disagree without hatred · responsible for each other · baseless love |
@@ -26,13 +27,13 @@ Every chapter has the same shape: **title · date · one-line hook · short stor
 > כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ
 > — בראשית יג, ח
 
-אלפי שנות היסטוריה חוזרות על אותו לקח: כשאנחנו מפולגים — אנחנו נופלים. כשאנחנו יחד — אנחנו קמים.
+אלפי שנות היסטוריה חוזרות על אותו לקח — ועדיין לא למדנו אותו: כשאנחנו מפולגים — אנחנו נופלים. כשאנחנו יחד — אנחנו קמים.
 
 **EN**
 > "For we are brothers."
 > — Genesis 13:8
 
-Thousands of years of history repeat one lesson: divided, we fall. Together, we rise.
+Thousands of years of history repeat one lesson — and we still haven't learned it: divided, we fall. Together, we rise.
 
 *Note: the site's name comes from this verse — Abraham to Lot, when their herdsmen quarrel: "Let there be no strife between me and you… for we are brothers." Abraham chose to end the quarrel before it became a war.*
 
@@ -156,6 +157,36 @@ The dispute over the Oslo Accords was deep and legitimate — but the debate tur
 The dispute over the judicial overhaul brought hundreds of thousands into the streets every week, on both sides. Families stopped talking, friends stopped meeting, and each side saw the other as a danger to the state. This site won't tell you who was right — it was written for both sides. On 7 October 2023 Hamas attacked; some 1,200 people were murdered and 251 were taken hostage. Official inquiries will determine what failed. The question our history keeps asking doesn't wait for them.
 *Quote:* *(suggested: no quote in this chapter — it speaks for itself)*
 *Lesson:* We don't have to agree. We have to remember that the person across the argument is a brother — and that the enemy never tells us apart.
+
+---
+
+## The pattern — למה אנחנו לא לומדים? / Why don't we learn?
+
+Closes Part I, right after chapter 7.
+
+**HE**
+שבעה פרקים, אלפי שנים — ואותו סדר בכל פעם:
+1. **מחלוקת** — ויכוח אמיתי, על דברים חשובים.
+2. **שנאה** — הצד השני מפסיק להיות אח והופך לאויב.
+3. **חורבן** — מזמינים זר, מרימים יד, שורפים את המחסנים — והאויב האמיתי נכנס.
+4. **שכחה** — מתאבלים, כותבים, קובעים צום — ושוכחים למה. *(וחוזר חלילה)*
+
+בכל שנה בתשעה באב אנחנו צמים על החורבן. אנחנו זוכרים את התאריך — ושוכחים את הסיבה.
+*ציטוט:* "זְכֹר יְמוֹת עוֹלָם, בִּינוּ שְׁנוֹת דֹּר וָדֹר." — דברים לב, ז
+*לקח:* התורה ביקשה שני דברים: לזכור — ולהבין. את הראשון קיימנו. השאלה היא אם הפעם נקיים גם את השני.
+
+**EN**
+Seven chapters, thousands of years — and the same order every time:
+1. **Disagreement** — a real argument, about things that matter.
+2. **Hatred** — the other side stops being a brother and becomes an enemy.
+3. **Ruin** — we call in a stranger, raise a hand, burn our own stores — and the real enemy walks in.
+4. **Forgetting** — we mourn, we write, we set a fast day — and we forget why. *(And around again.)*
+
+Every year on Tisha B'Av we fast over the destruction. We remember the date — and forget the reason.
+*Quote:* "Remember the days of old; understand the years of every generation." — Deuteronomy 32:7
+*Lesson:* The Torah asked for two things: to remember — and to understand. We kept the first. The question is whether this time we keep the second.
+
+*Note: written as "we", not "the Jews", and limited to the divided chapters — it never suggests that victims of persecution failed to learn something.*
 
 ---
 

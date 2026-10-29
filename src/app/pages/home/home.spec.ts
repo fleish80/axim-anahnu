@@ -59,6 +59,25 @@ describe('Home', () => {
     expect(temple?.querySelector('figcaption')?.textContent).toBe('Babylonian Talmud, Yoma 9b');
   });
 
+  it('should end the divided part by asking why we do not learn, with the cycle that repeats', () => {
+    const pattern = page.querySelector('#divided aa-pattern') as HTMLElement;
+
+    expect(pattern.querySelector('h3')?.textContent).toBe("Why don't we learn?");
+    expect([...pattern.querySelectorAll('.cycle strong')].map((step) => step.textContent)).toEqual([
+      'Disagreement',
+      'Hatred',
+      'Ruin',
+      'Forgetting',
+    ]);
+    expect(pattern.querySelector('figcaption')?.textContent).toBe('Deuteronomy 32:7');
+  });
+
+  it('should say in the hero that we still have not learned the lesson', () => {
+    expect(page.querySelector('aa-hero .tagline')?.textContent).toContain(
+      "we still haven't learned it",
+    );
+  });
+
   it('should list the outside persecutions, the three lessons and the four actions', () => {
     expect(page.querySelectorAll('aa-bridge li')).toHaveLength(4);
     expect(texts('aa-lessons h3')).toEqual([

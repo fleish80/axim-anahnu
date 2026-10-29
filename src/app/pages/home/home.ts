@@ -8,6 +8,7 @@ import { Chapter } from '../../sections/chapter';
 import { Closing } from '../../sections/closing';
 import { Hero } from '../../sections/hero';
 import { Lessons } from '../../sections/lessons';
+import { Pattern } from '../../sections/pattern';
 import { PartHeader } from '../../sections/part-header';
 
 @Component({
@@ -19,6 +20,7 @@ import { PartHeader } from '../../sections/part-header';
     Hero,
     PartHeader,
     Chapter,
+    Pattern,
     Bridge,
     Lessons,
     Actions,
@@ -46,6 +48,7 @@ import { PartHeader } from '../../sections/part-header';
         @for (chapter of divided; track chapter.id; let i = $index) {
           <aa-chapter [chapter]="chapter" [number]="i + 1" />
         }
+        <aa-pattern />
       </section>
 
       <aa-bridge />

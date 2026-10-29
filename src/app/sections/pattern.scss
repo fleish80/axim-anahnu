@@ -1,0 +1,133 @@
+.pattern {
+  max-width: 62rem;
+  margin: clamp(3rem, 8vw, 5rem) auto 0;
+  padding: clamp(2rem, 6vw, 3.5rem) clamp(1.25rem, 4vw, 3rem);
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  border-radius: 1.25rem;
+  background: rgb(0 0 0 / 0.25);
+  text-align: center;
+}
+
+h3 {
+  margin-block: 0.4rem 0.75rem;
+  font-size: clamp(2.2rem, 6vw, 3.6rem);
+  font-weight: 900;
+  color: var(--white);
+}
+
+.intro {
+  font-size: clamp(1.1rem, 2.4vw, 1.3rem);
+  color: var(--text-muted);
+}
+
+.cycle {
+  display: grid;
+  gap: 1rem;
+  margin: 2.5rem 0 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+
+  @media (min-width: 46rem) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+li {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 1.25rem 1rem;
+  border-radius: 0.9rem;
+  background: rgb(255 255 255 / 0.05);
+
+  strong {
+    font-family: var(--serif);
+    font-size: 1.45rem;
+    color: var(--white);
+  }
+}
+
+/* Arrows between the steps follow the reading direction. */
+@media (min-width: 46rem) {
+  li:not(:last-child)::after {
+    content: '→';
+    position: absolute;
+    inset-block-start: 50%;
+    inset-inline-end: -0.95rem;
+    z-index: 1;
+    transform: translateY(-50%);
+    color: var(--accent);
+  }
+
+  li:not(:last-child):dir(rtl)::after {
+    content: '←';
+  }
+}
+
+.step-number {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  font: 700 0.95rem var(--sans);
+  color: var(--ash-1);
+  background: var(--accent);
+}
+
+.step-text {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+}
+
+/* Forgetting fades out, the way the lesson does. */
+.forgetting .step-text {
+  mask-image: linear-gradient(to bottom, #000 30%, transparent 105%);
+}
+
+.again {
+  margin-block-start: 1.25rem;
+  font-weight: 500;
+  color: var(--accent);
+
+  span {
+    font-size: 1.3rem;
+  }
+}
+
+.tisha-beav {
+  max-width: 40rem;
+  margin: 2.75rem auto 0;
+  font-family: var(--serif);
+  font-size: clamp(1.4rem, 3.6vw, 2rem);
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--white);
+}
+
+figure {
+  margin: 2.25rem auto 0;
+}
+
+blockquote {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(1.4rem, 3.4vw, 1.9rem);
+  color: var(--accent);
+}
+
+figcaption {
+  margin-block-start: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.lesson {
+  max-width: 38rem;
+  margin: 1.5rem auto 0;
+  font-size: clamp(1.1rem, 2.4vw, 1.3rem);
+}

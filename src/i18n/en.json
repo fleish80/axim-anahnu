@@ -6,12 +6,12 @@
   },
   "meta": {
     "title": "We Are Brothers — the lesson our history keeps repeating",
-    "description": "Thousands of years of Jewish history repeat one lesson: divided, we fall. Together, we rise."
+    "description": "Thousands of years of Jewish history repeat one lesson — and we still haven't learned it: divided, we fall. Together, we rise."
   },
   "hero": {
     "verse": "For we are brothers.",
     "source": "Genesis 13:8",
-    "tagline": "Thousands of years of history repeat one lesson:",
+    "tagline": "Thousands of years of history repeat one lesson — and we still haven't learned it:",
     "taglineStrong": "divided, we fall. Together, we rise.",
     "scroll": "Scroll to the story",
     "illustration": "Two brothers seen from behind, one wearing a kippah and one without, embracing under a single flag of Israel"
@@ -144,6 +144,34 @@
       "lesson": "We knew how to do it the day after. The challenge is to do it the day before."
     }
   },
+  "pattern": {
+    "eyebrow": "The pattern",
+    "title": "Why don't we learn?",
+    "intro": "Seven chapters, thousands of years — and the same order every time:",
+    "steps": {
+      "dispute": {
+        "title": "Disagreement",
+        "text": "A real argument, about things that matter."
+      },
+      "hatred": {
+        "title": "Hatred",
+        "text": "The other side stops being a brother and becomes an enemy."
+      },
+      "ruin": {
+        "title": "Ruin",
+        "text": "We call in a stranger, raise a hand, burn our own stores — and the real enemy walks in."
+      },
+      "forgetting": {
+        "title": "Forgetting",
+        "text": "We mourn, we write, we set a fast day — and we forget why."
+      }
+    },
+    "again": "And around again",
+    "tishaBeav": "Every year on Tisha B'Av we fast over the destruction. We remember the date — and forget the reason.",
+    "quote": "Remember the days of old; understand the years of every generation.",
+    "source": "Deuteronomy 32:7",
+    "lesson": "The Torah asked for two things: to remember — and to understand. We kept the first. The question is whether this time we keep the second."
+  },
   "video": {
     "intro": "And sometimes a song says it best.",
     "title": "A Tribe of Brothers and Sisters",
@@ -214,7 +242,7 @@
   },
   "share": {
     "title": "Share the message",
-    "message": "We Are Brothers — thousands of years of history repeat one lesson: divided, we fall. Together, we rise.",
+    "message": "We Are Brothers — thousands of years of history repeat one lesson, and we still haven't learned it: divided, we fall. Together, we rise.",
     "whatsapp": "WhatsApp",
     "telegram": "Telegram",
     "facebook": "Facebook",

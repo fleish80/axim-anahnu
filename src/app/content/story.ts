@@ -24,6 +24,9 @@ export const TOGETHER_CHAPTERS: readonly ChapterRef[] = [
   { id: 'morningAfter', hasQuote: true },
 ];
 
+/** The cycle every divided chapter goes through. */
+export const PATTERN_STEPS = ['dispute', 'hatred', 'ruin', 'forgetting'] as const;
+
 export const BRIDGE_EVENTS = ['crusade', 'kishinev', 'holocaust', 'october'] as const;
 
 export const LESSONS = ['argue', 'responsible', 'love'] as const;
